@@ -1,0 +1,889 @@
+{
+    "last_updated": "2025-12-21",
+    "minecraft_version": "1.20.1",
+    "forge_version": "47.2.17",
+    "mods": [
+        {
+            "name": "Ae2wtlib",
+            "filename": "ae2wtlib-15.2.1-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ae2wtlib-15.2.1-forge.jar",
+            "size": 213454,
+            "required": true
+        },
+        {
+            "name": "Aeroblender",
+            "filename": "aeroblender-1.20.1-1.0.1-neoforge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroblender-1.20.1-1.0.1-neoforge.jar",
+            "size": 21641,
+            "required": true
+        },
+        {
+            "name": "Aether",
+            "filename": "aether-1.20.1-1.2.0-neoforge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aether-1.20.1-1.2.0-neoforge.jar",
+            "size": 23729865,
+            "required": true
+        },
+        {
+            "name": "Alexscaves",
+            "filename": "alexscaves-1.1.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alexscaves-1.1.2.jar",
+            "size": 61574588,
+            "required": true
+        },
+        {
+            "name": "Alexsmobs",
+            "filename": "alexsmobs-1.22.7.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alexsmobs-1.22.7.jar",
+            "size": 26039289,
+            "required": true
+        },
+        {
+            "name": "Amendments",
+            "filename": "amendments-1.20-1.1.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/amendments-1.20-1.1.1.jar",
+            "size": 904659,
+            "required": true
+        },
+        {
+            "name": "Appleskin Mc1.20.1",
+            "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "size": 47428,
+            "required": true
+        },
+        {
+            "name": "Appliedenergistics2",
+            "filename": "appliedenergistics2-forge-15.0.21.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/appliedenergistics2-forge-15.0.21.jar",
+            "size": 9805652,
+            "required": true
+        },
+        {
+            "name": "Architectury",
+            "filename": "architectury-9.2.14-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/architectury-9.2.14-forge.jar",
+            "size": 580602,
+            "required": true
+        },
+        {
+            "name": "Argonauts",
+            "filename": "argonauts-forge-1.20.1-1.0.8.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/argonauts-forge-1.20.1-1.0.8.jar",
+            "size": 648342,
+            "required": true
+        },
+        {
+            "name": "Ars_creo",
+            "filename": "ars_creo-1.20.1-4.0.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ars_creo-1.20.1-4.0.1.jar",
+            "size": 60639,
+            "required": true
+        },
+        {
+            "name": "Ars_nouveau All",
+            "filename": "ars_nouveau-1.20.1-4.9.0-all.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ars_nouveau-1.20.1-4.9.0-all.jar",
+            "size": 12694330,
+            "required": true
+        },
+        {
+            "name": "Arseng",
+            "filename": "arseng-1.1.5.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/arseng-1.1.5.jar",
+            "size": 142970,
+            "required": true
+        },
+        {
+            "name": "Athena",
+            "filename": "athena-forge-1.20.1-3.1.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/athena-forge-1.20.1-3.1.1.jar",
+            "size": 91812,
+            "required": true
+        },
+        {
+            "name": "Automodpack Mc1.20.1 Beta42",
+            "filename": "automodpack-mc1.20.1-forge-4.0.0-beta42.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/automodpack-mc1.20.1-forge-4.0.0-beta42.jar",
+            "size": 23411354,
+            "required": true
+        },
+        {
+            "name": "Balm",
+            "filename": "balm-forge-1.20.1-7.2.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/balm-forge-1.20.1-7.2.2.jar",
+            "size": 343714,
+            "required": true
+        },
+        {
+            "name": "Bellsandwhistles 1.20.x",
+            "filename": "bellsandwhistles-0.4.3-1.20.x.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bellsandwhistles-0.4.3-1.20.x.jar",
+            "size": 196447,
+            "required": true
+        },
+        {
+            "name": "Betterarcheology",
+            "filename": "betterarcheology-1.1.6-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/betterarcheology-1.1.6-1.20.1.jar",
+            "size": 885928,
+            "required": true
+        },
+        {
+            "name": "Betterf3",
+            "filename": "BetterF3-7.0.2-Forge-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "size": 468517,
+            "required": true
+        },
+        {
+            "name": "Biomesoplenty",
+            "filename": "BiomesOPlenty-1.20.1-18.0.0.598.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BiomesOPlenty-1.20.1-18.0.0.598.jar",
+            "size": 21800751,
+            "required": true
+        },
+        {
+            "name": "Botarium",
+            "filename": "botarium-forge-1.20.1-2.3.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/botarium-forge-1.20.1-2.3.3.jar",
+            "size": 157591,
+            "required": true
+        },
+        {
+            "name": "Cadmus",
+            "filename": "cadmus-forge-1.20.1-1.0.7.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cadmus-forge-1.20.1-1.0.7.jar",
+            "size": 514800,
+            "required": true
+        },
+        {
+            "name": "Caelus 3.1.0+1.20",
+            "filename": "caelus-forge-3.1.0+1.20.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/caelus-forge-3.1.0+1.20.jar",
+            "size": 38169,
+            "required": true
+        },
+        {
+            "name": "Canary Mc1.20.1",
+            "filename": "canary-mc1.20.1-0.3.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/canary-mc1.20.1-0.3.3.jar",
+            "size": 594191,
+            "required": true
+        },
+        {
+            "name": "Carryon",
+            "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/carryon-forge-1.20.1-2.1.2.7.jar",
+            "size": 439457,
+            "required": true
+        },
+        {
+            "name": "Chat_heads",
+            "filename": "chat_heads-0.10.31-forge-1.20.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chat_heads-0.10.31-forge-1.20.jar",
+            "size": 207152,
+            "required": true
+        },
+        {
+            "name": "Chipped",
+            "filename": "Chipped-forge-1.20.1-3.0.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Chipped-forge-1.20.1-3.0.4.jar",
+            "size": 15066398,
+            "required": true
+        },
+        {
+            "name": "Chunky",
+            "filename": "Chunky-1.3.136.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Chunky-1.3.136.jar",
+            "size": 339602,
+            "required": true
+        },
+        {
+            "name": "Citadel",
+            "filename": "citadel-2.5.3-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/citadel-2.5.3-1.20.1.jar",
+            "size": 3175394,
+            "required": true
+        },
+        {
+            "name": "Cloth Config",
+            "filename": "cloth-config-11.1.118-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cloth-config-11.1.118-forge.jar",
+            "size": 1168391,
+            "required": true
+        },
+        {
+            "name": "Clumps",
+            "filename": "Clumps-forge-1.20.1-12.0.0.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Clumps-forge-1.20.1-12.0.0.3.jar",
+            "size": 20299,
+            "required": true
+        },
+        {
+            "name": "Controlling",
+            "filename": "Controlling-forge-1.20.1-12.0.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Controlling-forge-1.20.1-12.0.2.jar",
+            "size": 115280,
+            "required": true
+        },
+        {
+            "name": "Create 0.5.1.f",
+            "filename": "create-1.20.1-0.5.1.f.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-1.20.1-0.5.1.f.jar",
+            "size": 14964127,
+            "required": true
+        },
+        {
+            "name": "Create New Age",
+            "filename": "create-new-age-forge-1.20.1-1.1.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-new-age-forge-1.20.1-1.1.2.jar",
+            "size": 663575,
+            "required": true
+        },
+        {
+            "name": "Create Stuff Additions1.20.1_v2.0.4a",
+            "filename": "create-stuff-additions1.20.1_v2.0.4a.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-stuff-additions1.20.1_v2.0.4a.jar",
+            "size": 1151274,
+            "required": true
+        },
+        {
+            "name": "Create_enchantment_industry For Create 0.5.1.f",
+            "filename": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+            "size": 496363,
+            "required": true
+        },
+        {
+            "name": "Create_jetpack",
+            "filename": "create_jetpack-forge-4.2.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_jetpack-forge-4.2.1.jar",
+            "size": 229959,
+            "required": true
+        },
+        {
+            "name": "Create_mechanical_spawner 0.0.14.e",
+            "filename": "create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
+            "size": 406243,
+            "required": true
+        },
+        {
+            "name": "Createaddition",
+            "filename": "createaddition-1.20.1-1.2.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createaddition-1.20.1-1.2.2.jar",
+            "size": 1511009,
+            "required": true
+        },
+        {
+            "name": "Createappliedkinetics",
+            "filename": "createappliedkinetics-1.3.2-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createappliedkinetics-1.3.2-1.20.1.jar",
+            "size": 71159,
+            "required": true
+        },
+        {
+            "name": "Createbigcannons 0.5.3.b",
+            "filename": "createbigcannons-forge-1.20.1-0.5.3.b.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbigcannons-forge-1.20.1-0.5.3.b.jar",
+            "size": 2312661,
+            "required": true
+        },
+        {
+            "name": "Creeperoverhaul",
+            "filename": "creeperoverhaul-3.0.2-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creeperoverhaul-3.0.2-forge.jar",
+            "size": 1456860,
+            "required": true
+        },
+        {
+            "name": "Curios 5.7.0+1.20.1",
+            "filename": "curios-forge-5.7.0+1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/curios-forge-5.7.0+1.20.1.jar",
+            "size": 331413,
+            "required": true
+        },
+        {
+            "name": "Deep_aether",
+            "filename": "deep_aether-1.20.1-1.0.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/deep_aether-1.20.1-1.0.2.jar",
+            "size": 8806121,
+            "required": true
+        },
+        {
+            "name": "Doapi",
+            "filename": "doapi-1.2.8-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/doapi-1.2.8-forge.jar",
+            "size": 404831,
+            "required": true
+        },
+        {
+            "name": "Duckling",
+            "filename": "duckling-3.0.0-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/duckling-3.0.0-forge.jar",
+            "size": 144057,
+            "required": true
+        },
+        {
+            "name": "Durability101",
+            "filename": "Durability101-forge-1.20-0.0.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Durability101-forge-1.20-0.0.4.jar",
+            "size": 5574,
+            "required": true
+        },
+        {
+            "name": "Elytraslot 6.3.0+1.20.1",
+            "filename": "elytraslot-forge-6.3.0+1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/elytraslot-forge-6.3.0+1.20.1.jar",
+            "size": 56985,
+            "required": true
+        },
+        {
+            "name": "Embeddium 0.3.6+mc1.20.1",
+            "filename": "embeddium-0.3.6+mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/embeddium-0.3.6+mc1.20.1.jar",
+            "size": 984069,
+            "required": true
+        },
+        {
+            "name": "Endermanoverhaul",
+            "filename": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/endermanoverhaul-forge-1.20.1-1.0.4.jar",
+            "size": 1208062,
+            "required": true
+        },
+        {
+            "name": "Endlessbiomes 1.5   1.20.1",
+            "filename": "EndlessBiomes 1.5 - 1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/EndlessBiomes 1.5 - 1.20.1.jar",
+            "size": 2919909,
+            "required": true
+        },
+        {
+            "name": "Entity_model_features_forge_1.20.1",
+            "filename": "entity_model_features_forge_1.20.1-1.2.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/entity_model_features_forge_1.20.1-1.2.3.jar",
+            "size": 303029,
+            "required": true
+        },
+        {
+            "name": "Entity_texture_features_forge_1.20.1",
+            "filename": "entity_texture_features_forge_1.20.1-5.2.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/entity_texture_features_forge_1.20.1-5.2.3.jar",
+            "size": 458883,
+            "required": true
+        },
+        {
+            "name": "Entityculling Mc1.20.1",
+            "filename": "entityculling-forge-1.6.2-mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/entityculling-forge-1.6.2-mc1.20.1.jar",
+            "size": 62127,
+            "required": true
+        },
+        {
+            "name": "Fairy Origin",
+            "filename": "fairy-origin-2.0.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/fairy-origin-2.0.0.jar",
+            "size": 240894,
+            "required": true
+        },
+        {
+            "name": "Farmersdelight",
+            "filename": "FarmersDelight-1.20.1-1.2.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FarmersDelight-1.20.1-1.2.4.jar",
+            "size": 2915349,
+            "required": true
+        },
+        {
+            "name": "Fastload Reforged Mc1.20.1",
+            "filename": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "size": 66989,
+            "required": true
+        },
+        {
+            "name": "Ferritecore",
+            "filename": "ferritecore-6.0.1-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ferritecore-6.0.1-forge.jar",
+            "size": 123034,
+            "required": true
+        },
+        {
+            "name": "Framedblocks",
+            "filename": "FramedBlocks-9.1.6.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FramedBlocks-9.1.6.jar",
+            "size": 3831258,
+            "required": true
+        },
+        {
+            "name": "Friendsandfoes Mc1.20.1",
+            "filename": "friendsandfoes-forge-mc1.20.1-2.0.9.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/friendsandfoes-forge-mc1.20.1-2.0.9.jar",
+            "size": 3422752,
+            "required": true
+        },
+        {
+            "name": "Galosphere",
+            "filename": "Galosphere-1.20.1-1.4.1-Forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Galosphere-1.20.1-1.4.1-Forge.jar",
+            "size": 34909449,
+            "required": true
+        },
+        {
+            "name": "Geckolib",
+            "filename": "geckolib-forge-1.20.1-4.4.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/geckolib-forge-1.20.1-4.4.2.jar",
+            "size": 989799,
+            "required": true
+        },
+        {
+            "name": "Gravestone",
+            "filename": "gravestone-forge-1.20.1-1.0.14.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gravestone-forge-1.20.1-1.0.14.jar",
+            "size": 313964,
+            "required": true
+        },
+        {
+            "name": "Handcrafted",
+            "filename": "handcrafted-forge-1.20.1-3.0.6.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/handcrafted-forge-1.20.1-3.0.6.jar",
+            "size": 7111059,
+            "required": true
+        },
+        {
+            "name": "Harvestwithease",
+            "filename": "harvestwithease-1.20.1-8.0.1.0-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/harvestwithease-1.20.1-8.0.1.0-forge.jar",
+            "size": 478297,
+            "required": true
+        },
+        {
+            "name": "Heracles",
+            "filename": "heracles-forge-1.20.1-1.1.10.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/heracles-forge-1.20.1-1.1.10.jar",
+            "size": 1387346,
+            "required": true
+        },
+        {
+            "name": "Highlighter",
+            "filename": "Highlighter-1.20.1-forge-1.1.9.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Highlighter-1.20.1-forge-1.1.9.jar",
+            "size": 29438,
+            "required": true
+        },
+        {
+            "name": "Iceandfire Beta",
+            "filename": "iceandfire-2.1.13-1.20.1-beta-4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/iceandfire-2.1.13-1.20.1-beta-4.jar",
+            "size": 21767038,
+            "required": true
+        },
+        {
+            "name": "Iceberg",
+            "filename": "Iceberg-1.20.1-forge-1.1.21.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Iceberg-1.20.1-forge-1.1.21.jar",
+            "size": 133685,
+            "required": true
+        },
+        {
+            "name": "Immediatelyfast 1.2.10+1.20.4",
+            "filename": "ImmediatelyFast-Forge-1.2.10+1.20.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar",
+            "size": 401371,
+            "required": true
+        },
+        {
+            "name": "Immersive_armors 1.6.1+1.20.1",
+            "filename": "immersive_armors-1.6.1+1.20.1-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/immersive_armors-1.6.1+1.20.1-forge.jar",
+            "size": 1238900,
+            "required": true
+        },
+        {
+            "name": "Immersive_paintings 0.6.7+1.20.1",
+            "filename": "immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "size": 4841253,
+            "required": true
+        },
+        {
+            "name": "Interiors 0.5.2+mc1.20.1",
+            "filename": "interiors-0.5.2+mc1.20.1-FORGE.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/interiors-0.5.2+mc1.20.1-FORGE.jar",
+            "size": 414188,
+            "required": true
+        },
+        {
+            "name": "Inventoryprofilesnext",
+            "filename": "InventoryProfilesNext-forge-1.20-1.10.9.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-forge-1.20-1.10.9.jar",
+            "size": 1362759,
+            "required": true
+        },
+        {
+            "name": "Jade",
+            "filename": "Jade-1.20.1-forge-11.8.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Jade-1.20.1-forge-11.8.0.jar",
+            "size": 525770,
+            "required": true
+        },
+        {
+            "name": "Jei",
+            "filename": "jei-1.20.1-forge-15.3.0.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/jei-1.20.1-forge-15.3.0.4.jar",
+            "size": 1127828,
+            "required": true
+        },
+        {
+            "name": "Justzoom_forge_1.0.2_mc_1.20.1",
+            "filename": "justzoom_forge_1.0.2_MC_1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/justzoom_forge_1.0.2_MC_1.20.1.jar",
+            "size": 9151,
+            "required": true
+        },
+        {
+            "name": "Konkrete_forge_1.8.0_mc_1.20",
+            "filename": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "size": 625185,
+            "required": true
+        },
+        {
+            "name": "Kotlinforforge All",
+            "filename": "kotlinforforge-4.10.0-all.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/kotlinforforge-4.10.0-all.jar",
+            "size": 7778600,
+            "required": true
+        },
+        {
+            "name": "Letsdo Bakery 1.1.3b",
+            "filename": "letsdo-bakery-forge-1.1.3b.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-bakery-forge-1.1.3b.jar",
+            "size": 1543504,
+            "required": true
+        },
+        {
+            "name": "Letsdo Candlelight",
+            "filename": "letsdo-candlelight-forge-1.2.8.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-candlelight-forge-1.2.8.jar",
+            "size": 2690040,
+            "required": true
+        },
+        {
+            "name": "Letsdo Herbalbrews",
+            "filename": "letsdo-herbalbrews-forge-1.0.3-1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-herbalbrews-forge-1.0.3-1.jar",
+            "size": 600257,
+            "required": true
+        },
+        {
+            "name": "Letsdo Meadow",
+            "filename": "letsdo-meadow-forge-1.3.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-meadow-forge-1.3.4.jar",
+            "size": 2764659,
+            "required": true
+        },
+        {
+            "name": "Letsdo Nethervinery",
+            "filename": "letsdo-nethervinery-forge-1.2.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-nethervinery-forge-1.2.3.jar",
+            "size": 524493,
+            "required": true
+        },
+        {
+            "name": "Letsdo Vinery",
+            "filename": "letsdo-vinery-forge-1.4.8.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-vinery-forge-1.4.8.jar",
+            "size": 3696653,
+            "required": true
+        },
+        {
+            "name": "Libipn",
+            "filename": "libIPN-forge-1.20-4.0.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/libIPN-forge-1.20-4.0.1.jar",
+            "size": 694207,
+            "required": true
+        },
+        {
+            "name": "Log Begone",
+            "filename": "Log-Begone-Forge-1.20.1-1.0.8.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Log-Begone-Forge-1.20.1-1.0.8.jar",
+            "size": 58508,
+            "required": true
+        },
+        {
+            "name": "Medievalorigins 6.1.1+1.20.1",
+            "filename": "medievalorigins-6.1.1+1.20.1-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/medievalorigins-6.1.1+1.20.1-forge.jar",
+            "size": 2624589,
+            "required": true
+        },
+        {
+            "name": "Memoryleakfix 1.17+",
+            "filename": "memoryleakfix-forge-1.17+-1.1.5.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "size": 227925,
+            "required": true
+        },
+        {
+            "name": "Modernfix 5.13.0+mc1.20.1",
+            "filename": "modernfix-forge-5.13.0+mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/modernfix-forge-5.13.0+mc1.20.1.jar",
+            "size": 751240,
+            "required": true
+        },
+        {
+            "name": "Moonlight",
+            "filename": "moonlight-1.20-2.10.8-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/moonlight-1.20-2.10.8-forge.jar",
+            "size": 1140533,
+            "required": true
+        },
+        {
+            "name": "Moremobvariants Forge+1.20",
+            "filename": "moremobvariants-forge+1.20-1.2.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/moremobvariants-forge+1.20-1.2.2.jar",
+            "size": 188456,
+            "required": true
+        },
+        {
+            "name": "Mousetweaks Mc1.20",
+            "filename": "MouseTweaks-forge-mc1.20-2.25.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/MouseTweaks-forge-mc1.20-2.25.jar",
+            "size": 76146,
+            "required": true
+        },
+        {
+            "name": "Mythicmounts",
+            "filename": "mythicmounts-20.1-7.4.2-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/mythicmounts-20.1-7.4.2-forge.jar",
+            "size": 4335508,
+            "required": true
+        },
+        {
+            "name": "Naturalist",
+            "filename": "naturalist-forge-4.0.3-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/naturalist-forge-4.0.3-1.20.1.jar",
+            "size": 3343324,
+            "required": true
+        },
+        {
+            "name": "Nochatreports V2.2.2",
+            "filename": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "size": 272740,
+            "required": true
+        },
+        {
+            "name": "Notenoughanimations Mc1.20.1",
+            "filename": "notenoughanimations-forge-1.7.1-mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/notenoughanimations-forge-1.7.1-mc1.20.1.jar",
+            "size": 420640,
+            "required": true
+        },
+        {
+            "name": "Oculus Mc1.20.1 1.6.15a",
+            "filename": "oculus-mc1.20.1-1.6.15a.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/oculus-mc1.20.1-1.6.15a.jar",
+            "size": 2806358,
+            "required": true
+        },
+        {
+            "name": "Origins All",
+            "filename": "origins-forge-1.20.1-1.10.0.5-all.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/origins-forge-1.20.1-1.10.0.5-all.jar",
+            "size": 2304816,
+            "required": true
+        },
+        {
+            "name": "Patchouli",
+            "filename": "Patchouli-1.20.1-84-FORGE.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Patchouli-1.20.1-84-FORGE.jar",
+            "size": 642506,
+            "required": true
+        },
+        {
+            "name": "Pehkui 3.7.12+1.20.1",
+            "filename": "Pehkui-3.7.12+1.20.1-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Pehkui-3.7.12+1.20.1-forge.jar",
+            "size": 475075,
+            "required": true
+        },
+        {
+            "name": "Plasmovoice",
+            "filename": "plasmovoice-forge-1.20.1-2.0.8.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/plasmovoice-forge-1.20.1-2.0.8.jar",
+            "size": 11540065,
+            "required": true
+        },
+        {
+            "name": "Prism",
+            "filename": "Prism-1.20.1-forge-1.0.5.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Prism-1.20.1-forge-1.0.5.jar",
+            "size": 52205,
+            "required": true
+        },
+        {
+            "name": "Prometheus",
+            "filename": "prometheus-forge-1.20.1-1.2.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/prometheus-forge-1.20.1-1.2.4.jar",
+            "size": 818031,
+            "required": true
+        },
+        {
+            "name": "Resourcefulconfig",
+            "filename": "resourcefulconfig-forge-1.20.1-2.1.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+            "size": 136630,
+            "required": true
+        },
+        {
+            "name": "Resourcefullib",
+            "filename": "resourcefullib-forge-1.20.1-2.1.23.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/resourcefullib-forge-1.20.1-2.1.23.jar",
+            "size": 424230,
+            "required": true
+        },
+        {
+            "name": "Saturn Mc1.20.1",
+            "filename": "saturn-mc1.20.1-0.1.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/saturn-mc1.20.1-0.1.3.jar",
+            "size": 92319,
+            "required": true
+        },
+        {
+            "name": "Searchables",
+            "filename": "Searchables-forge-1.20.1-1.0.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Searchables-forge-1.20.1-1.0.2.jar",
+            "size": 77704,
+            "required": true
+        },
+        {
+            "name": "Simplyswords",
+            "filename": "simplyswords-forge-1.54.0-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/simplyswords-forge-1.54.0-1.20.1.jar",
+            "size": 14565330,
+            "required": true
+        },
+        {
+            "name": "Skinlayers3d Mc1.20.1",
+            "filename": "skinlayers3d-forge-1.6.2-mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/skinlayers3d-forge-1.6.2-mc1.20.1.jar",
+            "size": 469610,
+            "required": true
+        },
+        {
+            "name": "Smoothboot(reloaded) Mc1.20.1",
+            "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "size": 41044,
+            "required": true
+        },
+        {
+            "name": "Spawn",
+            "filename": "spawn-1.0.2-forge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/spawn-1.0.2-forge.jar",
+            "size": 7031738,
+            "required": true
+        },
+        {
+            "name": "Steam_rails 1.5.3+forge Mc1.20.1",
+            "filename": "Steam_Rails-1.5.3+forge-mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar",
+            "size": 6704629,
+            "required": true
+        },
+        {
+            "name": "Supplementaries",
+            "filename": "supplementaries-1.20-2.8.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/supplementaries-1.20-2.8.1.jar",
+            "size": 14320242,
+            "required": true
+        },
+        {
+            "name": "Tempad",
+            "filename": "tempad-forge-1.20.1-2.3.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/tempad-forge-1.20.1-2.3.3.jar",
+            "size": 193811,
+            "required": true
+        },
+        {
+            "name": "Terrablender",
+            "filename": "TerraBlender-forge-1.20.1-3.0.1.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/TerraBlender-forge-1.20.1-3.0.1.4.jar",
+            "size": 107370,
+            "required": true
+        },
+        {
+            "name": "Travelersbackpack",
+            "filename": "TravelersBackpack-1.20.1-9.1.12.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/TravelersBackpack-1.20.1-9.1.12.jar",
+            "size": 902952,
+            "required": true
+        },
+        {
+            "name": "Villagersplus_3.1_(forge)_for_1.20.1",
+            "filename": "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
+            "size": 362336,
+            "required": true
+        },
+        {
+            "name": "Voicechat",
+            "filename": "voicechat-forge-1.20.1-2.6.7.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/voicechat-forge-1.20.1-2.6.7.jar",
+            "size": 4890616,
+            "required": true
+        },
+        {
+            "name": "Waystones",
+            "filename": "waystones-forge-1.20-14.1.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/waystones-forge-1.20-14.1.3.jar",
+            "size": 482947,
+            "required": true
+        },
+        {
+            "name": "Whatareyouvotingfor2023",
+            "filename": "whatareyouvotingfor2023-1.20.1-1.2.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/whatareyouvotingfor2023-1.20.1-1.2.4.jar",
+            "size": 274754,
+            "required": true
+        },
+        {
+            "name": "Worldedit Mod",
+            "filename": "worldedit-mod-7.2.15.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/worldedit-mod-7.2.15.jar",
+            "size": 5825402,
+            "required": true
+        },
+        {
+            "name": "Xaeros_minimap_23.9.7_forge_1.20",
+            "filename": "Xaeros_Minimap_23.9.7_Forge_1.20.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Xaeros_Minimap_23.9.7_Forge_1.20.jar",
+            "size": 1342439,
+            "required": true
+        },
+        {
+            "name": "Xaerosworldmap_1.37.8_forge_1.20",
+            "filename": "XaerosWorldMap_1.37.8_Forge_1.20.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/XaerosWorldMap_1.37.8_Forge_1.20.jar",
+            "size": 864009,
+            "required": true
+        },
+        {
+            "name": "Xercamusic",
+            "filename": "xercamusic-1.20.1-1.0.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xercamusic-1.20.1-1.0.1.jar",
+            "size": 7713320,
+            "required": true
+        },
+        {
+            "name": "Yungsapi",
+            "filename": "YungsApi-1.20-Forge-4.0.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/YungsApi-1.20-Forge-4.0.3.jar",
+            "size": 346213,
+            "required": true
+        }
+    ]
+}
