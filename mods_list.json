@@ -354,9 +354,9 @@
             "required": true
         },
         {
-            "name": "Endlessbiomes1.5",
-            "filename": "EndlessBiomes1.5-1.20.1.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/EndlessBiomes1.5-1.20.1.jar",
+            "name": "Endlessbiomes.1.5.",
+            "filename": "EndlessBiomes.1.5.-.1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/EndlessBiomes.1.5.-.1.20.1.jar",
             "size": 2919909,
             "required": true
         },
