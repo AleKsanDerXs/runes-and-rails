@@ -354,9 +354,9 @@
             "required": true
         },
         {
-            "name": "Endlessbiomes 1.5   1.20.1",
-            "filename": "EndlessBiomes 1.5 - 1.20.1.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/EndlessBiomes 1.5 - 1.20.1.jar",
+            "name": "Endlessbiomes 1.5",
+            "filename": "EndlessBiomes 1.5-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/EndlessBiomes 1.5-1.20.1.jar",
             "size": 2919909,
             "required": true
         },
@@ -774,9 +774,9 @@
             "required": true
         },
         {
-            "name": "Smoothboot(reloaded) Mc1.20.1",
-            "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "name": "Smoothboot.reloaded. Mc1.20.1",
+            "filename": "smoothboot.reloaded.-mc1.20.1-0.0.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/smoothboot.reloaded.-mc1.20.1-0.0.4.jar",
             "size": 41044,
             "required": true
         },
@@ -823,9 +823,9 @@
             "required": true
         },
         {
-            "name": "Villagersplus_3.1_(forge)_for_1.20.1",
-            "filename": "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
+            "name": "Villagersplus_3.1_.forge._for_1.20.1",
+            "filename": "VillagersPlus_3.1_.FORGE._for_1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/VillagersPlus_3.1_.FORGE._for_1.20.1.jar",
             "size": 362336,
             "required": true
         },
