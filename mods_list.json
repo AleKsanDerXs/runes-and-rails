@@ -102,10 +102,10 @@
             "required": true
         },
         {
-            "name": "Automodpack Mc1.20.1 Beta42",
-            "filename": "automodpack-mc1.20.1-forge-4.0.0-beta42.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/automodpack-mc1.20.1-forge-4.0.0-beta42.jar",
-            "size": 23411354,
+            "name": "Automodpack Mc1.20.1 Beta44",
+            "filename": "automodpack-mc1.20.1-forge-4.0.0-beta44.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/automodpack-mc1.20.1-forge-4.0.0-beta44.jar",
+            "size": 23425291,
             "required": true
         },
         {
@@ -354,7 +354,7 @@
             "required": true
         },
         {
-            "name": "Endlessbiomes.1.5.",
+            "name": "Endlessbiomes.1.5",
             "filename": "EndlessBiomes.1.5-1.20.1.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/EndlessBiomes.1.5-1.20.1.jar",
             "size": 2919909,
