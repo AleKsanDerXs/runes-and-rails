@@ -15,7 +15,7 @@ Official game launcher for the Runes And Rails Minecraft server, developed by ou
 - **OS**: Windows 10/11
 - **RAM**: Minimum 8GB, Recommended 16GB
 - **Java**: Java 17 or later
-- **Storage**: At least 700MB free space
+- **Storage**: At least 900MB free space
 
 ## Installation
 
