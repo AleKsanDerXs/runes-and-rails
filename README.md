@@ -19,7 +19,7 @@ Official game launcher for the Runes And Rails Minecraft server, developed by ou
 
 ## Installation
 
-1. Download the latest launcher version
+1. Download the [latest launcher version](https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Launcher-releases/RunesAndRailsLauncher.exe)
 2. Run the installer
 3. Follow the setup instructions
 4. Launch and enjoy Runes And Rails!
