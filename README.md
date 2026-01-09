@@ -15,11 +15,11 @@ Official game launcher for the Runes And Rails Minecraft server, developed by ou
 - **OS**: Windows 10/11
 - **RAM**: Minimum 8GB, Recommended 16GB
 - **Java**: Java 17 or later
-- **Storage**: At least 700MB free space
+- **Storage**: At least 900MB free space
 
 ## Installation
 
-1. Download the latest launcher version
+1. Download the [latest launcher version](https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Launcher-releases/RunesAndRailsLauncher.exe)
 2. Run the installer
 3. Follow the setup instructions
 4. Launch and enjoy Runes And Rails!
