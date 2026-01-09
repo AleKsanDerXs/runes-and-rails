@@ -102,13 +102,6 @@
             "required": true
         },
         {
-            "name": "Automodpack Mc1.20.1 Beta44",
-            "filename": "automodpack-mc1.20.1-forge-4.0.0-beta44.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/automodpack-mc1.20.1-forge-4.0.0-beta44.jar",
-            "size": 23425291,
-            "required": true
-        },
-        {
             "name": "Balm",
             "filename": "balm-forge-1.20.1-7.2.2.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/balm-forge-1.20.1-7.2.2.jar",
