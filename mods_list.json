@@ -613,10 +613,10 @@
             "required": true
         },
         {
-            "name": "Medievalorigins 6.1.1+1.20.1",
-            "filename": "medievalorigins-6.1.1+1.20.1-forge.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/medievalorigins-6.1.1+1.20.1-forge.jar",
-            "size": 2624589,
+            "name": "Medievalorigins 6.1.1+1.20.1 Rus",
+            "filename": "medievalorigins-6.1.1+1.20.1-forge-rus.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/medievalorigins-6.1.1+1.20.1-forge-rus.jar",
+            "size": 2633978,
             "required": true
         },
         {
@@ -690,10 +690,10 @@
             "required": true
         },
         {
-            "name": "Origins All",
-            "filename": "origins-forge-1.20.1-1.10.0.5-all.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/origins-forge-1.20.1-1.10.0.5-all.jar",
-            "size": 2304816,
+            "name": "Origins All Rus",
+            "filename": "origins-forge-1.20.1-1.10.0.5-all-rus.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/origins-forge-1.20.1-1.10.0.5-all-rus.jar",
+            "size": 2299192,
             "required": true
         },
         {
