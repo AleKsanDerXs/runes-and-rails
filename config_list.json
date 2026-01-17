@@ -175,7 +175,7 @@
         {
           "relative_path": "options.txt",
           "size": 0,
-          "hash": "76797d29a2080de1fead9803acf88369",
+          "hash": "",
           "required": true,
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/options.txt",
