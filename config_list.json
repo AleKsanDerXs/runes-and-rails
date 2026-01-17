@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-18T01:43:50.203655",
+  "last_updated": "2026-01-18T01:55:32.014972",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -174,7 +174,7 @@
         },
         {
           "relative_path": "options.txt",
-          "size": 10634,
+          "size": 0,
           "hash": "76797d29a2080de1fead9803acf88369",
           "required": true,
           "description": "Автоматически добавлен: options.txt",
