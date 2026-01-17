@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-18T02:50:01.353253",
+  "last_updated": "2026-01-18T03:32:46.814464",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -8,7 +8,7 @@
       "base_path": ".",
       "type": "specific_files",
       "strict_mode": true,
-      "description": "Базовая конфигурация 0.0.1",
+      "description": "Конфигурация 1",
       "files": [
         {
           "relative_path": "config/fancymenu/assets/background1.png",
@@ -45,15 +45,6 @@
           "description": "Автоматически добавлен: main_menu.png",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/assets/main_menu.png",
           "github_path": "config/fancymenu/assets/main_menu.png"
-        },
-        {
-          "relative_path": "config/fancymenu/assets/slowmo1_faded.gif",
-          "size": 39197678,
-          "hash": "5d0c93ae41f4d91ba7b4ad4e9713d66e",
-          "required": true,
-          "description": "Автоматически добавлен: slowmo1_faded.gif",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/assets/slowmo1_faded.gif",
-          "github_path": "config/fancymenu/assets/slowmo1_faded.gif"
         },
         {
           "relative_path": "config/fancymenu/audio_element_controller_metas.json",
@@ -93,8 +84,8 @@
         },
         {
           "relative_path": "config/fancymenu/customization/title_screen_layout.txt",
-          "size": 34805,
-          "hash": "267834feb9b03b45d8445d0c060643fd",
+          "size": 43480,
+          "hash": "71ed03b8b435599ddfd2bde93e5f819e",
           "required": true,
           "description": "Автоматически добавлен: title_screen_layout.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/customization/title_screen_layout.txt",
@@ -138,8 +129,8 @@
         },
         {
           "relative_path": "config/fancymenu/options.txt",
-          "size": 2469,
-          "hash": "afff47aacb700bbae0cc355791639bd5",
+          "size": 2414,
+          "hash": "db91b571115e7f8fcbc319d2148f1167",
           "required": true,
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/options.txt",
@@ -165,12 +156,21 @@
         },
         {
           "relative_path": "config/fancymenu/user_variables.db",
-          "size": 93,
-          "hash": "35c1c494545c866179672a18c65eafa5",
+          "size": 0,
+          "hash": "",
           "required": true,
           "description": "Автоматически добавлен: user_variables.db",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/user_variables.db",
           "github_path": "config/fancymenu/user_variables.db"
+        },
+        {
+          "relative_path": "config/iceandfire-client.toml",
+          "size": 321,
+          "hash": "bbd650bce0cc68ffde3ffc11d3fff376",
+          "required": true,
+          "description": "Автоматически добавлен: iceandfire-client.toml",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/iceandfire-client.toml",
+          "github_path": "config/iceandfire-client.toml"
         },
         {
           "relative_path": "options.txt",
@@ -180,14 +180,6 @@
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/options.txt",
           "github_path": "options.txt"
-        },
-        {
-          "relative_path": "config/iceandfire-client.toml",
-          "size": 321,
-          "hash": "bbd650bce0cc68ffde3ffc11d3fff376",
-          "required": true,
-          "description": "Конфигурация Ice And Fire",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/iceandfire-client.toml"
         }
       ]
     }
