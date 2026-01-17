@@ -1,0 +1,28 @@
+type = listener_instances
+
+listener_instance {
+  listener_instance_identifier = df665eba-28dc-422b-aff3-a4d5eb0a1665-1768323900031
+  listener_provider_identifier = fm_variable_updated
+  listener_instance_action_script_identifier = 8aca1621-69bf-4085-b907-553c245948d6-1768323900031
+  [executable_block:076d0c6e-18cc-44e0-90a5-cb67ccc2ace0-1768324011127][type:if] = [executables:]
+  [if_executable_block_body:076d0c6e-18cc-44e0-90a5-cb67ccc2ace0-1768324011127] = 2e096560-0ea5-43bf-8cd7-f26e749349e3-1768323904550
+  [loading_requirement_container_meta:2e096560-0ea5-43bf-8cd7-f26e749349e3-1768323904550] = [groups:][instances:41f13a99-ed3c-498d-abbc-ebdafcee9877-1768323911953;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:41f13a99-ed3c-498d-abbc-ebdafcee9877-1768323911953] = $$var_name:0
+  [if_executable_block_collapsed:076d0c6e-18cc-44e0-90a5-cb67ccc2ace0-1768324011127] = false
+  [executable_block:8aca1621-69bf-4085-b907-553c245948d6-1768323900031][type:generic] = [executables:076d0c6e-18cc-44e0-90a5-cb67ccc2ace0-1768324011127;]
+}
+
+listener_instance {
+  listener_instance_identifier = bf165fdf-eafd-4f80-af0f-5b4a5e327b67-1768323543603
+  listener_provider_identifier = server_joined
+  listener_instance_action_script_identifier = 9b1730a6-8f3e-4c34-a2c7-8319f70aff9a-1768323543603
+  [executable_action_instance:5d384446-bd19-4386-9bf9-95c4358cb562-1768323655162][action_type:show_toast] = {"width":160,"durationMs":5000,"title":"Успешный вход на Сервер!","message":"Добро пожаловать, {\"placeholder\":\"playername\"}!","iconSource":"","backgroundSource":""}
+  [executable_action_instance:7b591aeb-4e09-4347-96d4-de23e9c6ad5d-1768323726955][action_type:set_variable] = on_server:1
+  [executable_block:5995232a-4822-4adb-96e0-8be7f8ff14ad-1768323623784][type:if] = [executables:5d384446-bd19-4386-9bf9-95c4358cb562-1768323655162;7b591aeb-4e09-4347-96d4-de23e9c6ad5d-1768323726955;]
+  [if_executable_block_body:5995232a-4822-4adb-96e0-8be7f8ff14ad-1768323623784] = 4f475cdf-3653-4070-a6a5-7699d742431f-1768323564412
+  [loading_requirement_container_meta:4f475cdf-3653-4070-a6a5-7699d742431f-1768323564412] = [groups:][instances:eaab6a1f-05f9-47db-8afd-81cee1d3218c-1768323566207;]
+  [loading_requirement:fancymenu_visibility_requirement_is_server_ip][requirement_mode:if][req_id:eaab6a1f-05f9-47db-8afd-81cee1d3218c-1768323566207] = minecraft.hippa.ru
+  [if_executable_block_collapsed:5995232a-4822-4adb-96e0-8be7f8ff14ad-1768323623784] = false
+  [executable_block:9b1730a6-8f3e-4c34-a2c7-8319f70aff9a-1768323543603][type:generic] = [executables:5995232a-4822-4adb-96e0-8be7f8ff14ad-1768323623784;]
+}
+
