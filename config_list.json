@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-18T01:29:58.035828",
+  "last_updated": "2026-01-18T01:43:50.203655",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
       "id": "1",
       "base_path": "./",
-      "type": "directory",
+      "type": "specific_files",
       "strict_mode": true,
       "description": "Базовая конфигурация 0.0.1",
       "files": [
