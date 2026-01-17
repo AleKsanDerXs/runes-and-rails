@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-18T01:55:32.014972",
+  "last_updated": "2026-01-18T02:50:01.353253",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -180,6 +180,14 @@
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/options.txt",
           "github_path": "options.txt"
+        },
+        {
+          "relative_path": "config/iceandfire-client.toml",
+          "size": 321,
+          "hash": "bbd650bce0cc68ffde3ffc11d3fff376",
+          "required": true,
+          "description": "Конфигурация Ice And Fire",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/iceandfire-client.toml"
         }
       ]
     }
