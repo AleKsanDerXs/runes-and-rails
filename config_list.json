@@ -165,7 +165,7 @@
         },
         {
           "relative_path": "config/iceandfire-client.toml",
-          "size": 321,
+          "size": 312,
           "hash": "bbd650bce0cc68ffde3ffc11d3fff376",
           "required": true,
           "description": "Автоматически добавлен: iceandfire-client.toml",
