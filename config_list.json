@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-18T03:32:46.814464",
+  "last_updated": "2026-01-21T01:06:26.739346",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -67,7 +67,7 @@
         {
           "relative_path": "config/fancymenu/customization/connect_screen_layout.txt",
           "size": 6892,
-          "hash": "aef4b3818ab912259144ac2c481c3bee",
+          "hash": "20e3df6a12dd224d271eb70d8044d5bb",
           "required": true,
           "description": "Автоматически добавлен: connect_screen_layout.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/customization/connect_screen_layout.txt",
