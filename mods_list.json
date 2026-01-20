@@ -382,6 +382,13 @@
             "required": true
         },
         {
+            "name": "Fancymenu_forge_3.8.1_mc_1.20.1",
+            "filename": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
+            "size": 4472193,
+            "required": true
+        },
+        {
             "name": "Farmersdelight",
             "filename": "FarmersDelight-1.20.1-1.2.4.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FarmersDelight-1.20.1-1.2.4.jar",
@@ -610,6 +617,13 @@
             "filename": "medievalorigins-6.1.1+1.20.1-forge-rus.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/medievalorigins-6.1.1+1.20.1-forge-rus.jar",
             "size": 2633978,
+            "required": true
+        },
+        {
+            "name": "Melody_forge_1.0.3_mc_1.20.1",
+            "filename": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "size": 37178,
             "required": true
         },
         {
