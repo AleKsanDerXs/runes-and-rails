@@ -166,7 +166,7 @@
         {
           "relative_path": "config/iceandfire-client.toml",
           "size": 0,
-          "hash": "bbd650bce0cc68ffde3ffc11d3fff376",
+          "hash": "",
           "required": true,
           "description": "Автоматически добавлен: iceandfire-client.toml",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/iceandfire-client.toml",
