@@ -480,10 +480,10 @@
             "required": true
         },
         {
-            "name": "Immediatelyfast 1.2.10+1.20.4",
-            "filename": "ImmediatelyFast-Forge-1.2.10+1.20.4.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar",
-            "size": 401371,
+            "name": "Immediatelyfast 1.5.3+1.20.4",
+            "filename": "ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+            "size": 426980,
             "required": true
         },
         {
@@ -844,17 +844,17 @@
             "required": true
         },
         {
-            "name": "Xaeros_minimap_23.9.7_forge_1.20",
-            "filename": "Xaeros_Minimap_23.9.7_Forge_1.20.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Xaeros_Minimap_23.9.7_Forge_1.20.jar",
-            "size": 1342439,
+            "name": "Xaerominimap",
+            "filename": "xaerominimap-forge-1.20.1-25.3.5.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaerominimap-forge-1.20.1-25.3.5.jar",
+            "size": 2128741,
             "required": true
         },
         {
-            "name": "Xaerosworldmap_1.37.8_forge_1.20",
-            "filename": "XaerosWorldMap_1.37.8_Forge_1.20.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/XaerosWorldMap_1.37.8_Forge_1.20.jar",
-            "size": 864009,
+            "name": "Xaeroworldmap",
+            "filename": "xaeroworldmap-forge-1.20.1-1.40.6.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaeroworldmap-forge-1.20.1-1.40.6.jar",
+            "size": 1380714,
             "required": true
         },
         {
