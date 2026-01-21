@@ -24,7 +24,7 @@
     },
     {
       "id": "2",
-      "base_path": "./files_for_config/config/fancymenu",
+      "base_path": "./config/fancymenu",
       "type": "directory",
       "strict_mode": true,
       "description": "FancyMenu",
