@@ -273,11 +273,11 @@
         },
         {
           "relative_path": "options.txt",
-          "size": 10634,
-          "hash": "76797d29a2080de1fead9803acf88369",
+          "size": 2415,
+          "hash": "",
           "required": true,
           "ignore_size": false,
-          "ignore_hash": false,
+          "ignore_hash": true,
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/options.txt",
           "github_path": "config/fancymenu/options.txt"
@@ -323,7 +323,7 @@
           "ignore_size": true,
           "ignore_hash": true,
           "description": "Death Texts",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/assets/death_text.txt"
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/assets/death_text.txt"
         }
       ]
     }
