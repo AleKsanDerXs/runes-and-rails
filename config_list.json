@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-21T19:56:35.400283",
+  "last_updated": "2026-01-21T20:03:33.263261",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "id": "2",
-      "base_path": ".",
+      "base_path": "files_for_config/config/fancymenu",
       "type": "directory",
       "strict_mode": true,
       "description": "FancyMenu",
@@ -273,8 +273,8 @@
         },
         {
           "relative_path": "options.txt",
-          "size": 2415,
-          "hash": "794080cda9c22f638e366d99b342013c",
+          "size": 10634,
+          "hash": "76797d29a2080de1fead9803acf88369",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -316,14 +316,14 @@
           "github_path": "config/fancymenu/user_variables.db"
         },
         {
-          "relative_path": "files_for_config/config/fancymenu/assets/death_text.txt",
+          "relative_path": "assets/death_text.txt",
           "size": 3159,
           "hash": "7180ca682d8796046b4c0a263782082f",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
           "description": "Death Texts",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/files_for_config/config/fancymenu/assets/death_text.txt"
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/assets/death_text.txt"
         }
       ]
     }
