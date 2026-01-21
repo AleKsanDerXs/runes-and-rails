@@ -16,7 +16,7 @@ listener_instance {
   listener_instance_identifier = bf165fdf-eafd-4f80-af0f-5b4a5e327b67-1768323543603
   listener_provider_identifier = server_joined
   listener_instance_action_script_identifier = 9b1730a6-8f3e-4c34-a2c7-8319f70aff9a-1768323543603
-  [executable_action_instance:5d384446-bd19-4386-9bf9-95c4358cb562-1768323655162][action_type:show_toast] = {"width":160,"durationMs":5000,"title":"Успешный вход на Сервер!","message":"Добро пожаловать, {\"placeholder\":\"playername\"}!","iconSource":"","backgroundSource":""}
+  [executable_action_instance:5d384446-bd19-4386-9bf9-95c4358cb562-1768323655162][action_type:show_toast] = {"width":320,"durationMs":5000,"title":"Успешный вход на Сервер!","message":"Добро пожаловать, {\"placeholder\":\"playername\"}!","iconSource":"","backgroundSource":""}
   [executable_action_instance:7b591aeb-4e09-4347-96d4-de23e9c6ad5d-1768323726955][action_type:set_variable] = on_server:1
   [executable_block:5995232a-4822-4adb-96e0-8be7f8ff14ad-1768323623784][type:if] = [executables:5d384446-bd19-4386-9bf9-95c4358cb562-1768323655162;7b591aeb-4e09-4347-96d4-de23e9c6ad5d-1768323726955;]
   [if_executable_block_body:5995232a-4822-4adb-96e0-8be7f8ff14ad-1768323623784] = 4f475cdf-3653-4070-a6a5-7699d742431f-1768323564412
