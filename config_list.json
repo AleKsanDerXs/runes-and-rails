@@ -336,10 +336,10 @@
       "files": [
         {
           "relative_path": "iceandfire-client.toml",
-          "size": 309,
+          "size": 315,
           "hash": "1889a0ae34f09e72f357f6d1b972ba53",
           "required": true,
-          "ignore_size": false,
+          "ignore_size": true,
           "ignore_hash": true,
           "description": "ice and fire custom menu. we need to disable custom menu",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/iceandfire-client.toml"
