@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-21T20:03:33.263261",
+  "last_updated": "2026-01-30T22:30:55.494107",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -324,6 +324,25 @@
           "ignore_hash": true,
           "description": "Death Texts",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/assets/death_text.txt"
+        }
+      ]
+    },
+    {
+      "id": "ice_and_fire",
+      "base_path": "./config",
+      "type": "specific_files",
+      "strict_mode": true,
+      "description": "Ice And Fire - отключение custom menu",
+      "files": [
+        {
+          "relative_path": "iceandfire-client.toml",
+          "size": 315,
+          "hash": "1889a0ae34f09e72f357f6d1b972ba53",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "ice and fire custom menu. we need to disable custom menu",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/iceandfire-client.toml"
         }
       ]
     }
