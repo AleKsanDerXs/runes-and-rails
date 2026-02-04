@@ -26,9 +26,9 @@
         },
         {
             "name": "Alexscaves",
-            "filename": "alexscaves-1.1.2.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alexscaves-1.1.2.jar",
-            "size": 61574588,
+            "filename": "alexscaves-2.0.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alexscaves-2.0.2.jar",
+            "size": 74871657,
             "required": true
         },
         {
@@ -194,9 +194,9 @@
         },
         {
             "name": "Citadel",
-            "filename": "citadel-2.5.3-1.20.1.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/citadel-2.5.3-1.20.1.jar",
-            "size": 3175394,
+            "filename": "citadel-2.6.3-1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/citadel-2.6.3-1.20.1.jar",
+            "size": 3185275,
             "required": true
         },
         {
@@ -474,9 +474,9 @@
         },
         {
             "name": "Iceandfire Beta",
-            "filename": "iceandfire-2.1.13-1.20.1-beta-4.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/iceandfire-2.1.13-1.20.1-beta-4.jar",
-            "size": 21767038,
+            "filename": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "size": 21854126,
             "required": true
         },
         {
