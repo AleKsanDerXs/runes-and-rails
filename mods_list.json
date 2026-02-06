@@ -452,13 +452,6 @@
             "required": true
         },
         {
-            "name": "Harmonia",
-            "filename": "Harmonia-forge-1.2.0.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Harmonia-forge-1.2.0.jar",
-            "size": 222235,
-            "required": true
-        },
-        {
             "name": "Harvestwithease",
             "filename": "harvestwithease-1.20.1-8.0.1.0-forge.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/harvestwithease-1.20.1-8.0.1.0-forge.jar",
