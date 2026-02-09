@@ -424,6 +424,34 @@
             "required": true
         },
         {
+            "name": "Ftb Library",
+            "filename": "ftb-library-forge-2001.2.12.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-library-forge-2001.2.12.jar",
+            "size": 780523,
+            "required": true
+        },
+        {
+            "name": "Ftb Quests",
+            "filename": "ftb-quests-forge-2001.4.17.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-quests-forge-2001.4.17.jar",
+            "size": 1227820,
+            "required": true
+        },
+        {
+            "name": "Ftb Teams",
+            "filename": "ftb-teams-forge-2001.3.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-teams-forge-2001.3.2.jar",
+            "size": 252579,
+            "required": true
+        },
+        {
+            "name": "Ftb Xmod Compat",
+            "filename": "ftb-xmod-compat-forge-2.1.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-xmod-compat-forge-2.1.3.jar",
+            "size": 129725,
+            "required": true
+        },
+        {
             "name": "Galosphere",
             "filename": "Galosphere-1.20.1-1.4.1-Forge.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Galosphere-1.20.1-1.4.1-Forge.jar",
