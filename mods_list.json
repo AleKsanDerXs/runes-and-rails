@@ -558,9 +558,9 @@
         },
         {
             "name": "Jei",
-            "filename": "jei-1.20.1-forge-15.3.0.4.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/jei-1.20.1-forge-15.3.0.4.jar",
-            "size": 1127828,
+            "filename": "jei-1.20.1-forge-15.20.0.129.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/jei-1.20.1-forge-15.20.0.129.jar",
+            "size": 1409642,
             "required": true
         },
         {
@@ -662,10 +662,10 @@
             "required": true
         },
         {
-            "name": "Modernfix 5.13.0+mc1.20.1",
-            "filename": "modernfix-forge-5.13.0+mc1.20.1.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/modernfix-forge-5.13.0+mc1.20.1.jar",
-            "size": 751240,
+            "name": "Modernfix 5.26.2+mc1.20.1",
+            "filename": "modernfix-forge-5.26.2+mc1.20.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/modernfix-forge-5.26.2+mc1.20.1.jar",
+            "size": 826829,
             "required": true
         },
         {
