@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-30T22:30:55.494107",
+  "last_updated": "2026-04-06T01:07:52.125935",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -141,14 +141,25 @@
         },
         {
           "relative_path": "audio_element_controller_metas.json",
-          "size": 216,
-          "hash": "f6fb291823777fd414ba5b8c0412ec6a",
+          "size": 323,
+          "hash": "b32c382314199574495e5d011a4eed98",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
           "description": "Автоматически добавлен: audio_element_controller_metas.json",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/audio_element_controller_metas.json",
           "github_path": "config/fancymenu/audio_element_controller_metas.json"
+        },
+        {
+          "relative_path": "animation_controller_states.json",
+          "size": 111,
+          "hash": "47fe433f477a70b864d38a319e51b2a3",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен: animation_controller_states.json",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/config/fancymenu/animation_controller_states.json",
+          "github_path": "config/fancymenu/animation_controller_states.json"
         },
         {
           "relative_path": "customizablemenus.txt",
@@ -218,8 +229,8 @@
         },
         {
           "relative_path": "customization/title_screen_layout.txt",
-          "size": 61662,
-          "hash": "56e694dbbbbcdd1b29ce8b8cc724ce3a",
+          "size": 65170,
+          "hash": "3a55431488265d8a522180e1128df6ef",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -241,7 +252,7 @@
         {
           "relative_path": "layout_editor/widgets/element_layer_control.lewidget",
           "size": 199,
-          "hash": "c8b38e157391a41adcea9717e81e897b",
+          "hash": "847a54d74300a7e2a09d5f3b6a6ccd8c",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -262,8 +273,8 @@
         },
         {
           "relative_path": "listener_instances.txt",
-          "size": 2700,
-          "hash": "8bdf5e059ad27d3360405523ef317579",
+          "size": 3512,
+          "hash": "9ede7807894c2d749a4f90e6e9f057b3",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -273,7 +284,7 @@
         },
         {
           "relative_path": "options.txt",
-          "size": 2415,
+          "size": 2414,
           "hash": "",
           "required": true,
           "ignore_size": false,
