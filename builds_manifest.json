@@ -15,6 +15,14 @@
       "description": "Экспериментальная сборка Runes And Rails",
       "mods_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/mods_list_dev.json",
       "config_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/config_list_dev.json"
+    },
+   {
+      "id": "runes_and_rails_npc",
+      "name": "NPC+Quest Test",
+      "image": "https://i.pinimg.com/1200x/dc/00/eb/dc00ebc8d85a3cf802aecb502cf7e212.jpg",
+      "description": "EasyNPC + FTB + XSM сборка",
+      "mods_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/mods_list_xsm.json",
+      "config_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/config_list_xsm.json"
     }
   ]
 }
