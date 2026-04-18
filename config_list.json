@@ -113,7 +113,7 @@
           "size": 2414,
           "hash": "db91b571115e7f8fcbc319d2148f1167",
           "required": true,
-          "ignore_size": false,
+          "ignore_size": true,
           "ignore_hash": true,
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files/./config/fancymenu/options.txt"
