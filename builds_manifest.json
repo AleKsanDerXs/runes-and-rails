@@ -1,0 +1,20 @@
+{
+  "builds": [
+    {
+      "id": "runes_and_rails_main",
+      "name": "R&Rs",
+      "image": "./img/pack_main.jpg",
+      "description": "Оригинальная сборка Runes And Rails",
+      "mods_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/mods_list.json",
+      "config_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/config_list.json"
+    },
+    {
+      "id": "runes_and_rails_dev",
+      "name": "R&Rs Exp",
+      "image": "./img/pack_dev.png",
+      "description": "Экспериментальная сборка Runes And Rails",
+      "mods_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/mods_list_dev.json",
+      "config_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/config_list_dev.json"
+    }
+  ]
+}
