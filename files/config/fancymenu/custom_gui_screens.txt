@@ -1,0 +1,27 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = cus_g1
+  title = Проверка 123
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = cus2
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = false
+  popup_mode = true
+  popup_mode_background_overlay = true
+}
+
