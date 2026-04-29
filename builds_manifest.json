@@ -35,8 +35,8 @@
     },
     {
       "id": "neoforge_1_21_1",
-      "name": "NeoForge Test",
-      "image": "https://via.placeholder.com/400x200?text=NeoForge",
+      "name": "Steel Sky",
+      "image": "https://avatars.mds.yandex.net/i?id=8cf7ad8fd92367d09eb7998f998653cd_l-9211526-images-thumbs&n=13",
       "description": "Тестовая сборка на NeoForge 1.21.1",
       "mods_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/mods_list_neoforge.json",
       "config_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/config_list_neoforge.json",
