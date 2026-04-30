@@ -42,7 +42,7 @@
       "config_list_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/config_list_neoforge.json",
       "minecraft_version": "1.21.1",
       "loader_type": "neoforge",
-      "loader_version": "21.1.133"
+      "loader_version": "21.1.228"
     }
   ]
 }
