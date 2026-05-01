@@ -14,19 +14,25 @@ variable {
 
 variable {
   name = ping_var
-  value = 181
+  value = 190
   reset_on_launch = false
 }
 
 variable {
   name = exit_server
-  value = 
+  value = 0
   reset_on_launch = true
 }
 
 variable {
   name = on_server
-  value = 
+  value = 0
   reset_on_launch = true
+}
+
+variable {
+  name = count_players
+  value = 1/20
+  reset_on_launch = false
 }
 
