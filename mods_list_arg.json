@@ -67,6 +67,13 @@
             "required": true
         },
         {
+            "name": "Fancymenu_neoforge_3.8.1_mc_1.21.1",
+            "filename": "fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+            "size": 4297501,
+            "required": true
+        },
+        {
             "name": "Ftb Library",
             "filename": "ftb-library-neoforge-2101.1.31.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-library-neoforge-2101.1.31.jar",
