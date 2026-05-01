@@ -1,0 +1,32 @@
+type = user_variables
+
+variable {
+  name = p
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = progress_retry
+  value = 100
+  reset_on_launch = false
+}
+
+variable {
+  name = ping_var
+  value = 181
+  reset_on_launch = false
+}
+
+variable {
+  name = exit_server
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = on_server
+  value = 
+  reset_on_launch = true
+}
+

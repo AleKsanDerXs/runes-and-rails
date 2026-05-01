@@ -1,3 +1,4 @@
 Лаунчер\ Runes\ And\ Rails\ \(Полная\ сборка\ +\ все\ моды\).zip filter=lfs diff=lfs merge=lfs -text
 # Отключаем нормализацию переводов строк для всех конфигов
 files/** binary
+files_arg/** binary
