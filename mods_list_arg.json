@@ -4,10 +4,52 @@
     "forge_version": "21.1.228",
     "mods": [
         {
+            "name": "Advancedlootinfo",
+            "filename": "AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
+            "size": 825643,
+            "required": true
+        },
+        {
+            "name": "Alltheleaks 1.1.8+1.21.1",
+            "filename": "alltheleaks-1.1.8+1.21.1-neoforge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alltheleaks-1.1.8+1.21.1-neoforge.jar",
+            "size": 536828,
+            "required": true
+        },
+        {
+            "name": "Angel Islands",
+            "filename": "angel-islands-2.0.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/angel-islands-2.0.3.jar",
+            "size": 1240605,
+            "required": true
+        },
+        {
             "name": "Architectury",
             "filename": "architectury-13.0.8-neoforge.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/architectury-13.0.8-neoforge.jar",
             "size": 584004,
+            "required": true
+        },
+        {
+            "name": "Badoptimizations",
+            "filename": "BadOptimizations-2.4.1-1.21.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BadOptimizations-2.4.1-1.21.1.jar",
+            "size": 283566,
+            "required": true
+        },
+        {
+            "name": "Cmparallelpipes",
+            "filename": "cmparallelpipes-neoforge-2.0.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cmparallelpipes-neoforge-2.0.2.jar",
+            "size": 28606,
+            "required": true
+        },
+        {
+            "name": "Copycats 3.0.4+mc.1.21.1",
+            "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+            "size": 1791747,
             "required": true
         },
         {
@@ -53,6 +95,27 @@
             "required": true
         },
         {
+            "name": "Creategoggles [neoforge]",
+            "filename": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+            "size": 180932,
+            "required": true
+        },
+        {
+            "name": "Diabolical Islands",
+            "filename": "diabolical-islands-1.0.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/diabolical-islands-1.0.0.jar",
+            "size": 297053,
+            "required": true
+        },
+        {
+            "name": "Dynamic Fps 3.11.4+minecraft",
+            "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "size": 220193,
+            "required": true
+        },
+        {
             "name": "Easy_npc",
             "filename": "easy_npc-neoforge-1.21.1-6.12.0.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/easy_npc-neoforge-1.21.1-6.12.0.jar",
@@ -71,6 +134,13 @@
             "filename": "fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
             "size": 4297501,
+            "required": true
+        },
+        {
+            "name": "Farmersdelight",
+            "filename": "FarmersDelight-1.21.1-1.3.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FarmersDelight-1.21.1-1.3.1.jar",
+            "size": 3124506,
             "required": true
         },
         {
@@ -102,6 +172,13 @@
             "required": true
         },
         {
+            "name": "Interiors",
+            "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/interiors-1.21.1-neoforge-0.6.1.jar",
+            "size": 486912,
+            "required": true
+        },
+        {
             "name": "Item Obliterator Mc1.21.1",
             "filename": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
@@ -127,6 +204,13 @@
             "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
             "size": 618842,
+            "required": true
+        },
+        {
+            "name": "Kotlinforforge All",
+            "filename": "kotlinforforge-5.11.0-all.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/kotlinforforge-5.11.0-all.jar",
+            "size": 6869790,
             "required": true
         },
         {
@@ -158,6 +242,20 @@
             "required": true
         },
         {
+            "name": "Open Parties And Claims",
+            "filename": "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
+            "size": 1577086,
+            "required": true
+        },
+        {
+            "name": "Reeses Sodium Options 1.8.3+mc1.21.4",
+            "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+            "size": 78451,
+            "required": true
+        },
+        {
             "name": "Rhino Build.81",
             "filename": "rhino-2101.2.7-build.81.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rhino-2101.2.7-build.81.jar",
@@ -176,6 +274,48 @@
             "filename": "sable-neoforge-1.21.1-1.2.2.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sable-neoforge-1.21.1-1.2.2.jar",
             "size": 12719293,
+            "required": true
+        },
+        {
+            "name": "Sliceanddice",
+            "filename": "sliceanddice-forge-4.2.4.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sliceanddice-forge-4.2.4.jar",
+            "size": 406699,
+            "required": true
+        },
+        {
+            "name": "Sodium 0.6.13+mc1.21.1",
+            "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+            "size": 1162994,
+            "required": true
+        },
+        {
+            "name": "Sodium Extra 0.6.0+mc1.21.1",
+            "filename": "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+            "size": 367047,
+            "required": true
+        },
+        {
+            "name": "Sodiumoptionsapi",
+            "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+            "size": 309122,
+            "required": true
+        },
+        {
+            "name": "Sodiumoptionsmodcompat",
+            "filename": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+            "size": 180622,
+            "required": true
+        },
+        {
+            "name": "Voicechat",
+            "filename": "voicechat-neoforge-1.21.1-2.6.17.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/voicechat-neoforge-1.21.1-2.6.17.jar",
+            "size": 4902096,
             "required": true
         }
     ]
