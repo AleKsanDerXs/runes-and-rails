@@ -1,0 +1,35 @@
+# .github/workflows/deploy.yml
+name: Deploy to FTP Server
+
+# Запускать workflow при пуше в указанные ветки
+on:
+  push:
+    branches: [ main ]  # Укажите вашу основную ветку (master, develop и т.д.)
+
+jobs:
+  deploy:
+    name: Sync files to FTP
+    runs-on: ubuntu-latest
+    steps:
+      # Шаг 1: Клонировать репозиторий
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Шаг 2: Загрузить файлы на FTP-сервер
+      - name: Sync with FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.0.0
+        with:
+          # Адрес сервера и порт (21 — стандартный порт FTP)
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          
+          # Параметры загрузки
+          port: 21                    # Порт сервера
+          local-dir: ./              # Какая папка из репозитория загружается (корень)
+          server-dir: /github_runes/          # Куда загружать на сервере (уточните у хостинга)
+          exclude: |              # Какие файлы/папки НЕ загружать (раскомментируйте для использования)
+            **/.git*
+            **/.github*
+            **/node_modules/**
+            README.md
