@@ -8,13 +8,13 @@ variable {
 
 variable {
   name = progress_retry
-  value = 100
+  value = 60
   reset_on_launch = false
 }
 
 variable {
   name = ping_var
-  value = 190
+  value = 100
   reset_on_launch = false
 }
 
@@ -26,13 +26,13 @@ variable {
 
 variable {
   name = on_server
-  value = 0
+  value = 1
   reset_on_launch = true
 }
 
 variable {
   name = count_players
-  value = 1/20
+  value = 0/50
   reset_on_launch = false
 }
 
