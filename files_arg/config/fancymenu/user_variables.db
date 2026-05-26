@@ -8,13 +8,19 @@ variable {
 
 variable {
   name = progress_retry
-  value = 60
+  value = 100
+  reset_on_launch = false
+}
+
+variable {
+  name = new_pass_input
+  value = в
   reset_on_launch = false
 }
 
 variable {
   name = ping_var
-  value = 100
+  value = 102
   reset_on_launch = false
 }
 
@@ -25,8 +31,14 @@ variable {
 }
 
 variable {
+  name = old_pass_input
+  value = 1234
+  reset_on_launch = false
+}
+
+variable {
   name = on_server
-  value = 1
+  value = 0
   reset_on_launch = true
 }
 
