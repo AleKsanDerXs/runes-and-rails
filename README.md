@@ -27,7 +27,7 @@ Official game launcher for the Runes And Rails Minecraft server, developed by ou
 ## Support
 
 - **Telegram**: [Tap me!](https://t.me/Runes_and_Rails)
-- **Website**: [Taaaap](https://runes-and-rails.easydonate.ru/)
+- **Website**: [Taaaap](https://runes-and-rails.ru/)
 - **Issues**: Report problems in GitHub Issues
 
 ## About Runes And Rails
