@@ -37,9 +37,9 @@
     },
     {
       "id": "kirill_vanilla",
-      "name": "Ванилла Кирилла",
-      "image": "https://cs14.pikabu.ru/post_img/2023/05/30/7/168544318717665245.webp",
-      "description": "Помогаем Кире с курсовой работой",
+      "name": "Vanilla",
+      "image": "https://i.pinimg.com/736x/fa/39/cd/fa39cd3456d57f947d9890f5e1c04bc7.jpg",
+      "description": "Ламповый сервер на ванильном Minecraft 1.21.1",
       "mods_list_url": "",
       "config_list_url": "",
       "minecraft_version": "1.21.1",
