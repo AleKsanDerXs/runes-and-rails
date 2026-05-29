@@ -1,7 +1,7 @@
 {
-    "last_updated": "2026-04-30",
-    "minecraft_version": "1.21.1",
-    "forge_version": "21.1.228",
+    "last_updated": "2025-12-21",
+    "minecraft_version": "1.20.1",
+    "forge_version": "47.2.17",
     "mods": [
         {
             "name": "Advancedlootinfo",
@@ -106,6 +106,13 @@
             "filename": "diabolical-islands-1.0.0.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/diabolical-islands-1.0.0.jar",
             "size": 297053,
+            "required": true
+        },
+        {
+            "name": "Dobbymod",
+            "filename": "dobbymod-1.0.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dobbymod-1.0.0.jar",
+            "size": 7074,
             "required": true
         },
         {
