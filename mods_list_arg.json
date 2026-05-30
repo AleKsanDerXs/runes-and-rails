@@ -249,6 +249,13 @@
             "required": true
         },
         {
+            "name": "Nochatreports V2.9.1",
+            "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+            "size": 306668,
+            "required": true
+        },
+        {
             "name": "Open Parties And Claims",
             "filename": "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
