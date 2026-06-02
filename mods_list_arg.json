@@ -25,6 +25,13 @@
             "required": true
         },
         {
+            "name": "Appleskin Mc1.21",
+            "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+            "size": 75804,
+            "required": true
+        },
+        {
             "name": "Architectury",
             "filename": "architectury-13.0.8-neoforge.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/architectury-13.0.8-neoforge.jar",
@@ -50,6 +57,13 @@
             "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
             "size": 1791747,
+            "required": true
+        },
+        {
+            "name": "Corpse",
+            "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/corpse-neoforge-1.21.1-1.1.13.jar",
+            "size": 253694,
             "required": true
         },
         {
@@ -235,6 +249,13 @@
             "required": true
         },
         {
+            "name": "Letsdo Vinery",
+            "filename": "letsdo-vinery-neoforge-1.5.3.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-vinery-neoforge-1.5.3.jar",
+            "size": 2001616,
+            "required": true
+        },
+        {
             "name": "Melody_neoforge_1.0.10_mc_1.21",
             "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/melody_neoforge_1.0.10_MC_1.21.jar",
@@ -330,6 +351,20 @@
             "filename": "voicechat-neoforge-1.21.1-2.6.17.jar",
             "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/voicechat-neoforge-1.21.1-2.6.17.jar",
             "size": 4902096,
+            "required": true
+        },
+        {
+            "name": "Xaerominimap",
+            "filename": "xaerominimap-neoforge-1.21.1-25.3.13.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+            "size": 2138329,
+            "required": true
+        },
+        {
+            "name": "Xaeroworldmap",
+            "filename": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+            "size": 1387011,
             "required": true
         }
     ]
