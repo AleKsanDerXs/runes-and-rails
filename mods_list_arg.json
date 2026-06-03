@@ -270,10 +270,10 @@
             "required": true
         },
         {
-            "name": "Nochatreports V2.9.0",
-            "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.0.jar",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/NoChatReports-NEOFORGE-1.21.1-v2.9.0.jar",
-            "size": 306641,
+            "name": "Nochatreports V2.8.0",
+            "filename": "NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
+            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
+            "size": 308029,
             "required": true
         },
         {
