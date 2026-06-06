@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T22:27:31.528029",
+  "last_updated": "2026-06-06T19:13:30.113519",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -8,6 +8,27 @@
       "filename": "AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
       "size": 825643,
+      "required": true
+    },
+    {
+      "name": "Aeronauticscompat",
+      "filename": "aeronauticscompat-1.1.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronauticscompat-1.1.2.jar",
+      "size": 37307,
+      "required": true
+    },
+    {
+      "name": "Aeroworks",
+      "filename": "aeroworks-1.2.11.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroworks-1.2.11.jar",
+      "size": 278098,
+      "required": true
+    },
+    {
+      "name": "Alcohol Industry",
+      "filename": "alcohol_industry-2.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alcohol_industry-2.1.jar",
+      "size": 81740,
       "required": true
     },
     {
@@ -43,6 +64,13 @@
       "filename": "BadOptimizations-2.4.1-1.21.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BadOptimizations-2.4.1-1.21.1.jar",
       "size": 283566,
+      "required": true
+    },
+    {
+      "name": "Chat Heads",
+      "filename": "chat_heads-0.15.1-neoforge-1.21.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chat_heads-0.15.1-neoforge-1.21.jar",
+      "size": 89272,
       "required": true
     },
     {
@@ -137,6 +165,13 @@
       "required": true
     },
     {
+      "name": "Createpropulsion",
+      "filename": "createpropulsion-1.1.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createpropulsion-1.1.4.jar",
+      "size": 1196735,
+      "required": true
+    },
+    {
       "name": "Diabolical Islands",
       "filename": "diabolical-islands-1.0.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/diabolical-islands-1.0.0.jar",
@@ -228,6 +263,13 @@
       "required": true
     },
     {
+      "name": "Iris 1.8.12+Mc1.21.1",
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "size": 2438548,
+      "required": true
+    },
+    {
       "name": "Item Obliterator Mc1.21.1",
       "filename": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
@@ -312,10 +354,24 @@
       "required": true
     },
     {
-      "name": "Playernamestyler",
-      "filename": "playernamestyler-2.0.3-mc1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/playernamestyler-2.0.3-mc1.21.1.jar",
-      "size": 113800,
+      "name": "Pickupnotifier V21.1.1",
+      "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "size": 97094,
+      "required": true
+    },
+    {
+      "name": "Puzzleslib V21.1.51",
+      "filename": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+      "size": 1425185,
+      "required": true
+    },
+    {
+      "name": "Radiomod",
+      "filename": "radiomod-1.0.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/radiomod-1.0.2.jar",
+      "size": 353887,
       "required": true
     },
     {
@@ -400,6 +456,20 @@
       "filename": "sophisticatedcore-1.21.1-1.4.43.1912.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedcore-1.21.1-1.4.43.1912.jar",
       "size": 1629130,
+      "required": true
+    },
+    {
+      "name": "Vista 1.21.1",
+      "filename": "vista-neoforge-1.21.1-4.4.9.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/vista-neoforge-1.21.1-4.4.9.jar",
+      "size": 5520549,
+      "required": true
+    },
+    {
+      "name": "Vistaaeronauticsfix",
+      "filename": "VistaAeronauticsFix-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/VistaAeronauticsFix-1.0.0.jar",
+      "size": 155054,
       "required": true
     },
     {
