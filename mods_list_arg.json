@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:37:09.167011",
+  "last_updated": "2026-06-06T23:05:51.835362",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -463,13 +463,6 @@
       "filename": "vista-neoforge-1.21.1-4.4.9.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/vista-neoforge-1.21.1-4.4.9.jar",
       "size": 5520549,
-      "required": true
-    },
-    {
-      "name": "Vistaaeronauticsfix",
-      "filename": "VistaAeronauticsFix-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/VistaAeronauticsFix-1.0.0.jar",
-      "size": 155054,
       "required": true
     },
     {
