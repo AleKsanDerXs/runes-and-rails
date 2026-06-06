@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:13:30.113519",
+  "last_updated": "2026-06-06T19:17:08.724778",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -330,6 +330,13 @@
       "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "size": 36096,
+      "required": true
+    },
+    {
+      "name": "Moonlight 1.21.1",
+      "filename": "moonlight-neoforge-1.21.1-3.0.14.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/moonlight-neoforge-1.21.1-3.0.14.jar",
+      "size": 1578765,
       "required": true
     },
     {
