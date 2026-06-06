@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:17:08.724778",
+  "last_updated": "2026-06-06T19:37:09.167011",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -162,13 +162,6 @@
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "size": 180932,
-      "required": true
-    },
-    {
-      "name": "Createpropulsion",
-      "filename": "createpropulsion-1.1.4.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createpropulsion-1.1.4.jar",
-      "size": 1196735,
       "required": true
     },
     {
