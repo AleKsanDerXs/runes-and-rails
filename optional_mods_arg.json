@@ -1,0 +1,14 @@
+{
+  "optional_mods": [
+    {
+      "filename": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "display_name": "Skinlayers3D 1.11.1 Mc1.21.1",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "size": 1974380,
+      "hash": "d8640bfde4a3591868175c38c6ef36ec",
+      "required": false
+    }
+  ],
+  "last_updated": "2026-06-13T03:39:21.389772"
+}
