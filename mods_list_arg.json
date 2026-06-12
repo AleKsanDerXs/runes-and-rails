@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T22:17:33.388396",
+  "last_updated": "2026-06-12T22:25:26.251179",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -330,6 +330,13 @@
       "filename": "letsdo-vinery-neoforge-1.5.3.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-vinery-neoforge-1.5.3.jar",
       "size": 2001616,
+      "required": true
+    },
+    {
+      "name": "Libipn 1.21.1",
+      "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "size": 626146,
       "required": true
     },
     {
