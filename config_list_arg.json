@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-05-26T19:46:35.622358",
+  "last_updated": "2026-06-12T23:12:47.784054",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -396,6 +396,25 @@
           "ignore_hash": false,
           "description": "Автоматически добавлен: light.json",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/ui_themes/light.json"
+        }
+      ]
+    },
+    {
+      "id": "InventoryNext",
+      "base_path": "config/inventoryprofilesnext/integrationHints",
+      "type": "specific_files",
+      "strict_mode": true,
+      "description": "Настройка положения кнопочек в инвентаре для мода InvenrotyProfileNext (сортировка и профили инвентаря)",
+      "files": [
+        {
+          "relative_path": "player-defined.json",
+          "size": 586,
+          "hash": "c1e64b223d940a6118960c34d479698b",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: player-defined.json",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/config/inventoryprofilesnext/integrationHints/player-defined.json"
         }
       ]
     }
