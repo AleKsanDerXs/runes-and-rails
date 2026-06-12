@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T23:05:51.835362",
+  "last_updated": "2026-06-12T22:17:33.388396",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -71,6 +71,13 @@
       "filename": "chat_heads-0.15.1-neoforge-1.21.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chat_heads-0.15.1-neoforge-1.21.jar",
       "size": 89272,
+      "required": true
+    },
+    {
+      "name": "Clumps 1.21.1",
+      "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "size": 18382,
       "required": true
     },
     {
@@ -253,6 +260,13 @@
       "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/interiors-1.21.1-neoforge-0.6.1.jar",
       "size": 486912,
+      "required": true
+    },
+    {
+      "name": "Inventoryprofilesnext 1.21.1",
+      "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "size": 1295466,
       "required": true
     },
     {
