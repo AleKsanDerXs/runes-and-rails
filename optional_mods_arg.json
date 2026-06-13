@@ -28,6 +28,15 @@
       "required": false
     },
     {
+      "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "display_name": "Inventoryprofilesnext 1.21.1",
+      "description": "Добавляет продвинутую систему профилей инвентаря, которая позволяет сохранять и быстро переключаться между разными наборами предметов в инвентаре. Удобно для разных ситуаций (строительство, исследование, бой).",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "size": 1295466,
+      "hash": "0cef57934a1a913a84af75fccedb0995",
+      "required": false
+    },
+    {
       "filename": "LongerChatHistory-neoforge-1.7.jar",
       "display_name": "Longerchathistory 1.7",
       "description": "Увеличивает количество сохраняемых сообщений в чате, чтобы можно было прокручивать и читать гораздо более длинную историю переписки.",
@@ -82,5 +91,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-06-13T21:26:15.288576"
+  "last_updated": "2026-06-14T01:33:09.019271"
 }

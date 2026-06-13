@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T21:26:15.282620",
+  "last_updated": "2026-06-14T01:33:08.989319",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -260,13 +260,6 @@
       "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/interiors-1.21.1-neoforge-0.6.1.jar",
       "size": 486912,
-      "required": true
-    },
-    {
-      "name": "Inventoryprofilesnext 1.21.1",
-      "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-      "size": 1295466,
       "required": true
     },
     {
