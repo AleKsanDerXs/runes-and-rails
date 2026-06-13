@@ -3,7 +3,7 @@
     {
       "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
       "display_name": "Distanthorizons",
-      "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер. Может снизить производительность при прогрузке новой территории.",
+      "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
       "size": 30113661,
       "hash": "361d0ee31a685a290d8bf1a4d418bf74",
@@ -21,7 +21,7 @@
     {
       "filename": "InventoryParticles-2.4.0+1.21.1+neoforge.jar",
       "display_name": "Inventoryparticles",
-      "description": "Добавляет красивые анимированные частицы к предметам в инвентаре и других интерфейсах. Чисто визуальное украшение, не влияющее на геймплей.",
+      "description": "Добавляет красивые анимированные частицы к предметам в инвентаре и других интерфейсах. Чисто визуальное украшение, не влияющее на геймплей. Необходимо MossyLib.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryParticles-2.4.0+1.21.1+neoforge.jar",
       "size": 1640802,
       "hash": "aa3051b567e7e4e7d9c84b9cfe0e85bf",
@@ -43,6 +43,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
       "size": 289244,
       "hash": "825d27ec312e7142b678904ef94ab9bf",
+      "required": false
+    },
+    {
+      "filename": "MossyLib-1.4.0+1.21.1+neoforge.jar",
+      "display_name": "Mossylib",
+      "description": "Вспомогательная библиотека, которая сама по себе ничего не добавляет в игру, но необходима для работы некоторых других модов (например, Inventory Particles). Устанавливается вместе с ними.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/MossyLib-1.4.0+1.21.1+neoforge.jar",
+      "size": 178375,
+      "hash": "d8ad60d336dd1f9fc77706f852a83cd6",
       "required": false
     },
     {
@@ -73,5 +82,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-06-13T21:15:47.157732"
+  "last_updated": "2026-06-13T21:26:15.288576"
 }
