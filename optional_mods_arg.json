@@ -1,14 +1,77 @@
 {
   "optional_mods": [
     {
+      "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "display_name": "Distanthorizons",
+      "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер. Может снизить производительность при прогрузке новой территории.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "size": 30113661,
+      "hash": "361d0ee31a685a290d8bf1a4d418bf74",
+      "required": false
+    },
+    {
+      "filename": "firstperson-neoforge-2.7.1-mc1.21.1.jar",
+      "display_name": "Firstperson 2.7.1 Mc1.21.1",
+      "description": "Делает вид от первого лица более реалистичным: вы видите собственное тело — ноги, руки и туловище, — когда смотрите вниз. Добавляет погружение в игровой процесс.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/firstperson-neoforge-2.7.1-mc1.21.1.jar",
+      "size": 1609526,
+      "hash": "e4a0c627178d3effd8c8a9f4a9ba5bae",
+      "required": false
+    },
+    {
+      "filename": "InventoryParticles-2.4.0+1.21.1+neoforge.jar",
+      "display_name": "Inventoryparticles",
+      "description": "Добавляет красивые анимированные частицы к предметам в инвентаре и других интерфейсах. Чисто визуальное украшение, не влияющее на геймплей.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryParticles-2.4.0+1.21.1+neoforge.jar",
+      "size": 1640802,
+      "hash": "aa3051b567e7e4e7d9c84b9cfe0e85bf",
+      "required": false
+    },
+    {
+      "filename": "LongerChatHistory-neoforge-1.7.jar",
+      "display_name": "Longerchathistory 1.7",
+      "description": "Увеличивает количество сохраняемых сообщений в чате, чтобы можно было прокручивать и читать гораздо более длинную историю переписки.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/LongerChatHistory-neoforge-1.7.jar",
+      "size": 6094,
+      "hash": "05875eeefef70ffe0e42e474a22943f8",
+      "required": false
+    },
+    {
+      "filename": "minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "display_name": "Minecraft Cursor 3.11.3+1.21.1",
+      "description": "Заменяет стандартный курсор мыши на стилизованный под Minecraft и добавляет плавные анимации при наведении и нажатии в меню и интерфейсах.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "size": 289244,
+      "hash": "825d27ec312e7142b678904ef94ab9bf",
+      "required": false
+    },
+    {
+      "filename": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "display_name": "Notenoughanimations 1.12.3 Mc1.21.1",
+      "description": "Добавляет множество плавных анимаций для персонажа: еда, питьё, стрельба из лука, лазание, плавание и другие действия становятся более живыми как от первого, так и от третьего лица.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "size": 1938281,
+      "hash": "943c6162c7e78df7eee9edbc7d1eceb1",
+      "required": false
+    },
+    {
+      "filename": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "display_name": "Screenshot Viewer",
+      "description": "Позволяет просматривать сделанные скриншоты прямо в игре через удобное меню, а также удалять, копировать и открывать их без выхода из Minecraft.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "size": 122961,
+      "hash": "e8bfd471b06ce00177626d0902eb9b2b",
+      "required": false
+    },
+    {
       "filename": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "display_name": "Skinlayers3D 1.11.1 Mc1.21.1",
-      "description": "",
+      "description": "Делает второй слой скина (волосы, шляпы, одежду) объёмным и трёхмерным вместо плоского. Персонажи выглядят детальнее и реалистичнее.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "size": 1974380,
       "hash": "d8640bfde4a3591868175c38c6ef36ec",
       "required": false
     }
   ],
-  "last_updated": "2026-06-13T03:39:21.389772"
+  "last_updated": "2026-06-13T21:15:47.157732"
 }
