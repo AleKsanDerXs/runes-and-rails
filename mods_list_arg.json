@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T01:33:08.989319",
+  "last_updated": "2026-06-16T00:25:22.668331",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -71,6 +71,13 @@
       "filename": "chat_heads-0.15.1-neoforge-1.21.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chat_heads-0.15.1-neoforge-1.21.jar",
       "size": 89272,
+      "required": true
+    },
+    {
+      "name": "Chatmod",
+      "filename": "chatmod-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chatmod-1.0.0.jar",
+      "size": 28006,
       "required": true
     },
     {
