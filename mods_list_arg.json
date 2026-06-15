@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T00:25:22.668331",
+  "last_updated": "2026-06-16T02:41:03.619286",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -75,9 +75,9 @@
     },
     {
       "name": "Chatmod",
-      "filename": "chatmod-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chatmod-1.0.0.jar",
-      "size": 28006,
+      "filename": "chatmod-1.0.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chatmod-1.0.1.jar",
+      "size": 32364,
       "required": true
     },
     {
