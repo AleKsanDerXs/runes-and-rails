@@ -1,6 +1,15 @@
 {
   "optional_mods": [
     {
+      "filename": "createbetterfps-1.21.1-1.1.4.jar",
+      "display_name": "Createbetterfps",
+      "description": "Оптимизация Create логики при использовании шейдеров. Рекомендуется, если играете с шейдерами.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbetterfps-1.21.1-1.1.4.jar",
+      "size": 26547,
+      "hash": "88827dcbad6f5bf8974c40e6fff77ed5",
+      "required": false
+    },
+    {
       "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
       "display_name": "Distanthorizons",
       "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер.",
@@ -89,7 +98,16 @@
       "size": 1974380,
       "hash": "d8640bfde4a3591868175c38c6ef36ec",
       "required": false
+    },
+    {
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "display_name": "Sound Physics Remastered 1.21.1",
+      "description": "Мод, обеспечивающий реалистичное затухание, реверберацию и поглощение звука блоками. Глубокое погружение в атмосферу.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "size": 202454,
+      "hash": "126d0548f933cb1d25f4404198b5bf52",
+      "required": false
     }
   ],
-  "last_updated": "2026-06-14T01:33:09.019271"
+  "last_updated": "2026-06-16T19:51:37.984479"
 }
