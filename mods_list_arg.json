@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T22:08:12.043880",
+  "last_updated": "2026-06-19T19:57:59.351987",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -187,9 +187,9 @@
     },
     {
       "name": "Dobbymod",
-      "filename": "dobbymod-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dobbymod-1.0.0.jar",
-      "size": 10033,
+      "filename": "dobbymod-1.0.0.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dobbymod-1.0.0.1.jar",
+      "size": 10441,
       "required": true
     },
     {
@@ -218,6 +218,13 @@
       "filename": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "size": 861829,
+      "required": true
+    },
+    {
+      "name": "Etched",
+      "filename": "etched-5.1.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/etched-5.1.0.jar",
+      "size": 628299,
       "required": true
     },
     {
