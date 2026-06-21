@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T23:18:39.771239",
+  "last_updated": "2026-06-21T23:30:53.958380",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -505,20 +505,6 @@
       "filename": "sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
       "size": 397562,
-      "required": true
-    },
-    {
-      "name": "Sodiumoptionsapi",
-      "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "size": 309122,
-      "required": true
-    },
-    {
-      "name": "Sodiumoptionsmodcompat",
-      "filename": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
-      "size": 180622,
       "required": true
     },
     {
