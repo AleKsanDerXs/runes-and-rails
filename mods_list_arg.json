@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T19:57:59.351987",
+  "last_updated": "2026-06-21T22:07:17.412598",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -8,6 +8,20 @@
       "filename": "AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar",
       "size": 825643,
+      "required": true
+    },
+    {
+      "name": "Aeroclaims",
+      "filename": "aeroclaims-0.9.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroclaims-0.9.1.jar",
+      "size": 192213,
+      "required": true
+    },
+    {
+      "name": "Aerocopycats",
+      "filename": "aerocopycats-1.1.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aerocopycats-1.1.1.jar",
+      "size": 14702,
       "required": true
     },
     {
@@ -81,6 +95,13 @@
       "required": true
     },
     {
+      "name": "Climbable Ropes",
+      "filename": "climbable_ropes-2.0.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/climbable_ropes-2.0.1.jar",
+      "size": 241760,
+      "required": true
+    },
+    {
       "name": "Clumps 1.21.1",
       "filename": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
@@ -92,6 +113,13 @@
       "filename": "cmparallelpipes-neoforge-2.0.2.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cmparallelpipes-neoforge-2.0.2.jar",
       "size": 28606,
+      "required": true
+    },
+    {
+      "name": "Compactgearbox",
+      "filename": "compactgearbox-1.0.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/compactgearbox-1.0.2.jar",
+      "size": 164789,
       "required": true
     },
     {
@@ -193,6 +221,13 @@
       "required": true
     },
     {
+      "name": "Drivebywire",
+      "filename": "drivebywire-0.3.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/drivebywire-0.3.0.jar",
+      "size": 273144,
+      "required": true
+    },
+    {
       "name": "Dynamic Fps 3.11.4+minecraft",
       "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
@@ -218,6 +253,13 @@
       "filename": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "size": 861829,
+      "required": true
+    },
+    {
+      "name": "Esquissemod",
+      "filename": "esquissemod-0.3.1-1.21.1-21.1.230.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/esquissemod-0.3.1-1.21.1-21.1.230.jar",
+      "size": 183736,
       "required": true
     },
     {
@@ -382,6 +424,13 @@
       "required": true
     },
     {
+      "name": "Opacbonusclaims",
+      "filename": "opacbonusclaims-1.2.0-1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/opacbonusclaims-1.2.0-1.21.1.jar",
+      "size": 45568,
+      "required": true
+    },
+    {
       "name": "Open Parties And Claims",
       "filename": "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
@@ -393,6 +442,13 @@
       "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
       "size": 97094,
+      "required": true
+    },
+    {
+      "name": "Player Animation Lib 2.0.4+1.21.1",
+      "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
       "required": true
     },
     {

@@ -1,6 +1,15 @@
 {
   "optional_mods": [
     {
+      "filename": "aeronautics_windsound-1.0.1.jar",
+      "display_name": "Aeronautics Windsound",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronautics_windsound-1.0.1.jar",
+      "size": 2090769,
+      "hash": "45315497e1a8dc129558216ba4dfe56b",
+      "required": false
+    },
+    {
       "filename": "createbetterfps-1.21.1-1.1.4.jar",
       "display_name": "Createbetterfps",
       "description": "Оптимизация Create логики при использовании шейдеров. Рекомендуется, если играете с шейдерами.",
@@ -39,7 +48,7 @@
     {
       "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
       "display_name": "Inventoryprofilesnext 1.21.1",
-      "description": "Добавляет продвинутую систему профилей инвентаря, которая позволяет сохранять и быстро переключаться между разными наборами предметов в инвентаре. Удобно для разных ситуаций (строительство, исследование, бой).",
+      "description": "Добавляет отдельные профили для инвентаря, удобную сортировку и прочие дополнения для улучшения взаимодействия со своим инвентарём.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
       "size": 1295466,
       "hash": "0cef57934a1a913a84af75fccedb0995",
@@ -109,5 +118,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-06-16T19:51:37.984479"
+  "last_updated": "2026-06-21T22:07:17.427872"
 }
