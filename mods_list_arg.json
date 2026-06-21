@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T22:44:10.730410",
+  "last_updated": "2026-06-21T23:18:39.771239",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -459,10 +459,10 @@
       "required": true
     },
     {
-      "name": "Reeses Sodium Options 1.8.3+mc1.21.4",
-      "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
-      "size": 78451,
+      "name": "Reeses Sodium Options 2.0.5+Mc1.21.1",
+      "filename": "reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
+      "size": 102039,
       "required": true
     },
     {
@@ -501,10 +501,10 @@
       "required": true
     },
     {
-      "name": "Sodium Extra 0.6.0+mc1.21.1",
-      "filename": "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
-      "size": 367047,
+      "name": "Sodium Extra 0.8.7+Mc1.21.1",
+      "filename": "sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
+      "size": 397562,
       "required": true
     },
     {
