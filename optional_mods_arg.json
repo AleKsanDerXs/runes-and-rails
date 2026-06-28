@@ -116,7 +116,16 @@
       "size": 202454,
       "hash": "126d0548f933cb1d25f4404198b5bf52",
       "required": false
+    },
+    {
+      "filename": "WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "display_name": "Wi Zoom",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "size": 154879,
+      "hash": "e7a952bf976b75ec735b4634a1a4beeb",
+      "required": false
     }
   ],
-  "last_updated": "2026-06-21T22:07:17.427872"
+  "last_updated": "2026-06-28T23:45:19.583097"
 }
