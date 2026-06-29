@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T23:45:19.576751",
+  "last_updated": "2026-06-29T14:38:09.055761",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -215,9 +215,9 @@
     },
     {
       "name": "Dobbymod",
-      "filename": "dobbymod-1.0.0.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dobbymod-1.0.0.1.jar",
-      "size": 10441,
+      "filename": "dobbymod-1.0.0.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dobbymod-1.0.0.2.jar",
+      "size": 12449,
       "required": true
     },
     {
