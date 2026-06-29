@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T16:04:48.161125",
+  "last_updated": "2026-06-30T01:25:31.097718",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -78,6 +78,13 @@
       "filename": "BadOptimizations-2.4.1-1.21.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BadOptimizations-2.4.1-1.21.1.jar",
       "size": 283566,
+      "required": true
+    },
+    {
+      "name": "Carryon 1.21.1",
+      "filename": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "size": 357489,
       "required": true
     },
     {
@@ -165,6 +172,20 @@
       "required": true
     },
     {
+      "name": "Create Jetpack Curios",
+      "filename": "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "size": 421892,
+      "required": true
+    },
+    {
+      "name": "Create Radar",
+      "filename": "create_radar-0.4.9.4-1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_radar-0.4.9.4-1.21.1.jar",
+      "size": 2990812,
+      "required": true
+    },
+    {
       "name": "Createaddition",
       "filename": "createaddition-1.5.10.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createaddition-1.5.10.jar",
@@ -204,6 +225,13 @@
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "size": 180932,
+      "required": true
+    },
+    {
+      "name": "Curios 9.5.1+1.21.1",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 410690,
       "required": true
     },
     {
