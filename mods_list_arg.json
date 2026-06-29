@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T14:38:09.055761",
+  "last_updated": "2026-06-29T16:04:48.161125",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -494,10 +494,10 @@
       "required": true
     },
     {
-      "name": "Sodium 0.8.12 Beta.1+Mc1.21.1",
-      "filename": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
-      "size": 1291422,
+      "name": "Sodium 0.8.12 Beta.2+Mc1.21.1",
+      "filename": "sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
+      "size": 1291421,
       "required": true
     },
     {
