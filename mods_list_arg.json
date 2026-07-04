@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T00:44:45.814266",
+  "last_updated": "2026-07-04T15:14:23.892353",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -561,6 +561,13 @@
       "filename": "sophisticatedcore-1.21.1-1.4.43.1912.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedcore-1.21.1-1.4.43.1912.jar",
       "size": 1629130,
+      "required": true
+    },
+    {
+      "name": "Txnilib 1.0.24",
+      "filename": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/txnilib-neoforge-1.0.24-1.21.1.jar",
+      "size": 6276522,
       "required": true
     },
     {
