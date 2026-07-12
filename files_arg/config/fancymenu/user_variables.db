@@ -3,12 +3,12 @@ type = user_variables
 variable {
   name = p
   value = 
-  reset_on_launch = true
+  reset_on_launch = false
 }
 
 variable {
   name = progress_retry
-  value = 100
+  value = 80
   reset_on_launch = false
 }
 
@@ -20,13 +20,13 @@ variable {
 
 variable {
   name = ping_var
-  value = 102
+  value = 223
   reset_on_launch = false
 }
 
 variable {
   name = exit_server
-  value = 0
+  value = 
   reset_on_launch = true
 }
 
@@ -38,13 +38,13 @@ variable {
 
 variable {
   name = on_server
-  value = 0
+  value = 
   reset_on_launch = true
 }
 
 variable {
   name = count_players
-  value = 0/50
+  value = 2/50
   reset_on_launch = false
 }
 
