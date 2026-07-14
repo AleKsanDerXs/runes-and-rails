@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T22:20:25.283045",
+  "last_updated": "2026-07-15T04:33:41.809379",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -26,9 +26,9 @@
     },
     {
       "name": "Aeronauticscompat",
-      "filename": "aeronauticscompat-1.1.2.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronauticscompat-1.1.2.jar",
-      "size": 37307,
+      "filename": "aeronauticscompat-1.1.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronauticscompat-1.1.3.jar",
+      "size": 43764,
       "required": true
     },
     {
@@ -200,10 +200,10 @@
       "required": true
     },
     {
-      "name": "Createbigcannons 5.11.3+mc.1.21.1",
-      "filename": "createbigcannons-5.11.3+mc.1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbigcannons-5.11.3+mc.1.21.1.jar",
-      "size": 3715787,
+      "name": "Createbigcannons",
+      "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "size": 3771506,
       "required": true
     },
     {
@@ -295,6 +295,13 @@
       "filename": "etched-5.1.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/etched-5.1.0.jar",
       "size": 628299,
+      "required": true
+    },
+    {
+      "name": "Exposure 1.21.1",
+      "filename": "exposure-neoforge-1.21.1-1.9.18.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/exposure-neoforge-1.21.1-1.9.18.jar",
+      "size": 2192415,
       "required": true
     },
     {
@@ -487,6 +494,13 @@
       "required": true
     },
     {
+      "name": "Polymorph 1.1.0+1.21.1",
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "size": 174972,
+      "required": true
+    },
+    {
       "name": "Puzzleslib V21.1.51",
       "filename": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
@@ -543,10 +557,10 @@
       "required": true
     },
     {
-      "name": "Sodium 0.8.12 Beta.2+Mc1.21.1",
-      "filename": "sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
-      "size": 1291421,
+      "name": "Sodium 0.8.12+Mc1.21.1",
+      "filename": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "size": 1291418,
       "required": true
     },
     {

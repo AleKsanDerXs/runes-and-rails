@@ -3,10 +3,19 @@
     {
       "filename": "aeronautics_windsound-1.0.1.jar",
       "display_name": "Aeronautics Windsound",
-      "description": "",
+      "description": "Звуки ветра при полёте на своих самолётах! + Атмосфера в копилочку",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronautics_windsound-1.0.1.jar",
       "size": 2090769,
       "hash": "45315497e1a8dc129558216ba4dfe56b",
+      "required": false
+    },
+    {
+      "filename": "bloodbits-2.1.3-neoforge-1.21.1.jar",
+      "display_name": "Bloodbits",
+      "description": "Добавляет кровищу... много кровищи..",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bloodbits-2.1.3-neoforge-1.21.1.jar",
+      "size": 1394240,
+      "hash": "cf3db61abb727ba68092b330f7b12844",
       "required": false
     },
     {
@@ -91,6 +100,15 @@
       "required": false
     },
     {
+      "filename": "rrls-5.0.11+mc1.21.1-forge.jar",
+      "display_name": "Rrls",
+      "description": "Позволяет подгружать ресурспак сервера в фоне (может при начальной загрузке сломать на время отображение главного меню)",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rrls-5.0.11+mc1.21.1-forge.jar",
+      "size": 180458,
+      "hash": "e08f2180d973899c04bba1394d0c045f",
+      "required": false
+    },
+    {
       "filename": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
       "display_name": "Screenshot Viewer",
       "description": "Позволяет просматривать сделанные скриншоты прямо в игре через удобное меню, а также удалять, копировать и открывать их без выхода из Minecraft.",
@@ -118,14 +136,23 @@
       "required": false
     },
     {
+      "filename": "talking-heads-1.1.3+1.21.1+neoforge.jar",
+      "display_name": "Talking Heads",
+      "description": "Забавный мод: Головы игроков увеличиваются, когда они говорят в войс чат.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/talking-heads-1.1.3+1.21.1+neoforge.jar",
+      "size": 284958,
+      "hash": "cca7dfd0a3aa7512a6741f8840c93739",
+      "required": false
+    },
+    {
       "filename": "WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
       "display_name": "Wi Zoom",
-      "description": "",
+      "description": "Зум, просто зум.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
       "size": 154879,
       "hash": "e7a952bf976b75ec735b4634a1a4beeb",
       "required": false
     }
   ],
-  "last_updated": "2026-06-28T23:45:19.583097"
+  "last_updated": "2026-07-15T04:34:24.611900"
 }
