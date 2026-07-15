@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-07-13T00:23:59.844057",
+  "last_updated": "2026-07-16T05:39:03.028431",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -89,8 +89,8 @@
         },
         {
           "relative_path": "listener_instances.txt",
-          "size": 4327,
-          "hash": "bc140aef92b8ceea685d1144d7332f0b",
+          "size": 6762,
+          "hash": "31206382baad853ad6ab93d6713e7be6",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -109,8 +109,8 @@
         },
         {
           "relative_path": "user_variables.db",
-          "size": 619,
-          "hash": "cefa8edb27b25fe53db7563aee119283",
+          "size": 680,
+          "hash": "8672784d6867d7ba08866a5328820e7e",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
@@ -278,6 +278,16 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/account_window_layout.txt"
         },
         {
+          "relative_path": "customization/chat_screen_layout.txt",
+          "size": 9400,
+          "hash": "f4fb5995b15bc0edd99dd4973480f49b",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: chat_screen_layout.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/chat_screen_layout.txt"
+        },
+        {
           "relative_path": "customization/connect_screen_layout.txt",
           "size": 6897,
           "hash": "6f033c9e1eea0d0961682bc84525c137",
@@ -350,7 +360,7 @@
         {
           "relative_path": "customization/title_screen_layout.txt",
           "size": 64412,
-          "hash": "40da3935f1c8673d0d112c730ff701da",
+          "hash": "3cd160eec9a1c0ca9b1f3ba329b8219c",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,

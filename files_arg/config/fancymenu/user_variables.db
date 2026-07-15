@@ -2,7 +2,7 @@ type = user_variables
 
 variable {
   name = p
-  value = LENNON123
+  value = 
   reset_on_launch = true
 }
 
@@ -19,8 +19,14 @@ variable {
 }
 
 variable {
+  name = timer1
+  value = 100
+  reset_on_launch = false
+}
+
+variable {
   name = ping_var
-  value = 167
+  value = 102
   reset_on_launch = false
 }
 
@@ -44,7 +50,7 @@ variable {
 
 variable {
   name = count_players
-  value = 7/50
+  value = 3/50
   reset_on_launch = false
 }
 
