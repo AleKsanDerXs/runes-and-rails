@@ -27,7 +27,7 @@ jobs:
           # Параметры загрузки
           port: 21                    # Порт сервера
           local-dir: ./              # Какая папка из репозитория загружается (корень)
-          server-dir: /github_runes/          # Куда загружать на сервере (уточните у хостинга)
+          server-dir: /github_runes/AleKsanDerXs/runes-and-rails/main/          # Повторяет путь raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/..., чтобы это зеркало можно было использовать как base для config_list_base_url/mods_list_base_url в manifest.json лаунчера
           exclude: |              # Какие файлы/папки НЕ загружать (раскомментируйте для использования)
             **/.git*
             **/.github*
