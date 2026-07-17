@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T18:11:02.474804",
+  "last_updated": "2026-07-17T14:27:09.528084",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -106,6 +106,13 @@
       "filename": "chatmod-1.0.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chatmod-1.0.1.jar",
       "size": 32364,
+      "required": true
+    },
+    {
+      "name": "Clansmod",
+      "filename": "clansmod-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/clansmod-1.0.0.jar",
+      "size": 22801,
       "required": true
     },
     {
@@ -382,6 +389,13 @@
       "required": true
     },
     {
+      "name": "Gcsclaimsfix",
+      "filename": "gcsclaimsfix-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gcsclaimsfix-1.0.0.jar",
+      "size": 6108,
+      "required": true
+    },
+    {
       "name": "Geckolib 1.21.1",
       "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/geckolib-neoforge-1.21.1-4.9.2.jar",
@@ -515,10 +529,10 @@
       "required": true
     },
     {
-      "name": "Open Parties And Claims",
-      "filename": "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
-      "size": 1577086,
+      "name": "Open Parties And Claims 1.21.1",
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.27.6.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.27.6.jar",
+      "size": 1660003,
       "required": true
     },
     {
@@ -669,17 +683,17 @@
       "required": true
     },
     {
-      "name": "Xaerominimap",
-      "filename": "xaerominimap-neoforge-1.21.1-25.3.13.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaerominimap-neoforge-1.21.1-25.3.13.jar",
-      "size": 2138329,
+      "name": "Xaerominimap 1.21.1",
+      "filename": "xaerominimap-neoforge-1.21.1-26.3.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaerominimap-neoforge-1.21.1-26.3.0.jar",
+      "size": 2181784,
       "required": true
     },
     {
-      "name": "Xaeroworldmap",
-      "filename": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
-      "size": 1387011,
+      "name": "Xaeroworldmap 1.21.1",
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.43.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaeroworldmap-neoforge-1.21.1-1.43.0.jar",
+      "size": 1415354,
       "required": true
     }
   ]
