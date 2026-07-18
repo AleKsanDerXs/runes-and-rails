@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T02:06:54.708866",
+  "last_updated": "2026-07-18T22:46:28.217520",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -110,9 +110,9 @@
     },
     {
       "name": "Clansmod",
-      "filename": "clansmod-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/clansmod-1.0.0.jar",
-      "size": 22801,
+      "filename": "clansmod-1.6.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/clansmod-1.6.3.jar",
+      "size": 79377,
       "required": true
     },
     {
@@ -298,6 +298,13 @@
       "required": true
     },
     {
+      "name": "Downed",
+      "filename": "downed-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/downed-1.0.0.jar",
+      "size": 38905,
+      "required": true
+    },
+    {
       "name": "Drivebywire",
       "filename": "drivebywire-0.3.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/drivebywire-0.3.0.jar",
@@ -330,6 +337,13 @@
       "filename": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
       "size": 861829,
+      "required": true
+    },
+    {
+      "name": "Entityculling 1.10.5 Mc1.21.1",
+      "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "size": 1585287,
       "required": true
     },
     {
@@ -537,9 +551,9 @@
     },
     {
       "name": "Open Parties And Claims 1.21.1",
-      "filename": "open-parties-and-claims-neoforge-1.21.1-0.27.6.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.27.6.jar",
-      "size": 1660003,
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.27.8.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.27.8.jar",
+      "size": 1660009,
       "required": true
     },
     {
