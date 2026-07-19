@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T22:46:28.217520",
+  "last_updated": "2026-07-19T19:08:17.417324",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -299,9 +299,9 @@
     },
     {
       "name": "Downed",
-      "filename": "downed-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/downed-1.0.0.jar",
-      "size": 38905,
+      "filename": "downed-1.1.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/downed-1.1.0.jar",
+      "size": 39502,
       "required": true
     },
     {
