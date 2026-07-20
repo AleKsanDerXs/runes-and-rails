@@ -1,149 +1,149 @@
 {
-    "optional_mods": [
-        {
-            "filename": "aeronautics_windsound-1.0.1.jar",
-            "display_name": "Aeronautics Windsound",
-            "description": "Звуки ветра при полёте на своих самолётах! + Атмосфера в копилочку",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronautics_windsound-1.0.1.jar",
-            "size": 2090769,
-            "hash": "45315497e1a8dc129558216ba4dfe56b",
-            "required": false
-        },
-        {
-            "filename": "createbetterfps-1.21.1-1.1.4.jar",
-            "display_name": "Createbetterfps",
-            "description": "Оптимизация Create логики при использовании шейдеров. Рекомендуется, если играете с шейдерами.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbetterfps-1.21.1-1.1.4.jar",
-            "size": 26547,
-            "hash": "88827dcbad6f5bf8974c40e6fff77ed5",
-            "required": false
-        },
-        {
-            "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-            "display_name": "Distanthorizons",
-            "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-            "size": 30113661,
-            "hash": "361d0ee31a685a290d8bf1a4d418bf74",
-            "required": false
-        },
-        {
-            "filename": "firstperson-neoforge-2.7.1-mc1.21.1.jar",
-            "display_name": "Firstperson 2.7.1 Mc1.21.1",
-            "description": "Делает вид от первого лица более реалистичным: вы видите собственное тело — ноги, руки и туловище, — когда смотрите вниз. Добавляет погружение в игровой процесс.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/firstperson-neoforge-2.7.1-mc1.21.1.jar",
-            "size": 1609526,
-            "hash": "e4a0c627178d3effd8c8a9f4a9ba5bae",
-            "required": false
-        },
-        {
-            "filename": "InventoryParticles-2.4.0+1.21.1+neoforge.jar",
-            "display_name": "Inventoryparticles",
-            "description": "Добавляет красивые анимированные частицы к предметам в инвентаре и других интерфейсах. Чисто визуальное украшение, не влияющее на геймплей. Необходимо MossyLib.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryParticles-2.4.0+1.21.1+neoforge.jar",
-            "size": 1640802,
-            "hash": "aa3051b567e7e4e7d9c84b9cfe0e85bf",
-            "required": false
-        },
-        {
-            "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-            "display_name": "Inventoryprofilesnext 1.21.1",
-            "description": "Добавляет отдельные профили для инвентаря, удобную сортировку и прочие дополнения для улучшения взаимодействия со своим инвентарём.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
-            "size": 1295466,
-            "hash": "0cef57934a1a913a84af75fccedb0995",
-            "required": false
-        },
-        {
-            "filename": "LongerChatHistory-neoforge-1.7.jar",
-            "display_name": "Longerchathistory 1.7",
-            "description": "Увеличивает количество сохраняемых сообщений в чате, чтобы можно было прокручивать и читать гораздо более длинную историю переписки.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/LongerChatHistory-neoforge-1.7.jar",
-            "size": 6094,
-            "hash": "05875eeefef70ffe0e42e474a22943f8",
-            "required": false
-        },
-        {
-            "filename": "minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
-            "display_name": "Minecraft Cursor 3.11.3+1.21.1",
-            "description": "Заменяет стандартный курсор мыши на стилизованный под Minecraft и добавляет плавные анимации при наведении и нажатии в меню и интерфейсах.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
-            "size": 289244,
-            "hash": "825d27ec312e7142b678904ef94ab9bf",
-            "required": false
-        },
-        {
-            "filename": "MossyLib-1.4.0+1.21.1+neoforge.jar",
-            "display_name": "Mossylib",
-            "description": "Вспомогательная библиотека, которая сама по себе ничего не добавляет в игру, но необходима для работы некоторых других модов (например, Inventory Particles). Устанавливается вместе с ними.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/MossyLib-1.4.0+1.21.1+neoforge.jar",
-            "size": 178375,
-            "hash": "d8ad60d336dd1f9fc77706f852a83cd6",
-            "required": false
-        },
-        {
-            "filename": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
-            "display_name": "Notenoughanimations 1.12.3 Mc1.21.1",
-            "description": "Добавляет множество плавных анимаций для персонажа: еда, питьё, стрельба из лука, лазание, плавание и другие действия становятся более живыми как от первого, так и от третьего лица.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
-            "size": 1938281,
-            "hash": "943c6162c7e78df7eee9edbc7d1eceb1",
-            "required": false
-        },
-        {
-            "filename": "rrls-5.0.11+mc1.21.1-forge.jar",
-            "display_name": "Rrls",
-            "description": "Позволяет подгружать ресурспак сервера в фоне (может при начальной загрузке сломать на время отображение главного меню)",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rrls-5.0.11+mc1.21.1-forge.jar",
-            "size": 180458,
-            "hash": "e08f2180d973899c04bba1394d0c045f",
-            "required": false
-        },
-        {
-            "filename": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
-            "display_name": "Screenshot Viewer",
-            "description": "Позволяет просматривать сделанные скриншоты прямо в игре через удобное меню, а также удалять, копировать и открывать их без выхода из Minecraft.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
-            "size": 122961,
-            "hash": "e8bfd471b06ce00177626d0902eb9b2b",
-            "required": false
-        },
-        {
-            "filename": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
-            "display_name": "Skinlayers3D 1.11.1 Mc1.21.1",
-            "description": "Делает второй слой скина (волосы, шляпы, одежду) объёмным и трёхмерным вместо плоского. Персонажи выглядят детальнее и реалистичнее.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
-            "size": 1974380,
-            "hash": "d8640bfde4a3591868175c38c6ef36ec",
-            "required": false
-        },
-        {
-            "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-            "display_name": "Sound Physics Remastered 1.21.1",
-            "description": "Мод, обеспечивающий реалистичное затухание, реверберацию и поглощение звука блоками. Глубокое погружение в атмосферу.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-            "size": 202454,
-            "hash": "126d0548f933cb1d25f4404198b5bf52",
-            "required": false
-        },
-        {
-            "filename": "talking-heads-1.1.3+1.21.1+neoforge.jar",
-            "display_name": "Talking Heads",
-            "description": "Забавный мод: Головы игроков увеличиваются, когда они говорят в войс чат.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/talking-heads-1.1.3+1.21.1+neoforge.jar",
-            "size": 284958,
-            "hash": "cca7dfd0a3aa7512a6741f8840c93739",
-            "required": false
-        },
-        {
-            "filename": "WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
-            "display_name": "Wi Zoom",
-            "description": "Зум, просто зум.",
-            "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
-            "size": 154879,
-            "hash": "e7a952bf976b75ec735b4634a1a4beeb",
-            "required": false
-        }
-    ],
-    "last_updated": "2026-07-20T18:31:22+03:00"
+  "optional_mods": [
+    {
+      "filename": "aeronautics_windsound-1.0.1.jar",
+      "display_name": "Aeronautics Windsound",
+      "description": "Звуки ветра при полёте на своих самолётах! + Атмосфера в копилочку",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeronautics_windsound-1.0.1.jar",
+      "size": 2090769,
+      "hash": "45315497e1a8dc129558216ba4dfe56b",
+      "required": false
+    },
+    {
+      "filename": "createbetterfps-1.21.1-1.1.4.jar",
+      "display_name": "Createbetterfps",
+      "description": "Оптимизация Create логики при использовании шейдеров. Рекомендуется, если играете с шейдерами.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbetterfps-1.21.1-1.1.4.jar",
+      "size": 26547,
+      "hash": "88827dcbad6f5bf8974c40e6fff77ed5",
+      "required": false
+    },
+    {
+      "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "display_name": "Distanthorizons",
+      "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "size": 30113661,
+      "hash": "361d0ee31a685a290d8bf1a4d418bf74",
+      "required": false
+    },
+    {
+      "filename": "firstperson-neoforge-2.7.1-mc1.21.1.jar",
+      "display_name": "Firstperson 2.7.1 Mc1.21.1",
+      "description": "Делает вид от первого лица более реалистичным: вы видите собственное тело — ноги, руки и туловище, — когда смотрите вниз. Добавляет погружение в игровой процесс.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/firstperson-neoforge-2.7.1-mc1.21.1.jar",
+      "size": 1609526,
+      "hash": "e4a0c627178d3effd8c8a9f4a9ba5bae",
+      "required": false
+    },
+    {
+      "filename": "InventoryParticles-2.4.0+1.21.1+neoforge.jar",
+      "display_name": "Inventoryparticles",
+      "description": "Добавляет красивые анимированные частицы к предметам в инвентаре и других интерфейсах. Чисто визуальное украшение, не влияющее на геймплей. Необходимо MossyLib.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryParticles-2.4.0+1.21.1+neoforge.jar",
+      "size": 1640802,
+      "hash": "aa3051b567e7e4e7d9c84b9cfe0e85bf",
+      "required": false
+    },
+    {
+      "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "display_name": "Inventoryprofilesnext 1.21.1",
+      "description": "Добавляет отдельные профили для инвентаря, удобную сортировку и прочие дополнения для улучшения взаимодействия со своим инвентарём.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+      "size": 1295466,
+      "hash": "0cef57934a1a913a84af75fccedb0995",
+      "required": false
+    },
+    {
+      "filename": "LongerChatHistory-neoforge-1.7.jar",
+      "display_name": "Longerchathistory 1.7",
+      "description": "Увеличивает количество сохраняемых сообщений в чате, чтобы можно было прокручивать и читать гораздо более длинную историю переписки.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/LongerChatHistory-neoforge-1.7.jar",
+      "size": 6094,
+      "hash": "05875eeefef70ffe0e42e474a22943f8",
+      "required": false
+    },
+    {
+      "filename": "minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "display_name": "Minecraft Cursor 3.11.3+1.21.1",
+      "description": "Заменяет стандартный курсор мыши на стилизованный под Minecraft и добавляет плавные анимации при наведении и нажатии в меню и интерфейсах.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "size": 289244,
+      "hash": "825d27ec312e7142b678904ef94ab9bf",
+      "required": false
+    },
+    {
+      "filename": "MossyLib-1.4.0+1.21.1+neoforge.jar",
+      "display_name": "Mossylib",
+      "description": "Вспомогательная библиотека, которая сама по себе ничего не добавляет в игру, но необходима для работы некоторых других модов (например, Inventory Particles). Устанавливается вместе с ними.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/MossyLib-1.4.0+1.21.1+neoforge.jar",
+      "size": 178375,
+      "hash": "d8ad60d336dd1f9fc77706f852a83cd6",
+      "required": false
+    },
+    {
+      "filename": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "display_name": "Notenoughanimations 1.12.3 Mc1.21.1",
+      "description": "Добавляет множество плавных анимаций для персонажа: еда, питьё, стрельба из лука, лазание, плавание и другие действия становятся более живыми как от первого, так и от третьего лица.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+      "size": 1938281,
+      "hash": "943c6162c7e78df7eee9edbc7d1eceb1",
+      "required": false
+    },
+    {
+      "filename": "rrls-5.0.11+mc1.21.1-forge.jar",
+      "display_name": "Rrls",
+      "description": "Позволяет подгружать ресурспак сервера в фоне (может при начальной загрузке сломать на время отображение главного меню)",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rrls-5.0.11+mc1.21.1-forge.jar",
+      "size": 180458,
+      "hash": "e08f2180d973899c04bba1394d0c045f",
+      "required": false
+    },
+    {
+      "filename": "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "display_name": "Screenshot Viewer",
+      "description": "Позволяет просматривать сделанные скриншоты прямо в игре через удобное меню, а также удалять, копировать и открывать их без выхода из Minecraft.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+      "size": 122961,
+      "hash": "e8bfd471b06ce00177626d0902eb9b2b",
+      "required": false
+    },
+    {
+      "filename": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "display_name": "Skinlayers3D 1.11.1 Mc1.21.1",
+      "description": "Делает второй слой скина (волосы, шляпы, одежду) объёмным и трёхмерным вместо плоского. Персонажи выглядят детальнее и реалистичнее.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "size": 1974380,
+      "hash": "d8640bfde4a3591868175c38c6ef36ec",
+      "required": false
+    },
+    {
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "display_name": "Sound Physics Remastered 1.21.1",
+      "description": "Мод, обеспечивающий реалистичное затухание, реверберацию и поглощение звука блоками. Глубокое погружение в атмосферу.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "size": 202454,
+      "hash": "126d0548f933cb1d25f4404198b5bf52",
+      "required": false
+    },
+    {
+      "filename": "talking-heads-1.1.3+1.21.1+neoforge.jar",
+      "display_name": "Talking Heads",
+      "description": "Забавный мод: Головы игроков увеличиваются, когда они говорят в войс чат.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/talking-heads-1.1.3+1.21.1+neoforge.jar",
+      "size": 284958,
+      "hash": "cca7dfd0a3aa7512a6741f8840c93739",
+      "required": false
+    },
+    {
+      "filename": "WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "display_name": "Wi Zoom",
+      "description": "Зум, просто зум.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "size": 154879,
+      "hash": "e7a952bf976b75ec735b4634a1a4beeb",
+      "required": false
+    }
+  ],
+  "last_updated": "2026-07-20T18:31:22+03:00"
 }
