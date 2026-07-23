@@ -10,6 +10,15 @@
       "required": false
     },
     {
+      "filename": "bloodyparticles-neoforge-1.21.1-4.0.0.jar",
+      "display_name": "Bloodyparticles 1.21.1",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bloodyparticles-neoforge-1.21.1-4.0.0.jar",
+      "size": 367954,
+      "hash": "72b939a34758b2b7f4fbc8f9845487c7",
+      "required": false
+    },
+    {
       "filename": "createbetterfps-1.21.1-1.1.4.jar",
       "display_name": "Createbetterfps",
       "description": "Оптимизация Create логики при использовании шейдеров. Рекомендуется, если играете с шейдерами.",
@@ -145,5 +154,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-07-21T17:53:39+03:00"
+  "last_updated": "2026-07-23T09:53:54+03:00"
 }
