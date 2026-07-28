@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T10:51:09+03:00",
+  "last_updated": "2026-07-28T11:23:34+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -446,9 +446,9 @@
     },
     {
       "name": "Itemskins",
-      "filename": "itemskins-0.1.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/itemskins-0.1.0.jar",
-      "size": 98663,
+      "filename": "itemskins-0.1.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/itemskins-0.1.1.jar",
+      "size": 98883,
       "required": true
     },
     {
