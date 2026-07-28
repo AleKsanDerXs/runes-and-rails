@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T23:56:06+03:00",
+  "last_updated": "2026-07-28T10:51:09+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -12,9 +12,9 @@
     },
     {
       "name": "Aeroclaims",
-      "filename": "aeroclaims-0.9.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroclaims-0.9.1.jar",
-      "size": 192213,
+      "filename": "aeroclaims-0.9.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroclaims-0.9.2.jar",
+      "size": 193059,
       "required": true
     },
     {
@@ -445,6 +445,13 @@
       "required": true
     },
     {
+      "name": "Itemskins",
+      "filename": "itemskins-0.1.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/itemskins-0.1.0.jar",
+      "size": 98663,
+      "required": true
+    },
+    {
       "name": "Jade",
       "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Jade-1.21.1-NeoForge-15.10.5.jar",
@@ -551,9 +558,9 @@
     },
     {
       "name": "Open Parties And Claims 1.21.1",
-      "filename": "open-parties-and-claims-neoforge-1.21.1-0.27.8.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.27.8.jar",
-      "size": 1660009,
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.29.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/open-parties-and-claims-neoforge-1.21.1-0.29.3.jar",
+      "size": 1678468,
       "required": true
     },
     {
