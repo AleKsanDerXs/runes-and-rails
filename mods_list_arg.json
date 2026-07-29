@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T15:57:11+03:00",
+  "last_updated": "2026-07-29T17:13:53+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -270,6 +270,13 @@
       "required": true
     },
     {
+      "name": "Createfood 1.21.1",
+      "filename": "createfood-neoforge-1.21.1-2.6.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createfood-neoforge-1.21.1-2.6.0.jar",
+      "size": 9032984,
+      "required": true
+    },
+    {
       "name": "Creategoggles [neoforge]",
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
@@ -284,10 +291,24 @@
       "required": true
     },
     {
+      "name": "Delightfulcreators",
+      "filename": "delightfulcreators-1.2.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/delightfulcreators-1.2.1.jar",
+      "size": 413017,
+      "required": true
+    },
+    {
       "name": "Diabolical Islands",
       "filename": "diabolical-islands-1.0.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/diabolical-islands-1.0.0.jar",
       "size": 297053,
+      "required": true
+    },
+    {
+      "name": "Displaydelight",
+      "filename": "displaydelight-1.7.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/displaydelight-1.7.0.jar",
+      "size": 1144367,
       "required": true
     },
     {
@@ -372,6 +393,13 @@
       "filename": "FarmersDelight-1.21.1-1.3.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FarmersDelight-1.21.1-1.3.1.jar",
       "size": 3124506,
+      "required": true
+    },
+    {
+      "name": "Female Gender Mod 1.21",
+      "filename": "Female-Gender-Mod-neoforge-1.21-3.2.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Female-Gender-Mod-neoforge-1.21-3.2.2.jar",
+      "size": 835948,
       "required": true
     },
     {
