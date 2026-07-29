@@ -12,7 +12,7 @@
     {
       "filename": "bloodyparticles-neoforge-1.21.1-4.0.0.jar",
       "display_name": "Bloodyparticles 1.21.1",
-      "description": "",
+      "description": "Кровь.... Мноооогоо кровиии...",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bloodyparticles-neoforge-1.21.1-4.0.0.jar",
       "size": 367954,
       "hash": "72b939a34758b2b7f4fbc8f9845487c7",
@@ -43,6 +43,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/firstperson-neoforge-2.7.1-mc1.21.1.jar",
       "size": 1609526,
       "hash": "e4a0c627178d3effd8c8a9f4a9ba5bae",
+      "required": false
+    },
+    {
+      "filename": "grassiergrass-neoforge-1.4.5-mc1.21.1.jar",
+      "display_name": "Grassiergrass 1.4.5 Mc1.21.1",
+      "description": "Добавляет физику для травы. Ощути вайбы природы, услышь как колышется травка... ммм",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/grassiergrass-neoforge-1.4.5-mc1.21.1.jar",
+      "size": 2350729,
+      "hash": "2baec0a89632823e92ada367e520a015",
       "required": false
     },
     {
@@ -154,5 +163,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-07-23T09:53:54+03:00"
+  "last_updated": "2026-07-29T17:15:10+03:00"
 }
