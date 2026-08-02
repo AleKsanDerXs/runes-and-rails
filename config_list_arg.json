@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-08-02T15:35:32.073515",
+  "last_updated": "2026-08-03T02:47:23.255113",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -99,8 +99,8 @@
         },
         {
           "relative_path": "options.txt",
-          "size": 2523,
-          "hash": "c249d0188b665758fa73c9da1c3488c2",
+          "size": 2524,
+          "hash": "a272f3dc7cb6629e3f2f91ca78b8222f",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
@@ -109,8 +109,8 @@
         },
         {
           "relative_path": "user_variables.db",
-          "size": 678,
-          "hash": "6a7ee40c44ca1aae856e233ad2cf38d6",
+          "size": 677,
+          "hash": "b277f7885e76ea80ee06f9bd91fa22cd",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
