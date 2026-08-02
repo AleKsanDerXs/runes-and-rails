@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T07:15:13+03:00",
+  "last_updated": "2026-08-02T07:25:34+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -666,13 +666,6 @@
       "filename": "sable-neoforge-1.21.1-2.0.3.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sable-neoforge-1.21.1-2.0.3.jar",
       "size": 12889000,
-      "required": true
-    },
-    {
-      "name": "Sable Removed Sublevel Split Guard",
-      "filename": "sable-removed-sublevel-split-guard-1.21.1-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sable-removed-sublevel-split-guard-1.21.1-1.0.0.jar",
-      "size": 3364,
       "required": true
     },
     {
