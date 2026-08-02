@@ -30,7 +30,7 @@
     {
       "filename": "disableeffects-1.21.1-1.0.jar",
       "display_name": "Disableeffects",
-      "description": "",
+      "description": "Устраняет раздражающее мерцание эффекта «ночное зрение» в конце действия заклинания, а также частицы эффектов на стороне клиента.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/disableeffects-1.21.1-1.0.jar",
       "size": 6560,
       "hash": "21c31a56f15f15d4ee043d9851da211a",
@@ -84,7 +84,7 @@
     {
       "filename": "lambdynamiclights-4.8.10+1.21.1.jar",
       "display_name": "Lambdynamiclights",
-      "description": "",
+      "description": "Добавляет динамическое освещение в Minecraft — самый многофункциональный и оптимизированный мод на динамическое освещение.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/lambdynamiclights-4.8.10%2B1.21.1.jar",
       "size": 2022585,
       "hash": "2987072d76db05c5834cfd8c0377a62d",
@@ -181,5 +181,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-08-02T07:16:37+03:00"
+  "last_updated": "2026-08-02T07:32:19+03:00"
 }
