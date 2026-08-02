@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T17:13:53+03:00",
+  "last_updated": "2026-08-02T07:15:13+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -410,6 +410,13 @@
       "required": true
     },
     {
+      "name": "Ftb Filter System 21.1.0",
+      "filename": "ftb-filter-system-neoforge-21.1.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-filter-system-neoforge-21.1.0.jar",
+      "size": 204858,
+      "required": true
+    },
+    {
       "name": "Ftb Library",
       "filename": "ftb-library-neoforge-2101.1.31.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ftb-library-neoforge-2101.1.31.jar",
@@ -662,6 +669,13 @@
       "required": true
     },
     {
+      "name": "Sable Removed Sublevel Split Guard",
+      "filename": "sable-removed-sublevel-split-guard-1.21.1-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sable-removed-sublevel-split-guard-1.21.1-1.0.0.jar",
+      "size": 3364,
+      "required": true
+    },
+    {
       "name": "Sablecleanup",
       "filename": "sablecleanup-0.3.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sablecleanup-0.3.0.jar",
@@ -764,6 +778,13 @@
       "filename": "voicechat-neoforge-1.21.1-2.6.17.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/voicechat-neoforge-1.21.1-2.6.17.jar",
       "size": 4902096,
+      "required": true
+    },
+    {
+      "name": "Vs Sable Hoseconnectors",
+      "filename": "VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar",
+      "size": 755333,
       "required": true
     },
     {
