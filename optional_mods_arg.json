@@ -28,6 +28,15 @@
       "required": false
     },
     {
+      "filename": "disableeffects-1.21.1-1.0.jar",
+      "display_name": "Disableeffects",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/disableeffects-1.21.1-1.0.jar",
+      "size": 6560,
+      "hash": "21c31a56f15f15d4ee043d9851da211a",
+      "required": false
+    },
+    {
       "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
       "display_name": "Distanthorizons",
       "description": "Значительно увеличивает дальность прорисовки мира, отрисовывая дальние ландшафты в упрощённом виде (LOD). Позволяет видеть горизонт на сотни чанков без большой нагрузки на компьютер.",
@@ -70,6 +79,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
       "size": 1295466,
       "hash": "0cef57934a1a913a84af75fccedb0995",
+      "required": false
+    },
+    {
+      "filename": "lambdynamiclights-4.8.10+1.21.1.jar",
+      "display_name": "Lambdynamiclights",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/lambdynamiclights-4.8.10%2B1.21.1.jar",
+      "size": 2022585,
+      "hash": "2987072d76db05c5834cfd8c0377a62d",
       "required": false
     },
     {
@@ -163,5 +181,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-07-29T17:15:10+03:00"
+  "last_updated": "2026-08-02T07:16:37+03:00"
 }
