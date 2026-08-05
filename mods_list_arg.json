@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T15:59:42+03:00",
+  "last_updated": "2026-08-05T07:47:08+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -659,6 +659,13 @@
       "filename": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "size": 76369,
+      "required": true
+    },
+    {
+      "name": "Rpc",
+      "filename": "rpc-1.2.5+1.20.5-1.21.4-neoforge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rpc-1.2.5%2B1.20.5-1.21.4-neoforge.jar",
+      "size": 15428,
       "required": true
     },
     {
