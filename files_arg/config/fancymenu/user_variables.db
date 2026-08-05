@@ -26,13 +26,13 @@ variable {
 
 variable {
   name = ping_var
-  value = 144
+  value = 128
   reset_on_launch = false
 }
 
 variable {
   name = exit_server
-  value = 0
+  value = 
   reset_on_launch = true
 }
 
@@ -44,7 +44,7 @@ variable {
 
 variable {
   name = on_server
-  value = 1
+  value = 
   reset_on_launch = true
 }
 
