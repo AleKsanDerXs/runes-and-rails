@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-08-05T19:12:59.584384",
+  "last_updated": "2026-08-05T21:42:08.004729",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -109,8 +109,8 @@
         },
         {
           "relative_path": "user_variables.db",
-          "size": 676,
-          "hash": "be2258fc5bfb4d5e2d9318fecaceaa04",
+          "size": 768,
+          "hash": "b56ddef4fbe1e5157b5d3b421fab7bb3",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
@@ -349,8 +349,8 @@
         },
         {
           "relative_path": "customization/pause_screen_layout.txt",
-          "size": 40373,
-          "hash": "61a6dbc649c270f1667e3c953b3090e7",
+          "size": 42608,
+          "hash": "46738b4efc0b9595a6acf2c1c93d9541",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -359,8 +359,8 @@
         },
         {
           "relative_path": "customization/title_screen_layout.txt",
-          "size": 64825,
-          "hash": "3aaa9b35b2cb0bd95b001f96f8aba282",
+          "size": 64891,
+          "hash": "d038405ae9c6712091dfb49c9ed5768f",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,

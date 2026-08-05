@@ -26,13 +26,13 @@ variable {
 
 variable {
   name = ping_var
-  value = 128
+  value = 149
   reset_on_launch = false
 }
 
 variable {
   name = exit_server
-  value = 
+  value = 0
   reset_on_launch = true
 }
 
@@ -44,13 +44,19 @@ variable {
 
 variable {
   name = on_server
-  value = 
+  value = 1
   reset_on_launch = true
 }
 
 variable {
+  name = ip_server
+  value = minecraft2.hippa.ru
+  reset_on_launch = false
+}
+
+variable {
   name = count_players
-  value = 0/55
+  value = 27/55
   reset_on_launch = false
 }
 
