@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-08-06T15:45:44.963217",
+  "last_updated": "2026-08-06T18:44:58.484065",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -109,8 +109,8 @@
         },
         {
           "relative_path": "user_variables.db",
-          "size": 969,
-          "hash": "34d3ca005d864200d557c29bc78ca366",
+          "size": 1122,
+          "hash": "9b4b11897fff4183de2223de9e1f85dc",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
@@ -289,8 +289,8 @@
         },
         {
           "relative_path": "customization/choose_server_layout.txt",
-          "size": 13205,
-          "hash": "4927580f33bac22a6f0f6a92ff17477a",
+          "size": 20844,
+          "hash": "035e75a9602272b4773ad3070b6fc415",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -369,8 +369,8 @@
         },
         {
           "relative_path": "customization/title_screen_layout.txt",
-          "size": 65801,
-          "hash": "528c93ab3719c7fadfab2247db72ac46",
+          "size": 66585,
+          "hash": "82907cfc9a5c358d70da2ab4f15e7d81",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -389,8 +389,8 @@
         },
         {
           "relative_path": "layout_editor/widgets/element_layer_control.lewidget",
-          "size": 198,
-          "hash": "acc16925548bde9719d8e698eebb32b1",
+          "size": 199,
+          "hash": "341a1d8211f4bef5c0e30d5cbc0a8386",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
