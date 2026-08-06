@@ -1,6 +1,36 @@
 type = user_variables
 
 variable {
+  name = timer1
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = ticker_text
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = ping_var
+  value = 150
+  reset_on_launch = false
+}
+
+variable {
+  name = last_server
+  value = minecraft2.hippa.ru
+  reset_on_launch = false
+}
+
+variable {
+  name = count_players
+  value = 23/55
+  reset_on_launch = false
+}
+
+variable {
   name = p
   value = 
   reset_on_launch = true
@@ -19,20 +49,8 @@ variable {
 }
 
 variable {
-  name = timer1
-  value = 0
-  reset_on_launch = false
-}
-
-variable {
   name = ip_server2
   value = minecraft3.runes-and-rails.ru
-  reset_on_launch = false
-}
-
-variable {
-  name = ping_var
-  value = 135
   reset_on_launch = false
 }
 
@@ -49,8 +67,8 @@ variable {
 }
 
 variable {
-  name = last_server
-  value = minecraft3.runes-and-rails.ru
+  name = ip_server3
+  value = 202.181.188.52:25565
   reset_on_launch = false
 }
 
@@ -63,12 +81,6 @@ variable {
 variable {
   name = ip_server
   value = minecraft2.hippa.ru
-  reset_on_launch = false
-}
-
-variable {
-  name = count_players
-  value = 16/55
   reset_on_launch = false
 }
 
