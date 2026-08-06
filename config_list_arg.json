@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-08-06T18:44:58.484065",
+  "last_updated": "2026-08-06T12:59:34+03:00",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -68,16 +68,6 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customizablemenus.txt"
         },
         {
-          "relative_path": "custom_gui_screens.txt",
-          "size": 1046,
-          "hash": "cf83bd7395fffea6d472719c2a5ae8a3",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен: custom_gui_screens.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/custom_gui_screens.txt"
-        },
-        {
           "relative_path": "legacy_checklist.txt",
           "size": 42,
           "hash": "bc03e01c4f1bf1e24e9b86591baa512b",
@@ -88,16 +78,6 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/legacy_checklist.txt"
         },
         {
-          "relative_path": "listener_instances.txt",
-          "size": 7025,
-          "hash": "382d8830e01cb431fd32e9a507ee3996",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен при обновлении: listener_instances.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/listener_instances.txt"
-        },
-        {
           "relative_path": "options.txt",
           "size": 2524,
           "hash": "a272f3dc7cb6629e3f2f91ca78b8222f",
@@ -106,16 +86,6 @@
           "ignore_hash": true,
           "description": "Автоматически добавлен: options.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/options.txt"
-        },
-        {
-          "relative_path": "user_variables.db",
-          "size": 1122,
-          "hash": "9b4b11897fff4183de2223de9e1f85dc",
-          "required": true,
-          "ignore_size": true,
-          "ignore_hash": true,
-          "description": "Автоматически добавлен: user_variables.db",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/user_variables.db"
         },
         {
           "relative_path": "assets/background1.png",
@@ -288,16 +258,6 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/chat_screen_layout.txt"
         },
         {
-          "relative_path": "customization/choose_server_layout.txt",
-          "size": 20844,
-          "hash": "035e75a9602272b4773ad3070b6fc415",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен при обновлении: choose_server_layout.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/choose_server_layout.txt"
-        },
-        {
           "relative_path": "customization/connect_screen_layout.txt",
           "size": 6897,
           "hash": "6f033c9e1eea0d0961682bc84525c137",
@@ -338,16 +298,6 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/death_screen_layout.txt"
         },
         {
-          "relative_path": "customization/disconnected_screen_layout.txt",
-          "size": 19303,
-          "hash": "28513a75bd77a9610f5b25af6a5c992e",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен: disconnected_screen_layout.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/disconnected_screen_layout.txt"
-        },
-        {
           "relative_path": "customization/join_multiplayer_screen_layout.txt",
           "size": 21693,
           "hash": "ba86bfbf2b90ea27af5a65c46f98c6bd",
@@ -358,26 +308,6 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/join_multiplayer_screen_layout.txt"
         },
         {
-          "relative_path": "customization/pause_screen_layout.txt",
-          "size": 42608,
-          "hash": "46738b4efc0b9595a6acf2c1c93d9541",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен: pause_screen_layout.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/pause_screen_layout.txt"
-        },
-        {
-          "relative_path": "customization/title_screen_layout.txt",
-          "size": 66585,
-          "hash": "82907cfc9a5c358d70da2ab4f15e7d81",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен при обновлении: title_screen_layout.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/title_screen_layout.txt"
-        },
-        {
           "relative_path": "customization/universal_layout1.txt",
           "size": 2604,
           "hash": "4df5af88c2a76fb522b3371552fdad97",
@@ -386,16 +316,6 @@
           "ignore_hash": false,
           "description": "Автоматически добавлен при обновлении: universal_layout1.txt",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/universal_layout1.txt"
-        },
-        {
-          "relative_path": "layout_editor/widgets/element_layer_control.lewidget",
-          "size": 199,
-          "hash": "341a1d8211f4bef5c0e30d5cbc0a8386",
-          "required": true,
-          "ignore_size": false,
-          "ignore_hash": false,
-          "description": "Автоматически добавлен при обновлении: element_layer_control.lewidget",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
         },
         {
           "relative_path": "ui_themes/dark.json",
@@ -416,6 +336,86 @@
           "ignore_hash": false,
           "description": "Автоматически добавлен: light.json",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/ui_themes/light.json"
+        },
+        {
+          "relative_path": "customization/choose_server_layout.txt",
+          "size": 20844,
+          "hash": "035e75a9602272b4773ad3070b6fc415",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: choose_server_layout.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/choose_server_layout.txt"
+        },
+        {
+          "relative_path": "listener_instances.txt",
+          "size": 7025,
+          "hash": "382d8830e01cb431fd32e9a507ee3996",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: listener_instances.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/listener_instances.txt"
+        },
+        {
+          "relative_path": "customization/pause_screen_layout.txt",
+          "size": 42608,
+          "hash": "46738b4efc0b9595a6acf2c1c93d9541",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен: pause_screen_layout.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/pause_screen_layout.txt"
+        },
+        {
+          "relative_path": "layout_editor/widgets/element_layer_control.lewidget",
+          "size": 199,
+          "hash": "341a1d8211f4bef5c0e30d5cbc0a8386",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: element_layer_control.lewidget",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+        },
+        {
+          "relative_path": "customization/disconnected_screen_layout.txt",
+          "size": 19303,
+          "hash": "28513a75bd77a9610f5b25af6a5c992e",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен: disconnected_screen_layout.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/disconnected_screen_layout.txt"
+        },
+        {
+          "relative_path": "user_variables.db",
+          "size": 1122,
+          "hash": "9b4b11897fff4183de2223de9e1f85dc",
+          "required": true,
+          "ignore_size": true,
+          "ignore_hash": true,
+          "description": "Автоматически добавлен: user_variables.db",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/user_variables.db"
+        },
+        {
+          "relative_path": "customization/title_screen_layout.txt",
+          "size": 66585,
+          "hash": "82907cfc9a5c358d70da2ab4f15e7d81",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: title_screen_layout.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/title_screen_layout.txt"
+        },
+        {
+          "relative_path": "custom_gui_screens.txt",
+          "size": 1046,
+          "hash": "cf83bd7395fffea6d472719c2a5ae8a3",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен: custom_gui_screens.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/custom_gui_screens.txt"
         }
       ]
     },
