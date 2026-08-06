@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T10:22:18+03:00",
+  "last_updated": "2026-08-06T12:58:49+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -463,6 +463,13 @@
       "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/geckolib-neoforge-1.21.1-4.9.2.jar",
       "size": 630584,
+      "required": true
+    },
+    {
+      "name": "Gimpanum",
+      "filename": "gimpanum-0.1.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gimpanum-0.1.0.jar",
+      "size": 114001,
       "required": true
     },
     {
