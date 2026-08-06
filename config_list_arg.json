@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-08-05T21:42:08.004729",
+  "last_updated": "2026-08-06T15:45:44.963217",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -69,8 +69,8 @@
         },
         {
           "relative_path": "custom_gui_screens.txt",
-          "size": 772,
-          "hash": "3ace3163a727222c8f3e079765cee121",
+          "size": 1046,
+          "hash": "cf83bd7395fffea6d472719c2a5ae8a3",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -109,8 +109,8 @@
         },
         {
           "relative_path": "user_variables.db",
-          "size": 768,
-          "hash": "b56ddef4fbe1e5157b5d3b421fab7bb3",
+          "size": 969,
+          "hash": "34d3ca005d864200d557c29bc78ca366",
           "required": true,
           "ignore_size": true,
           "ignore_hash": true,
@@ -288,6 +288,16 @@
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/chat_screen_layout.txt"
         },
         {
+          "relative_path": "customization/choose_server_layout.txt",
+          "size": 13205,
+          "hash": "4927580f33bac22a6f0f6a92ff17477a",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "Автоматически добавлен при обновлении: choose_server_layout.txt",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/choose_server_layout.txt"
+        },
+        {
           "relative_path": "customization/connect_screen_layout.txt",
           "size": 6897,
           "hash": "6f033c9e1eea0d0961682bc84525c137",
@@ -329,8 +339,8 @@
         },
         {
           "relative_path": "customization/disconnected_screen_layout.txt",
-          "size": 19267,
-          "hash": "88e4f8e8310ea1c49d907acbc45d8df1",
+          "size": 19303,
+          "hash": "28513a75bd77a9610f5b25af6a5c992e",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -359,8 +369,8 @@
         },
         {
           "relative_path": "customization/title_screen_layout.txt",
-          "size": 64891,
-          "hash": "d038405ae9c6712091dfb49c9ed5768f",
+          "size": 65801,
+          "hash": "528c93ab3719c7fadfab2247db72ac46",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -379,8 +389,8 @@
         },
         {
           "relative_path": "layout_editor/widgets/element_layer_control.lewidget",
-          "size": 199,
-          "hash": "be54950199033afe2d8641a4486b3423",
+          "size": 198,
+          "hash": "acc16925548bde9719d8e698eebb32b1",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
