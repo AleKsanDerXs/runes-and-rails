@@ -19,6 +19,15 @@
       "required": false
     },
     {
+      "filename": "bobby_reneoforged-5.2.4-0.4+mc1.21.jar",
+      "display_name": "Bobby Reneoforged",
+      "description": "Альтернативная прогрузка чанков мира независимо от сервера. Поддерживает также Create и Create Aeronautics.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bobby_reneoforged-5.2.4-0.4%2Bmc1.21.jar",
+      "size": 1199051,
+      "hash": "6cd54223d4a5466cbdeacccd09c19ad8",
+      "required": false
+    },
+    {
       "filename": "createbetterfps-1.21.1-1.1.4.jar",
       "display_name": "Createbetterfps",
       "description": "Оптимизация Create логики при использовании шейдеров. Рекомендуется, если играете с шейдерами.",
@@ -181,5 +190,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-08-06T12:58:58+03:00"
+  "last_updated": "2026-08-10T16:01:32+03:00"
 }
