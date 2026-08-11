@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T08:13:53+03:00",
+  "last_updated": "2026-08-12T02:41:53+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -288,6 +288,13 @@
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "size": 180932,
+      "required": true
+    },
+    {
+      "name": "Createtickcontroller",
+      "filename": "createtickcontroller-1.21.1-1.1.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createtickcontroller-1.21.1-1.1.1.jar",
+      "size": 209795,
       "required": true
     },
     {
