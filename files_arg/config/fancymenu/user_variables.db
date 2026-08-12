@@ -8,25 +8,25 @@ variable {
 
 variable {
   name = ticker_text
-  value = 
+  value = Выбирайте 1ip и 3ip, если у вас всё хорошо. 2ip и 4ip - если есть проблемы с подключением или высоким пингом.
   reset_on_launch = false
 }
 
 variable {
   name = ping_var
-  value = 152
+  value = 151
   reset_on_launch = false
 }
 
 variable {
   name = last_server
-  value = minecraft3.runes-and-rails.ru
+  value = minecraft.hippa.ru
   reset_on_launch = false
 }
 
 variable {
   name = count_players
-  value = 19/55
+  value = 6/55
   reset_on_launch = false
 }
 
@@ -58,6 +58,18 @@ variable {
   name = exit_server
   value = 0
   reset_on_launch = true
+}
+
+variable {
+  name = ip_server_ex2
+  value = runes.minecraft.surf
+  reset_on_launch = false
+}
+
+variable {
+  name = ip_server_ex1
+  value = minecraft.hippa.ru
+  reset_on_launch = false
 }
 
 variable {
