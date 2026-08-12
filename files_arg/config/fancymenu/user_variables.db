@@ -14,7 +14,7 @@ variable {
 
 variable {
   name = ping_var
-  value = 151
+  value = 153
   reset_on_launch = false
 }
 
@@ -26,7 +26,7 @@ variable {
 
 variable {
   name = count_players
-  value = 6/55
+  value = 10/55
   reset_on_launch = false
 }
 
@@ -56,7 +56,7 @@ variable {
 
 variable {
   name = exit_server
-  value = 0
+  value = 
   reset_on_launch = true
 }
 
@@ -92,7 +92,7 @@ variable {
 
 variable {
   name = on_server
-  value = 0
+  value = 
   reset_on_launch = true
 }
 
