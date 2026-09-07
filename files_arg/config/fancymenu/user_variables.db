@@ -14,19 +14,19 @@ variable {
 
 variable {
   name = ping_var
-  value = 153
+  value = 168
   reset_on_launch = false
 }
 
 variable {
   name = last_server
-  value = minecraft.hippa.ru
+  value = 130.49.213.55:25565
   reset_on_launch = false
 }
 
 variable {
   name = count_players
-  value = 10/55
+  value = 1/55
   reset_on_launch = false
 }
 
@@ -38,7 +38,7 @@ variable {
 
 variable {
   name = progress_retry
-  value = 100
+  value = 20
   reset_on_launch = false
 }
 
@@ -56,7 +56,7 @@ variable {
 
 variable {
   name = exit_server
-  value = 
+  value = 1
   reset_on_launch = true
 }
 
@@ -86,13 +86,13 @@ variable {
 
 variable {
   name = ip_server3
-  value = 202.181.188.52:25565
+  value = 87.251.76.210:25565
   reset_on_launch = false
 }
 
 variable {
   name = on_server
-  value = 
+  value = 0
   reset_on_launch = true
 }
 

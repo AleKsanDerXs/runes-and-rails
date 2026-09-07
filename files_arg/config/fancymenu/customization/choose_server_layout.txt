@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = choose_server
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1786501319684
+  last_edited_time = 1788748554932
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ddc6d705-54cc-46bb-9d24-6536f91f6108-1786501247992] = [groups:][instances:]
+  [loading_requirement_container_meta:7ae3dee1-4761-4eaa-95ad-f3112766207f-1788748547857] = [groups:][instances:]
 }
 
 customization {
@@ -764,7 +764,8 @@ element {
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = d70ff4a2-0f65-4eba-ba7b-d33a3dd0dfa6-1785993337317
-  [loading_requirement_container_meta:d70ff4a2-0f65-4eba-ba7b-d33a3dd0dfa6-1785993337317] = [groups:][instances:]
+  [loading_requirement_container_meta:d70ff4a2-0f65-4eba-ba7b-d33a3dd0dfa6-1785993337317] = [groups:][instances:37ba2ff9-e1b8-4fd3-977c-16e8fbc13f33-1788748497282;]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:37ba2ff9-e1b8-4fd3-977c-16e8fbc13f33-1788748497282] = mmm.mmm.mmm
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -829,7 +830,8 @@ element {
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = d70ff4a2-0f65-4eba-ba7b-d33a3dd0dfa6-1785993337317
-  [loading_requirement_container_meta:d70ff4a2-0f65-4eba-ba7b-d33a3dd0dfa6-1785993337317] = [groups:][instances:]
+  [loading_requirement_container_meta:d70ff4a2-0f65-4eba-ba7b-d33a3dd0dfa6-1785993337317] = [groups:][instances:91fbd277-19b4-4292-bf63-102fb27ba421-1788748438719;]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:91fbd277-19b4-4292-bf63-102fb27ba421-1788748438719] = mmm.mmm.mmm
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -902,7 +904,8 @@ element {
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 2a761bd5-3c5f-4d24-96cb-e8ac6151b2d3-1786500699757
-  [loading_requirement_container_meta:2a761bd5-3c5f-4d24-96cb-e8ac6151b2d3-1786500699757] = [groups:][instances:]
+  [loading_requirement_container_meta:2a761bd5-3c5f-4d24-96cb-e8ac6151b2d3-1786500699757] = [groups:][instances:320b973e-9f07-4445-9efc-19768eae99a0-1788748513445;]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:320b973e-9f07-4445-9efc-19768eae99a0-1788748513445] = mmm.mmm.mmm
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -951,7 +954,8 @@ element {
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 1cac2253-3150-42a0-ad60-fdc646c849cd-1786500891555
-  [loading_requirement_container_meta:1cac2253-3150-42a0-ad60-fdc646c849cd-1786500891555] = [groups:][instances:]
+  [loading_requirement_container_meta:1cac2253-3150-42a0-ad60-fdc646c849cd-1786500891555] = [groups:][instances:87f299c7-aa55-4e33-b039-47756bdb11c1-1788748538440;]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:87f299c7-aa55-4e33-b039-47756bdb11c1-1788748538440] = mmm.mmm.mmm
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
