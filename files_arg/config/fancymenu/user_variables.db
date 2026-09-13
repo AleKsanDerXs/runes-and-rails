@@ -14,19 +14,19 @@ variable {
 
 variable {
   name = ping_var
-  value = 168
+  value = 147
   reset_on_launch = false
 }
 
 variable {
   name = last_server
-  value = 130.49.213.55:25565
+  value = play.runes-rails-path.ru
   reset_on_launch = false
 }
 
 variable {
   name = count_players
-  value = 1/55
+  value = 4/55
   reset_on_launch = false
 }
 
@@ -56,7 +56,7 @@ variable {
 
 variable {
   name = exit_server
-  value = 1
+  value = 0
   reset_on_launch = true
 }
 
@@ -69,6 +69,12 @@ variable {
 variable {
   name = ip_server_ex1
   value = minecraft.hippa.ru
+  reset_on_launch = false
+}
+
+variable {
+  name = ip_server5
+  value = play.runes-rails-path.ru
   reset_on_launch = false
 }
 
