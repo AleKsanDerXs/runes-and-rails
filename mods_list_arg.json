@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T22:09:23+03:00",
+  "last_updated": "2026-10-04T22:24:06+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -761,9 +761,9 @@
     },
     {
       "name": "Simulated Rope Npe Fix",
-      "filename": "simulated-rope-npe-fix-1.21.1-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/simulated-rope-npe-fix-1.21.1-1.0.0.jar",
-      "size": 2948,
+      "filename": "simulated-rope-npe-fix-1.21.1-1.2.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/simulated-rope-npe-fix-1.21.1-1.2.2.jar",
+      "size": 5029,
       "required": true
     },
     {
