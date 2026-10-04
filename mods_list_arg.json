@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T22:24:06+03:00",
+  "last_updated": "2026-10-04T22:49:16+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -215,9 +215,9 @@
     },
     {
       "name": "Create Gunsmithing",
-      "filename": "create-gunsmithing-1.21.1-1.4.9.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-gunsmithing-1.21.1-1.4.9.jar",
-      "size": 1819221,
+      "filename": "create-gunsmithing-1.21.1-1.4.8.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-gunsmithing-1.21.1-1.4.8.jar",
+      "size": 1819145,
       "required": true
     },
     {
@@ -677,9 +677,9 @@
     },
     {
       "name": "Pocket Clusters",
-      "filename": "pocket-clusters-1.21.1-1.0.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/pocket-clusters-1.21.1-1.0.0.jar",
-      "size": 67983,
+      "filename": "pocket-clusters-1.21.1-1.0.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/pocket-clusters-1.21.1-1.0.1.jar",
+      "size": 64164,
       "required": true
     },
     {
