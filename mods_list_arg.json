@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T07:08:24+03:00",
+  "last_updated": "2026-10-04T22:09:23+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -12,9 +12,9 @@
     },
     {
       "name": "Aeroclaims",
-      "filename": "aeroclaims-0.9.2.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroclaims-0.9.2.jar",
-      "size": 193059,
+      "filename": "aeroclaims-0.9.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/aeroclaims-0.9.4.jar",
+      "size": 236800,
       "required": true
     },
     {
@@ -47,9 +47,9 @@
     },
     {
       "name": "Alcohol Industry",
-      "filename": "alcohol_industry-2.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alcohol_industry-2.1.jar",
-      "size": 81740,
+      "filename": "alcohol_industry-2.2.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alcohol_industry-2.2.3.jar",
+      "size": 146756,
       "required": true
     },
     {
@@ -57,13 +57,6 @@
       "filename": "alltheleaks-1.1.8+1.21.1-neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/alltheleaks-1.1.8+1.21.1-neoforge.jar",
       "size": 536828,
-      "required": true
-    },
-    {
-      "name": "Angel Islands",
-      "filename": "angel-islands-2.0.3.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/angel-islands-2.0.3.jar",
-      "size": 1240605,
       "required": true
     },
     {
@@ -75,9 +68,9 @@
     },
     {
       "name": "Architectury",
-      "filename": "architectury-13.0.8-neoforge.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/architectury-13.0.8-neoforge.jar",
-      "size": 584004,
+      "filename": "architectury-13.0.11-neoforge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/architectury-13.0.11-neoforge.jar",
+      "size": 584734,
       "required": true
     },
     {
@@ -96,9 +89,9 @@
     },
     {
       "name": "Carryon 1.21.1",
-      "filename": "carryon-neoforge-1.21.1-2.2.5.8.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/carryon-neoforge-1.21.1-2.2.5.8.jar",
-      "size": 357508,
+      "filename": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "size": 361486,
       "required": true
     },
     {
@@ -110,9 +103,9 @@
     },
     {
       "name": "Chatmod",
-      "filename": "chatmod-1.3.3.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chatmod-1.3.3.jar",
-      "size": 43314,
+      "filename": "chatmod-1.3.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/chatmod-1.3.0.jar",
+      "size": 42686,
       "required": true
     },
     {
@@ -124,9 +117,9 @@
     },
     {
       "name": "Climbable Ropes",
-      "filename": "climbable_ropes-2.0.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/climbable_ropes-2.0.1.jar",
-      "size": 241760,
+      "filename": "climbable_ropes-2.1.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/climbable_ropes-2.1.4.jar",
+      "size": 256035,
       "required": true
     },
     {
@@ -151,10 +144,10 @@
       "required": true
     },
     {
-      "name": "Copycats 3.0.4+mc.1.21.1",
-      "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "size": 1791747,
+      "name": "Copycats",
+      "filename": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+      "size": 1799381,
       "required": true
     },
     {
@@ -187,44 +180,44 @@
     },
     {
       "name": "Create Aeronautics Bundled",
-      "filename": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "size": 33120013,
+      "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "size": 33123131,
       "required": true
     },
     {
       "name": "Create Aeronautics Transmission Linkage",
-      "filename": "create_aeronautics_transmission_linkage-0.2.5.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_aeronautics_transmission_linkage-0.2.5.jar",
-      "size": 666943,
+      "filename": "create_aeronautics_transmission_linkage-0.2.8.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_aeronautics_transmission_linkage-0.2.8.jar",
+      "size": 734744,
       "required": true
     },
     {
       "name": "Create Collision Fix",
-      "filename": "create-collision-fix-1.21.1-1.0.4.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-collision-fix-1.21.1-1.0.4.jar",
-      "size": 3372,
+      "filename": "create-collision-fix-1.21.1-1.1.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-collision-fix-1.21.1-1.1.1.jar",
+      "size": 6755,
       "required": true
     },
     {
       "name": "Create Connected",
-      "filename": "create_connected-1.2.0-mc1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_connected-1.2.0-mc1.21.1.jar",
-      "size": 6557328,
+      "filename": "create_connected-1.3.3-mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_connected-1.3.3-mc1.21.1.jar",
+      "size": 6786783,
       "required": true
     },
     {
       "name": "Create Enchantment Industry",
-      "filename": "create-enchantment-industry-2.3.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-enchantment-industry-2.3.1.jar",
-      "size": 684729,
+      "filename": "create-enchantment-industry-2.5.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-enchantment-industry-2.5.4.jar",
+      "size": 1607409,
       "required": true
     },
     {
       "name": "Create Gunsmithing",
-      "filename": "create-gunsmithing-1.21.1-1.4.8.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-gunsmithing-1.21.1-1.4.8.jar",
-      "size": 1819145,
+      "filename": "create-gunsmithing-1.21.1-1.4.9.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create-gunsmithing-1.21.1-1.4.9.jar",
+      "size": 1819221,
       "required": true
     },
     {
@@ -249,17 +242,17 @@
       "required": true
     },
     {
-      "name": "Createaddition",
-      "filename": "createaddition-1.5.10.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createaddition-1.5.10.jar",
-      "size": 1595173,
-      "required": true
-    },
-    {
       "name": "Createbigcannons",
       "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbigcannons-5.11.7+mc.1.21.1.jar",
       "size": 3771506,
+      "required": true
+    },
+    {
+      "name": "Createcobblestone",
+      "filename": "createcobblestone-1.5.0+neoforge-1.21.1-153.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createcobblestone-1.5.0%2Bneoforge-1.21.1-153.jar",
+      "size": 573391,
       "required": true
     },
     {
@@ -271,16 +264,16 @@
     },
     {
       "name": "Createdieselgenerators",
-      "filename": "createdieselgenerators-1.21.1-1.3.11.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createdieselgenerators-1.21.1-1.3.11.jar",
-      "size": 3132480,
+      "filename": "createdieselgenerators-1.21.1-1.3.15.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "size": 3154746,
       "required": true
     },
     {
       "name": "Createdragonsplus",
-      "filename": "CreateDragonsPlus-1.10.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/CreateDragonsPlus-1.10.1.jar",
-      "size": 759631,
+      "filename": "CreateDragonsPlus-1.11.9.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/CreateDragonsPlus-1.11.9.jar",
+      "size": 1085674,
       "required": true
     },
     {
@@ -295,6 +288,13 @@
       "filename": "creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/creategoggles-1.21.1-6.1.1-.NEOFORGE.jar",
       "size": 180932,
+      "required": true
+    },
+    {
+      "name": "Createpropulsion",
+      "filename": "createpropulsion-1.1.5.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createpropulsion-1.1.5.jar",
+      "size": 1707765,
       "required": true
     },
     {
@@ -340,6 +340,13 @@
       "required": true
     },
     {
+      "name": "Dndesires",
+      "filename": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/DnDesires-1.21.1-2.3a-BETA.jar",
+      "size": 1249099,
+      "required": true
+    },
+    {
       "name": "Dobbymod",
       "filename": "dobbymod-1.0.0.4.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/dobbymod-1.0.0.4.jar",
@@ -358,6 +365,13 @@
       "filename": "drivebywire-0.3.0.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/drivebywire-0.3.0.jar",
       "size": 273144,
+      "required": true
+    },
+    {
+      "name": "Drivebywire Typewriter",
+      "filename": "drivebywire-typewriter-1.2.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/drivebywire-typewriter-1.2.0.jar",
+      "size": 176414,
       "required": true
     },
     {
@@ -404,9 +418,9 @@
     },
     {
       "name": "Exposure 1.21.1",
-      "filename": "exposure-neoforge-1.21.1-1.9.18.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/exposure-neoforge-1.21.1-1.9.18.jar",
-      "size": 2192415,
+      "filename": "exposure-neoforge-1.21.1-1.9.19.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/exposure-neoforge-1.21.1-1.9.19.jar",
+      "size": 2206392,
       "required": true
     },
     {
@@ -418,9 +432,9 @@
     },
     {
       "name": "Farmersdelight",
-      "filename": "FarmersDelight-1.21.1-1.3.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FarmersDelight-1.21.1-1.3.1.jar",
-      "size": 3124506,
+      "filename": "FarmersDelight-1.21.1-1.3.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "size": 3160490,
       "required": true
     },
     {
@@ -481,16 +495,16 @@
     },
     {
       "name": "Geckolib 1.21.1",
-      "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/geckolib-neoforge-1.21.1-4.9.2.jar",
-      "size": 630584,
+      "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "size": 634531,
       "required": true
     },
     {
       "name": "Gimpanum",
-      "filename": "gimpanum-0.1.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gimpanum-0.1.0.jar",
-      "size": 114001,
+      "filename": "gimpanum-1.21.1-0.2.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gimpanum-1.21.1-0.2.0.jar",
+      "size": 2290474,
       "required": true
     },
     {
@@ -516,30 +530,23 @@
     },
     {
       "name": "Itemskins",
-      "filename": "itemskins-0.1.4.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/itemskins-0.1.4.jar",
-      "size": 105779,
-      "required": true
-    },
-    {
-      "name": "Itemskins",
-      "filename": "itemskins-0.1.5.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/itemskins-0.1.5.jar",
-      "size": 106346,
+      "filename": "itemskins-0.1.3.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/itemskins-0.1.3.jar",
+      "size": 105719,
       "required": true
     },
     {
       "name": "Jade",
-      "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Jade-1.21.1-NeoForge-15.10.5.jar",
-      "size": 725742,
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "size": 726853,
       "required": true
     },
     {
       "name": "Jei",
-      "filename": "jei-1.21.1-neoforge-19.27.0.340.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/jei-1.21.1-neoforge-19.27.0.340.jar",
-      "size": 1529391,
+      "filename": "jei-1.21.1-neoforge-19.57.0.450.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/jei-1.21.1-neoforge-19.57.0.450.jar",
+      "size": 2253016,
       "required": true
     },
     {
@@ -571,17 +578,17 @@
       "required": true
     },
     {
-      "name": "Letsdo Herbalbrews 1.1.3",
-      "filename": "letsdo-herbalbrews-neoforge-1.1.3.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
-      "size": 757160,
+      "name": "Letsdo Herbalbrews 1.1.4",
+      "filename": "letsdo-herbalbrews-neoforge-1.1.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-herbalbrews-neoforge-1.1.4.jar",
+      "size": 760078,
       "required": true
     },
     {
-      "name": "Letsdo Vinery",
-      "filename": "letsdo-vinery-neoforge-1.5.3.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-vinery-neoforge-1.5.3.jar",
-      "size": 2001616,
+      "name": "Letsdo Vinery 1.5.4",
+      "filename": "letsdo-vinery-neoforge-1.5.4.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/letsdo-vinery-neoforge-1.5.4.jar",
+      "size": 2018257,
       "required": true
     },
     {
@@ -593,9 +600,9 @@
     },
     {
       "name": "Lootr 1.21.1",
-      "filename": "lootr-neoforge-1.21.1-1.11.37.120.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
-      "size": 976023,
+      "filename": "lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "size": 1075929,
       "required": true
     },
     {
@@ -603,6 +610,13 @@
       "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "size": 36096,
+      "required": true
+    },
+    {
+      "name": "Mezz Config",
+      "filename": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "size": 327173,
       "required": true
     },
     {
@@ -662,10 +676,24 @@
       "required": true
     },
     {
-      "name": "Polymorph 1.1.0+1.21.1",
-      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/polymorph-neoforge-1.1.0+1.21.1.jar",
-      "size": 174972,
+      "name": "Pocket Clusters",
+      "filename": "pocket-clusters-1.21.1-1.0.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/pocket-clusters-1.21.1-1.0.0.jar",
+      "size": 67983,
+      "required": true
+    },
+    {
+      "name": "Polymorph 1.2.0+1.21.1",
+      "filename": "polymorph-neoforge-1.2.0+1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/polymorph-neoforge-1.2.0%2B1.21.1.jar",
+      "size": 172671,
+      "required": true
+    },
+    {
+      "name": "Powergrid Mc1.21.1",
+      "filename": "powergrid-mc1.21.1-0.6.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/powergrid-mc1.21.1-0.6.2.jar",
+      "size": 5738480,
       "required": true
     },
     {
@@ -676,17 +704,10 @@
       "required": true
     },
     {
-      "name": "Puzzleslib V21.1.51",
-      "filename": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
-      "size": 1425185,
-      "required": true
-    },
-    {
-      "name": "Radiomod",
-      "filename": "radiomod-1.0.2.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/radiomod-1.0.2.jar",
-      "size": 353887,
+      "name": "Puzzleslib V21.1.62 Mc1.21.1+neoforge",
+      "filename": "puzzleslib-v21.1.62-mc1.21.1+neoforge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/puzzleslib-v21.1.62-mc1.21.1%2Bneoforge.jar",
+      "size": 1450242,
       "required": true
     },
     {
@@ -697,10 +718,10 @@
       "required": true
     },
     {
-      "name": "Rhino Build.81",
-      "filename": "rhino-2101.2.7-build.81.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rhino-2101.2.7-build.81.jar",
-      "size": 882033,
+      "name": "Rhino",
+      "filename": "rhino-2101.2.8-build.91.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/rhino-2101.2.8-build.91.jar",
+      "size": 980936,
       "required": true
     },
     {
@@ -719,9 +740,9 @@
     },
     {
       "name": "Sable 1.21.1",
-      "filename": "sable-neoforge-1.21.1-2.0.3.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sable-neoforge-1.21.1-2.0.3.jar",
-      "size": 12889000,
+      "filename": "sable-neoforge-1.21.1-2.0.6.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sable-neoforge-1.21.1-2.0.6.jar",
+      "size": 12986135,
       "required": true
     },
     {
@@ -747,9 +768,9 @@
     },
     {
       "name": "Sliceanddice",
-      "filename": "sliceanddice-forge-4.2.4.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sliceanddice-forge-4.2.4.jar",
-      "size": 406699,
+      "filename": "sliceanddice-4.3.4-neoforge.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sliceanddice-4.3.4-neoforge.jar",
+      "size": 1356389,
       "required": true
     },
     {
@@ -775,23 +796,23 @@
     },
     {
       "name": "Sophisticatedbackpacks",
-      "filename": "sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
-      "size": 1115274,
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+      "size": 1239138,
       "required": true
     },
     {
       "name": "Sophisticatedbackpackscreateintegration",
-      "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
-      "size": 82316,
+      "filename": "sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedbackpackscreateintegration-1.21.1-0.2.1.171.jar",
+      "size": 94445,
       "required": true
     },
     {
       "name": "Sophisticatedcore",
-      "filename": "sophisticatedcore-1.21.1-1.4.43.1912.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedcore-1.21.1-1.4.43.1912.jar",
-      "size": 1629130,
+      "filename": "sophisticatedcore-1.21.1-1.5.5.2363.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sophisticatedcore-1.21.1-1.5.5.2363.jar",
+      "size": 1811070,
       "required": true
     },
     {
@@ -802,10 +823,24 @@
       "required": true
     },
     {
+      "name": "Starcatcher",
+      "filename": "starcatcher-3.3.4-NEOFORGE-1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/starcatcher-3.3.4-NEOFORGE-1.21.1.jar",
+      "size": 4787385,
+      "required": true
+    },
+    {
+      "name": "Tfmg",
+      "filename": "tfmg-1.21.1-1.3.2a-community.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/tfmg-1.21.1-1.3.2a-community.jar",
+      "size": 5534993,
+      "required": true
+    },
+    {
       "name": "Tracks Plus",
-      "filename": "tracks_plus-1.0.5.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/tracks_plus-1.0.5.jar",
-      "size": 610174,
+      "filename": "tracks_plus-1.0.6b7.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/tracks_plus-1.0.6b7.jar",
+      "size": 613537,
       "required": true
     },
     {
@@ -823,10 +858,10 @@
       "required": true
     },
     {
-      "name": "Voicechat",
-      "filename": "voicechat-neoforge-1.21.1-2.6.17.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/voicechat-neoforge-1.21.1-2.6.17.jar",
-      "size": 4902096,
+      "name": "Voicechat 1.21.1",
+      "filename": "voicechat-neoforge-1.21.1-2.6.24.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/voicechat-neoforge-1.21.1-2.6.24.jar",
+      "size": 4934688,
       "required": true
     },
     {
