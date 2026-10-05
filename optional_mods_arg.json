@@ -188,7 +188,16 @@
       "size": 154879,
       "hash": "e7a952bf976b75ec735b4634a1a4beeb",
       "required": false
+    },
+    {
+      "filename": "world_preview-1.3.1.jar",
+      "display_name": "World Preview",
+      "description": "Предпросмотр генерации мира: на экране создания мира показывает, как будет выглядеть карта по выбранному сиду.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/world_preview-1.3.1.jar",
+      "size": 362043,
+      "hash": "56f3dbb01778c1fc6107c5449a89dcc2",
+      "required": false
     }
   ],
-  "last_updated": "2026-08-10T16:01:32+03:00"
+  "last_updated": "2026-10-05T10:31:06+03:00"
 }
