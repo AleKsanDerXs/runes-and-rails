@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T22:49:16+03:00",
+  "last_updated": "2026-10-05T10:14:25+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -159,9 +159,9 @@
     },
     {
       "name": "Corpseclaimsfix",
-      "filename": "corpseclaimsfix-1.3.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/corpseclaimsfix-1.3.0.jar",
-      "size": 6012,
+      "filename": "corpseclaimsfix-1.3.2.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/corpseclaimsfix-1.3.2.jar",
+      "size": 6067,
       "required": true
     },
     {
@@ -232,6 +232,13 @@
       "filename": "create_radar-0.4.9.4-1.21.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/create_radar-0.4.9.4-1.21.1.jar",
       "size": 2990812,
+      "required": true
+    },
+    {
+      "name": "Create Structures Arise",
+      "filename": "Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
+      "size": 1843340,
       "required": true
     },
     {
@@ -677,9 +684,9 @@
     },
     {
       "name": "Pocket Clusters",
-      "filename": "pocket-clusters-1.21.1-1.0.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/pocket-clusters-1.21.1-1.0.1.jar",
-      "size": 64164,
+      "filename": "pocket-clusters-1.21.1-1.1.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/pocket-clusters-1.21.1-1.1.0.jar",
+      "size": 71205,
       "required": true
     },
     {
@@ -708,6 +715,13 @@
       "filename": "puzzleslib-v21.1.62-mc1.21.1+neoforge.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/puzzleslib-v21.1.62-mc1.21.1%2Bneoforge.jar",
       "size": 1450242,
+      "required": true
+    },
+    {
+      "name": "Railways",
+      "filename": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
+      "size": 18728584,
       "required": true
     },
     {
@@ -827,13 +841,6 @@
       "filename": "starcatcher-3.3.4-NEOFORGE-1.21.1.jar",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/starcatcher-3.3.4-NEOFORGE-1.21.1.jar",
       "size": 4787385,
-      "required": true
-    },
-    {
-      "name": "Tfmg",
-      "filename": "tfmg-1.21.1-1.3.2a-community.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/tfmg-1.21.1-1.3.2a-community.jar",
-      "size": 5534993,
       "required": true
     },
     {
