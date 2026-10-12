@@ -251,7 +251,16 @@
       "size": 362043,
       "hash": "56f3dbb01778c1fc6107c5449a89dcc2",
       "required": false
+    },
+    {
+      "filename": "worldedit-mod-7.3.8.jar",
+      "display_name": "WorldEdit",
+      "description": "A Minecraft Map Editor... that runs in-game!\nWith selections, schematics, copy and paste, brushes, and scripting.\nUse it in creative, or use it temporarily in survival.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/worldedit-mod-7.3.8.jar",
+      "size": 6222854,
+      "hash": "f5d6f09ca5c4b1958780d01a099b779d",
+      "required": false
     }
   ],
-  "last_updated": "2026-10-11T12:16:10+03:00"
+  "last_updated": "2026-10-12T13:22:22+03:00"
 }
