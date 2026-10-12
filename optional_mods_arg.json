@@ -10,6 +10,15 @@
       "required": false
     },
     {
+      "filename": "ash_api-neoforge-21.1.1.jar",
+      "display_name": "Ash Api 21.1.1",
+      "description": "Библиотека. Необходима для мода shuffle.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ash_api-neoforge-21.1.1.jar",
+      "size": 30484,
+      "hash": "26efc511c54369008dbbf449e67dbe07",
+      "required": false
+    },
+    {
       "filename": "bloodyparticles-neoforge-1.21.1-4.0.0.jar",
       "display_name": "Bloodyparticles 1.21.1",
       "description": "Кровь.... Мноооогоо кровиии...",
@@ -25,6 +34,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bobby_reneoforged-5.2.4-0.4%2Bmc1.21.jar",
       "size": 1199051,
       "hash": "6cd54223d4a5466cbdeacccd09c19ad8",
+      "required": false
+    },
+    {
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "display_name": "Cloth Config API",
+      "description": "Configuration Library for Minecraft Mods",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "hash": "4c3757160403fcccb8ad468c2ea22862",
       "required": false
     },
     {
@@ -262,5 +280,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-12T13:22:22+03:00"
+  "last_updated": "2026-10-12T16:56:12+03:00"
 }
