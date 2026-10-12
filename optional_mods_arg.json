@@ -91,12 +91,30 @@
       "required": false
     },
     {
+      "filename": "InvMove-0.9.3+1.21.1-NeoForge.jar",
+      "display_name": "InvMove",
+      "description": "Добавляет возможность перемещаться, находясь в инвентаре",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/InvMove-0.9.3%2B1.21.1-NeoForge.jar",
+      "size": 87005,
+      "hash": "23c74a4184b17664a65a044181a00296",
+      "required": false
+    },
+    {
       "filename": "lambdynamiclights-4.8.10+1.21.1.jar",
       "display_name": "Lambdynamiclights",
       "description": "Добавляет динамическое освещение в Minecraft — самый многофункциональный и оптимизированный мод на динамическое освещение.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/lambdynamiclights-4.8.10%2B1.21.1.jar",
       "size": 2022585,
       "hash": "2987072d76db05c5834cfd8c0377a62d",
+      "required": false
+    },
+    {
+      "filename": "let-them-talk-1.0.1+1.21.1+neoforge.jar",
+      "display_name": "Let Them Talk (LTT)",
+      "description": "Клиентский аддон для Plasmo Voice и Simple Voice Chat, который приглушает музыку и другие приложения, пока кто-то говорит.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/let-them-talk-1.0.1%2B1.21.1%2Bneoforge.jar",
+      "size": 393116,
+      "hash": "33855100585e334f3c2de32ef644a37f",
       "required": false
     },
     {
@@ -136,6 +154,15 @@
       "required": false
     },
     {
+      "filename": "punchy-2.8e-neoforge-1.21.1.jar",
+      "display_name": "Punchy!",
+      "description": "Мод, добавляющий различные анимации от первого лица и видимые руки с предметами в них!",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/punchy-2.8e-neoforge-1.21.1.jar",
+      "size": 1867182,
+      "hash": "5e3c80e94753566ff9e728a8af49aaf3",
+      "required": false
+    },
+    {
       "filename": "rrls-5.0.11+mc1.21.1-forge.jar",
       "display_name": "Rrls",
       "description": "Позволяет подгружать ресурспак сервера в фоне (может при начальной загрузке сломать на время отображение главного меню)",
@@ -154,6 +181,24 @@
       "required": false
     },
     {
+      "filename": "shine-2.0.1+1.21.1-neoforge.jar",
+      "display_name": "Shine",
+      "description": "Делает Minecraft живым благодаря множеству визуальных эффектов.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/shine-2.0.1%2B1.21.1-neoforge.jar",
+      "size": 398661,
+      "hash": "6f7315f0708ccce5379c6af7e19dafa1",
+      "required": false
+    },
+    {
+      "filename": "shuffle-neoforge-21.1.0.jar",
+      "display_name": "Shuffle",
+      "description": "Позволяет случайным образом размещать блоки с панели быстрого доступа",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/shuffle-neoforge-21.1.0.jar",
+      "size": 88930,
+      "hash": "24f5f6092ba03366f6c2cfb4a835b660",
+      "required": false
+    },
+    {
       "filename": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "display_name": "Skinlayers3D 1.11.1 Mc1.21.1",
       "description": "Делает второй слой скина (волосы, шляпы, одежду) объёмным и трёхмерным вместо плоского. Персонажи выглядят детальнее и реалистичнее.",
@@ -169,6 +214,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "size": 202454,
       "hash": "126d0548f933cb1d25f4404198b5bf52",
+      "required": false
+    },
+    {
+      "filename": "spatial-gui-1.7.2+1.21.1-neoforge.jar",
+      "display_name": "Spatial GUI",
+      "description": "Клиентский мод, который отображает экраны инвентаря и контейнеров в виде трехмерной плоскости.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/spatial-gui-1.7.2%2B1.21.1-neoforge.jar",
+      "size": 251869,
+      "hash": "b939ed72d781bf9901638ca6f1564746",
       "required": false
     },
     {
@@ -199,5 +253,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-05T10:31:06+03:00"
+  "last_updated": "2026-10-11T12:16:10+03:00"
 }
