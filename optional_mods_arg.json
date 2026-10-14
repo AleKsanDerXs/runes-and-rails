@@ -226,6 +226,15 @@
       "required": false
     },
     {
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "display_name": "Searchables",
+      "description": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "size": 77326,
+      "hash": "0a0a8665bb4d77e3f8139750cb98d9e4",
+      "required": false
+    },
+    {
       "filename": "shine-2.0.1+1.21.1-neoforge.jar",
       "display_name": "Shine",
       "description": "Делает Minecraft живым благодаря множеству визуальных эффектов.",
@@ -307,5 +316,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-14T13:21:58+03:00"
+  "last_updated": "2026-10-14T17:41:05+03:00"
 }
