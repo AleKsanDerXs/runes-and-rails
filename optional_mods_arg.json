@@ -19,6 +19,15 @@
       "required": false
     },
     {
+      "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "display_name": "BetterF3",
+      "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "size": 481646,
+      "hash": "ece6a3a01373146d2f351ba721e0083d",
+      "required": false
+    },
+    {
       "filename": "bloodyparticles-neoforge-1.21.1-4.0.0.jar",
       "display_name": "Bloodyparticles 1.21.1",
       "description": "Кровь.... Мноооогоо кровиии...",
@@ -37,12 +46,30 @@
       "required": false
     },
     {
+      "filename": "borderless-neoforge-1.21.1-1.7.5_1-all.jar",
+      "display_name": "Borderless Window",
+      "description": "Enables the fullscreen mode 'Borderless Window', which replaces the standard Minecraft fullscreen",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/borderless-neoforge-1.21.1-1.7.5_1-all.jar",
+      "size": 47359,
+      "hash": "258cb66d2d455f45c1f14fe58474d250",
+      "required": false
+    },
+    {
       "filename": "cloth-config-15.0.140-neoforge.jar",
       "display_name": "Cloth Config API",
       "description": "Configuration Library for Minecraft Mods",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cloth-config-15.0.140-neoforge.jar",
       "size": 1163890,
       "hash": "4c3757160403fcccb8ad468c2ea22862",
+      "required": false
+    },
+    {
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "display_name": "Controlling",
+      "description": "Adds a search bar to the Key-Bindings menu",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "size": 77555,
+      "hash": "7141c2d0bb774dc6e4481be32b685179",
       "required": false
     },
     {
@@ -280,5 +307,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-12T16:56:12+03:00"
+  "last_updated": "2026-10-14T13:21:58+03:00"
 }
