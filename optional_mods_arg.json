@@ -10,12 +10,30 @@
       "required": false
     },
     {
+      "filename": "armor_hud-neoforge-3.5.0+1.21.1.jar",
+      "display_name": "Armor Hud",
+      "description": "Выводит прочность брони на экран.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/armor_hud-neoforge-3.5.0%2B1.21.1.jar",
+      "size": 437877,
+      "hash": "781b70ec6df784002071f71431bd073d",
+      "required": false
+    },
+    {
       "filename": "ash_api-neoforge-21.1.1.jar",
       "display_name": "Ash Api 21.1.1",
       "description": "Библиотека. Необходима для мода shuffle.",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/ash_api-neoforge-21.1.1.jar",
       "size": 30484,
       "hash": "26efc511c54369008dbbf449e67dbe07",
+      "required": false
+    },
+    {
+      "filename": "BetterThirdPerson-neoforge-1.9.0.jar",
+      "display_name": "Better Third Person",
+      "description": "Добавляет ещё один вид от 3 лица, через плечо.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "size": 60941,
+      "hash": "cb6470da1b6bbe6880fcf721aa87e0e1",
       "required": false
     },
     {
@@ -190,12 +208,12 @@
       "required": false
     },
     {
-      "filename": "net-diag-1.21.1-0.2.0.jar",
+      "filename": "net-diag-1.21.1-0.2.1.jar",
       "display_name": "Net Diag",
-      "description": "Мод для диагностики подключения",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/net-diag-1.21.1-0.2.0.jar",
-      "size": 38347,
-      "hash": "7f17da09d93aefc72f6d0c955f8a58e3",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/net-diag-1.21.1-0.2.1.jar",
+      "size": 39880,
+      "hash": "b37f39bf12bc2617357e9b5398f88dd2",
       "required": false
     },
     {
@@ -325,5 +343,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-18T07:25:33+03:00"
+  "last_updated": "2026-10-18T07:47:13+03:00"
 }
