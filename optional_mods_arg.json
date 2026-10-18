@@ -190,6 +190,15 @@
       "required": false
     },
     {
+      "filename": "net-diag-1.21.1-0.2.0.jar",
+      "display_name": "Net Diag",
+      "description": "",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/net-diag-1.21.1-0.2.0.jar",
+      "size": 38347,
+      "hash": "7f17da09d93aefc72f6d0c955f8a58e3",
+      "required": false
+    },
+    {
       "filename": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
       "display_name": "Notenoughanimations 1.12.3 Mc1.21.1",
       "description": "Добавляет множество плавных анимаций для персонажа: еда, питьё, стрельба из лука, лазание, плавание и другие действия становятся более живыми как от первого, так и от третьего лица.",
@@ -316,5 +325,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-14T17:41:05+03:00"
+  "last_updated": "2026-10-17T20:25:58+03:00"
 }
