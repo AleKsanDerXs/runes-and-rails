@@ -192,7 +192,7 @@
     {
       "filename": "net-diag-1.21.1-0.2.0.jar",
       "display_name": "Net Diag",
-      "description": "",
+      "description": "Мод для диагностики подключения",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/net-diag-1.21.1-0.2.0.jar",
       "size": 38347,
       "hash": "7f17da09d93aefc72f6d0c955f8a58e3",
@@ -325,5 +325,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-17T20:25:58+03:00"
+  "last_updated": "2026-10-18T07:25:33+03:00"
 }
