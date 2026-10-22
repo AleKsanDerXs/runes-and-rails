@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T15:50:30+03:00",
+  "last_updated": "2026-10-22T18:26:04+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -410,10 +410,10 @@
       "required": true
     },
     {
-      "name": "Entityculling 1.10.5 Mc1.21.1",
-      "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-      "size": 1585287,
+      "name": "Entityculling 1.11.3 Mc1.21.1",
+      "filename": "entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "size": 1510075,
       "required": true
     },
     {
