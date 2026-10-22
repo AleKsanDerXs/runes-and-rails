@@ -262,15 +262,6 @@
       "required": false
     },
     {
-      "filename": "shine-2.0.1+1.21.1-neoforge.jar",
-      "display_name": "Shine",
-      "description": "Делает Minecraft живым благодаря множеству визуальных эффектов.",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/shine-2.0.1%2B1.21.1-neoforge.jar",
-      "size": 398661,
-      "hash": "6f7315f0708ccce5379c6af7e19dafa1",
-      "required": false
-    },
-    {
       "filename": "shuffle-neoforge-21.1.0.jar",
       "display_name": "Shuffle",
       "description": "Позволяет случайным образом размещать блоки с панели быстрого доступа",
@@ -343,5 +334,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-18T08:18:59+03:00"
+  "last_updated": "2026-10-22T15:45:03+03:00"
 }
