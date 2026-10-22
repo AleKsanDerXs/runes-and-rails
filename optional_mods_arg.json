@@ -28,6 +28,15 @@
       "required": false
     },
     {
+      "filename": "bbe-neoforge-1.3.4+mc1.21.1.jar",
+      "display_name": "Better Block Entities",
+      "description": "A Minecraft optimization mod for Fabric-Sodium that improves framerates by improving block entity rendering via a hybrid renderer",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bbe-neoforge-1.3.4%2Bmc1.21.1.jar",
+      "size": 177265,
+      "hash": "918b662f9a3d30af2d560234bdfa06de",
+      "required": false
+    },
+    {
       "filename": "BetterThirdPerson-neoforge-1.9.0.jar",
       "display_name": "Better Third Person",
       "description": "Добавляет ещё один вид от 3 лица, через плечо.",
@@ -97,6 +106,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/createbetterfps-1.21.1-1.1.4.jar",
       "size": 26547,
       "hash": "88827dcbad6f5bf8974c40e6fff77ed5",
+      "required": false
+    },
+    {
+      "filename": "cullleaves-neoforge-4.1.1+1.21.1.jar",
+      "display_name": "Cull Leaves",
+      "description": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cullleaves-neoforge-4.1.1%2B1.21.1.jar",
+      "size": 94735,
+      "hash": "2b0b25cd86a1bb1179862aa4088677aa",
       "required": false
     },
     {
@@ -196,6 +214,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
       "size": 289244,
       "hash": "825d27ec312e7142b678904ef94ab9bf",
+      "required": false
+    },
+    {
+      "filename": "modelfix-1.21-1.10.jar",
+      "display_name": "Model Gap Fix",
+      "description": "Fixes gaps in Block Models and Item Models",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/modelfix-1.21-1.10.jar",
+      "size": 47035,
+      "hash": "a1acc6b33742012829d9b1de1ff4a7e7",
       "required": false
     },
     {
@@ -334,5 +361,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-22T15:45:03+03:00"
+  "last_updated": "2026-10-22T17:20:58+03:00"
 }
