@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T15:58:58+03:00",
+  "last_updated": "2026-10-24T12:23:24+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -110,9 +110,9 @@
     },
     {
       "name": "Clansmod",
-      "filename": "clansmod-1.11.3.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/clansmod-1.11.3.jar",
-      "size": 551749,
+      "filename": "clansmod-1.11.12.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/clansmod-1.11.12.jar",
+      "size": 572862,
       "required": true
     },
     {
