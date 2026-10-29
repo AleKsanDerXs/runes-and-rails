@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-10-04T22:16:34+03:00",
+  "last_updated": "2026-10-29T12:00:58+03:00",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -389,13 +389,13 @@
         },
         {
           "relative_path": "customization/title_screen_layout.txt",
-          "size": 67363,
-          "hash": "f1fdfb001d4ebf9b363be31535f05342",
+          "size": 67365,
+          "hash": "176b070c54f4a07e2fbef7940c0d7a5f",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
           "description": "Автоматически добавлен при обновлении: title_screen_layout.txt",
-          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/./config/fancymenu/customization/title_screen_layout.txt"
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/config/fancymenu/customization/title_screen_layout.txt"
         },
         {
           "relative_path": "customization/choose_server_layout.txt",
