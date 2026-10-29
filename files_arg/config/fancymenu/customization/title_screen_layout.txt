@@ -45,7 +45,7 @@ layout_action_executable_blocks {
   [executable_action_instance:2e8026f8-e60c-42d3-8b67-3ae4f507adb0-1786002807297][action_type:set_variable] = ip_server:minecraft2.hippa.ru
   [executable_action_instance:1709d8e0-a311-47ea-8bae-18e36667cbb8-1786002835220][action_type:set_variable] = ip_server2:minecraft3.runes-and-rails.ru
   [executable_action_instance:85a930f7-c0eb-4902-8c54-8a02e5787f87-1786003060018][action_type:set_variable] = ip_server3:87.251.76.210:25565
-  [executable_action_instance:c4a6a5c0-df9a-484b-9eb1-d3ab2461abdb-1786512114468][action_type:set_variable] = ip_server4:130.49.213.55:25565
+  [executable_action_instance:c4a6a5c0-df9a-484b-9eb1-d3ab2461abdb-1786512114468][action_type:set_variable] = ip_server4:213.109.202.231:25565
   [executable_action_instance:431c2f20-b925-481a-8b7d-b597c698e3c8-1786512191011][action_type:set_variable] = ip_server_ex1:minecraft.hippa.ru
   [executable_action_instance:0fcccaee-ce6c-43a1-8c6a-248bec684bc7-1786512215761][action_type:set_variable] = ip_server_ex2:runes.minecraft.surf
   [executable_action_instance:fdafc8f7-e92e-4a6f-98e3-53335fa5d18d-1789280161624][action_type:set_variable] = ip_server5:play.runes-rails-path.ru
