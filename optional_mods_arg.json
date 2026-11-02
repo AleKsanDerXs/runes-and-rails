@@ -10,6 +10,15 @@
       "required": false
     },
     {
+      "filename": "architects_toolbox-neoforge-1.0.0+mc1.21.1-neoforge21.1.77.jar",
+      "display_name": "Architects Measuring Tape",
+      "description": "Визуальное пособие для построения различных фигур и путей. Позволяет легче измерять местность",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/architects_toolbox-neoforge-1.0.0%2Bmc1.21.1-neoforge21.1.77.jar",
+      "size": 130555,
+      "hash": "96b27c27089be93ff825e64965225aed",
+      "required": false
+    },
+    {
       "filename": "armor_hud-neoforge-3.5.0+1.21.1.jar",
       "display_name": "Armor Hud",
       "description": "Выводит прочность брони на экран.",
@@ -30,7 +39,7 @@
     {
       "filename": "bbe-neoforge-1.3.4+mc1.21.1.jar",
       "display_name": "Better Block Entities",
-      "description": "A Minecraft optimization mod for Fabric-Sodium that improves framerates by improving block entity rendering via a hybrid renderer",
+      "description": "«Мод для оптимизации Minecraft (для Fabric + Sodium), который повышает частоту кадров за счёт улучшения отрисовки блок‑сущностей с помощью гибридного рендерера",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/bbe-neoforge-1.3.4%2Bmc1.21.1.jar",
       "size": 177265,
       "hash": "918b662f9a3d30af2d560234bdfa06de",
@@ -75,7 +84,7 @@
     {
       "filename": "borderless-neoforge-1.21.1-1.7.5_1-all.jar",
       "display_name": "Borderless Window",
-      "description": "Enables the fullscreen mode 'Borderless Window', which replaces the standard Minecraft fullscreen",
+      "description": "Включает режим полноэкранного отображения „Безрамочное окно“ (Borderless Window), который заменяет стандартный полноэкранный режим в Minecraft",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/borderless-neoforge-1.21.1-1.7.5_1-all.jar",
       "size": 47359,
       "hash": "258cb66d2d455f45c1f14fe58474d250",
@@ -93,7 +102,7 @@
     {
       "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
       "display_name": "Controlling",
-      "description": "Adds a search bar to the Key-Bindings menu",
+      "description": "Добавляет строку поиска в меню привязки клавиш (Key Bindings)",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "size": 77555,
       "hash": "7141c2d0bb774dc6e4481be32b685179",
@@ -111,7 +120,7 @@
     {
       "filename": "cullleaves-neoforge-4.1.1+1.21.1.jar",
       "display_name": "Cull Leaves",
-      "description": "Adds culling to leaf blocks, providing a huge performance boost over vanilla.",
+      "description": "Добавляет отсечение (culling) для блоков листвы, обеспечивая значительный прирост производительности по сравнению с ванильной версией",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/cullleaves-neoforge-4.1.1%2B1.21.1.jar",
       "size": 94735,
       "hash": "2b0b25cd86a1bb1179862aa4088677aa",
@@ -291,7 +300,7 @@
     {
       "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
       "display_name": "Searchables",
-      "description": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
+      "description": "Searchables — это библиотечный мод, который добавляет вспомогательные методы для поиска и фильтрации элементов на основе компонентов, а также предоставляет встроенную функцию автодополнения",
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "size": 77326,
       "hash": "0a0a8665bb4d77e3f8139750cb98d9e4",
@@ -370,5 +379,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-10-24T13:10:40+03:00"
+  "last_updated": "2026-11-02T06:08:57+03:00"
 }
