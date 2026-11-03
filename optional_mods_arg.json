@@ -377,7 +377,16 @@
       "size": 6222854,
       "hash": "f5d6f09ca5c4b1958780d01a099b779d",
       "required": false
+    },
+    {
+      "filename": "zakoopt-2.0.3+1.21.1-neoforge.jar",
+      "display_name": "ZakoOpt",
+      "description": "Оптимизация на стороне клиента для частой смены появления мобов, фарма мобов и работы с толпами сущностей. Работает с Sodium и без него, с Iris, VulkanMod и Lunar Client.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/zakoopt-2.0.3%2B1.21.1-neoforge.jar",
+      "size": 581002,
+      "hash": "d596267737a4aeffc1a9f37468e79a8e",
+      "required": false
     }
   ],
-  "last_updated": "2026-11-02T06:08:57+03:00"
+  "last_updated": "2026-11-03T11:53:26+03:00"
 }
