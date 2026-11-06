@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T08:37:13+03:00",
+  "last_updated": "2026-11-06T19:45:00+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -313,9 +313,9 @@
     },
     {
       "name": "Crystalmod",
-      "filename": "crystalmod-1.1.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/crystalmod-1.1.0.jar",
-      "size": 140987,
+      "filename": "crystalmod-1.6.0.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/crystalmod-1.6.0.jar",
+      "size": 253708,
       "required": true
     },
     {
