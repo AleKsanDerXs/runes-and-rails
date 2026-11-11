@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-10-29T12:00:58+03:00",
+  "last_updated": "2026-11-11T20:28:47+03:00",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -435,6 +435,95 @@
           "ignore_hash": false,
           "description": "Автоматически добавлен при обновлении: player-defined.json",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/config/inventoryprofilesnext/integrationHints/player-defined.json"
+        }
+      ]
+    },
+    {
+      "id": "kubejs_sabra",
+      "base_path": "kubejs",
+      "type": "specific_files",
+      "strict_mode": false,
+      "description": "KubeJS: предметы и текстуры Steel Armor Blocks",
+      "files": [
+        {
+          "relative_path": "startup_scripts/sabra_ingots.js",
+          "size": 1211,
+          "hash": "b388b5b70e6e1ee5c383444a62b40830",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/startup_scripts/sabra_ingots.js"
+        },
+        {
+          "relative_path": "assets/kubejs/lang/ru_ru.json",
+          "size": 27824,
+          "hash": "42afaef93aa3fd180368a6d9ee535c5e",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/lang/ru_ru.json"
+        },
+        {
+          "relative_path": "assets/kubejs/textures/item/titan_ingot.png",
+          "size": 8201,
+          "hash": "b941c8ed4e08895b5b0a3470a3805ff7",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/titan_ingot.png"
+        },
+        {
+          "relative_path": "assets/kubejs/textures/item/titan_ore.png",
+          "size": 1267,
+          "hash": "6c2d825d4b1417ac8995c9ab47964706",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/titan_ore.png"
+        },
+        {
+          "relative_path": "assets/kubejs/textures/item/wolfram_ingot.png",
+          "size": 11995,
+          "hash": "43d5c7322fa28fd8ed341719e6181501",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/wolfram_ingot.png"
+        },
+        {
+          "relative_path": "assets/kubejs/textures/item/wolfram_ore.png",
+          "size": 781008,
+          "hash": "5caad8bc7aba800a8f3ddd5457c6bc5a",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/wolfram_ore.png"
+        },
+        {
+          "relative_path": "assets/kubejs/textures/item/titanwolfram_alloy.png",
+          "size": 11898,
+          "hash": "323105588a18a65a6cae9cb5b9ebf2f7",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/titanwolfram_alloy.png"
+        },
+        {
+          "relative_path": "assets/kubejs/textures/item/ultimate_alloy.png",
+          "size": 546149,
+          "hash": "b35797c825d8bb0f872cac59e2a8acdd",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/ultimate_alloy.png"
         }
       ]
     }
