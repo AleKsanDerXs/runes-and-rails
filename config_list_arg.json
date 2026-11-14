@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-11-11T20:28:47+03:00",
+  "last_updated": "2026-11-14T16:13:15+03:00",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -447,8 +447,8 @@
       "files": [
         {
           "relative_path": "startup_scripts/sabra_ingots.js",
-          "size": 1211,
-          "hash": "b388b5b70e6e1ee5c383444a62b40830",
+          "size": 1212,
+          "hash": "ce7744e9762b6d413274177cbc74cae3",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -457,8 +457,8 @@
         },
         {
           "relative_path": "assets/kubejs/lang/ru_ru.json",
-          "size": 27824,
-          "hash": "42afaef93aa3fd180368a6d9ee535c5e",
+          "size": 27882,
+          "hash": "686c097d6f20a310f4b3e95d4020bd0f",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -487,8 +487,8 @@
         },
         {
           "relative_path": "assets/kubejs/textures/item/wolfram_ingot.png",
-          "size": 11995,
-          "hash": "43d5c7322fa28fd8ed341719e6181501",
+          "size": 122493,
+          "hash": "34a21cfc5fb45a054fc56dd49dea41a3",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -524,6 +524,16 @@
           "ignore_hash": false,
           "description": "",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/assets/kubejs/textures/item/ultimate_alloy.png"
+        },
+        {
+          "relative_path": "startup_scripts/DestroyBlock_fix.js",
+          "size": 1558,
+          "hash": "5833dcf949176f1cc6b4449e531f69c7",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/kubejs/startup_scripts/DestroyBlock_fix.js"
         }
       ]
     }
