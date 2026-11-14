@@ -12,12 +12,12 @@ StartupEvents.registry('item', event => {
 
     event.create('wolfram_ingot')
         .displayName('Слиток вольфрама')
-        .tooltip(Text.of('Не уроните на ногу...').gray())
+        .tooltip(Text.of('Бьет точно в сердце').gray())
         .glow(false)
 
     event.create('wolfram_ore')
         .displayName('Вольфрамит')
-        .tooltip(Text.of('Крупные залежи этой руды были найдены на ').gray())
+        .tooltip(Text.of('Крупные залежи этой руды были найдены на...').gray())
         .glow(false)
 
     event.create('titanwolfram_alloy')
