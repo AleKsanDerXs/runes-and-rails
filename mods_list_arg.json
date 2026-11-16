@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T16:56:54+03:00",
+  "last_updated": "2026-11-16T08:31:11+03:00",
   "minecraft_version": "1.20.1",
   "forge_version": "47.2.17",
   "mods": [
@@ -509,9 +509,9 @@
     },
     {
       "name": "Gimpanum",
-      "filename": "gimpanum-1.21.1-0.2.0.jar",
-      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gimpanum-1.21.1-0.2.0.jar",
-      "size": 2290474,
+      "filename": "gimpanum-1.21.1-0.2.5-xaerofix-prod.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/gimpanum-1.21.1-0.2.5-xaerofix-prod.jar",
+      "size": 2403364,
       "required": true
     },
     {
