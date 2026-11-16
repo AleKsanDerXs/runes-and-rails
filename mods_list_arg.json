@@ -898,6 +898,13 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/xaeroworldmap-neoforge-1.21.1-1.43.0.jar",
       "size": 1415354,
       "required": true
+    },
+    {
+      "name": "Let It Walk",
+      "filename": "let_it_walk-0.1.5.jar",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/let_it_walk-0.1.5.jar",
+      "size": 730661,
+      "required": true
     }
   ]
 }
