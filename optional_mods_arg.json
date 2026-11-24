@@ -145,6 +145,15 @@
       "required": false
     },
     {
+      "filename": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+      "display_name": "Do a Barrel Roll",
+      "description": "«Do a Barrel Roll» — это легковесный мод, работающий исключительно на стороне клиента. Он делает полёт на элитрах более увлекательным и отчасти реалистичным. Это достигается за счёт переработки механики движения с учётом полной свободы ориентации камеры: во время полёта вы получаете возможность полноценно управлять тангажом, рысканием и креном.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+      "size": 465787,
+      "hash": "92ad2f96176a94d07283b1bd0ec76d5e",
+      "required": false
+    },
+    {
       "filename": "ExtremeSoundMuffler-3.57_NeoForge-1.21.jar",
       "display_name": "Extreme sound muffler",
       "description": "Extreme sound muffler is a client side mod that allows you to muffle sounds selectively.",
@@ -259,6 +268,15 @@
       "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/MossyLib-1.4.0+1.21.1+neoforge.jar",
       "size": 178375,
       "hash": "d8ad60d336dd1f9fc77706f852a83cd6",
+      "required": false
+    },
+    {
+      "filename": "MyTotemDoll-2.6.0+1.21.1+neoforge.jar",
+      "display_name": "My Totem Doll",
+      "description": "Заменяет обычные тотемы на автоматически сгенерированные 2D или 3D тотемы для КАЖДОГО игрока в Minecraft! Переименуйте свой тотем в ник игрока, чтобы использовать его скин.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/MyTotemDoll-2.6.0%2B1.21.1%2Bneoforge.jar",
+      "size": 1835988,
+      "hash": "6dc87883976689524c3111ae6f8597f4",
       "required": false
     },
     {
@@ -406,5 +424,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-11-17T13:29:38+03:00"
+  "last_updated": "2026-11-24T03:15:41+03:00"
 }
