@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-11-24T06:21:08+03:00",
+  "last_updated": "2026-11-24T06:56:55+03:00",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -389,8 +389,8 @@
         },
         {
           "relative_path": "customization/title_screen_layout.txt",
-          "size": 68821,
-          "hash": "5f9ffecf83cc5264ea67e521ce99ba10",
+          "size": 68829,
+          "hash": "7e66193897043cac3ae93d89ad61030d",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
@@ -426,6 +426,16 @@
           "ignore_hash": false,
           "description": "",
           "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/config/fancymenu/assets/logo_arg_newyear.png"
+        },
+        {
+          "relative_path": "assets/background_menu_arg_newyear.png",
+          "size": 3223841,
+          "hash": "3d7adfe4854784141aa8c1ee44fd3c91",
+          "required": true,
+          "ignore_size": false,
+          "ignore_hash": false,
+          "description": "",
+          "download_url": "https://raw.githubusercontent.com/AleKsanDerXs/runes-and-rails/main/files_arg/config/fancymenu/assets/background_menu_arg_newyear.png"
         }
       ]
     },
