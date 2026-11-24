@@ -194,7 +194,7 @@ element {
   fade_in_speed = 1.0
   fade_out = no_fading
   fade_out_speed = 1.0
-  base_opacity = 1.0
+  base_opacity = 0.2
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1002
@@ -226,7 +226,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/logo_arg_2.png
+  source = [source:local]/config/fancymenu/assets/logo_arg_newyear.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -247,8 +247,8 @@ element {
   auto_sizing_base_screen_height = 1002
   sticky_anchor = false
   anchor_point = mid-centered
-  x = 102
-  y = -131
+  x = 92
+  y = -140
   width = 218
   height = 131
   stretch_x = false
