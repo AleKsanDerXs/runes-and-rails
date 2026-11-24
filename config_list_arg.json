@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-11-24T05:13:31+03:00",
+  "last_updated": "2026-11-24T06:21:08+03:00",
   "description": "Конфигурация файлов для модпака",
   "config_paths": [
     {
@@ -419,8 +419,8 @@
         },
         {
           "relative_path": "assets/logo_arg_newyear.png",
-          "size": 437706,
-          "hash": "a4168e86af1fbbc28b3b4c7d04150cd1",
+          "size": 2548498,
+          "hash": "7cfbbf9ca88c62a92dffea4c375cdb1e",
           "required": true,
           "ignore_size": false,
           "ignore_hash": false,
