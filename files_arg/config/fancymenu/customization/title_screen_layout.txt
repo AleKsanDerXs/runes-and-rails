@@ -226,6 +226,53 @@ element {
 }
 
 element {
+  source = [source:local]/config/fancymenu/assets/logo_arg_2.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  image_tint = #FFFFFF
+  restart_animated_on_menu_load = false
+  element_type = image
+  instance_identifier = 623ab152-018c-b151-6c78-938e28716e67-1795486027153
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = first_time
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1002
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 102
+  y = -131
+  width = 218
+  height = 131
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e78e12fc-d45d-37b0-ebfa-7a6df5d53149-1795486027153
+  [loading_requirement_container_meta:7b5ce827-f6df-6ad7-049c-f82594440fe8-1795486027153] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
   button_element_executable_block_identifier = 9289e702-1b15-4069-9b97-486db444f42b-1768968430933
   [executable_action_instance:d40f6ac7-74ee-4c51-b6d7-0d5e917c8021-1768968811509][action_type:openlink] = https://runes-and-rails.ru/shop
   [executable_block:9289e702-1b15-4069-9b97-486db444f42b-1768968430933][type:generic] = [executables:d40f6ac7-74ee-4c51-b6d7-0d5e917c8021-1768968811509;]
