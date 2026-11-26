@@ -415,6 +415,15 @@
       "required": false
     },
     {
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "display_name": "YetAnotherConfigLib (YACL)",
+      "description": "Библиотека конфигураций для Minecraft на основе конструктора! Необходима для мода My Totem Doll.",
+      "download_url": "https://github.com/AleKsanDerXs/runes-and-rails/releases/download/Mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "size": 1118651,
+      "hash": "c346120062c3364a0d215c228354030e",
+      "required": false
+    },
+    {
       "filename": "zakoopt-2.0.3+1.21.1-neoforge.jar",
       "display_name": "ZakoOpt",
       "description": "Оптимизация на стороне клиента для частой смены появления мобов, фарма мобов и работы с толпами сущностей. Работает с Sodium и без него, с Iris, VulkanMod и Lunar Client.",
@@ -424,5 +433,5 @@
       "required": false
     }
   ],
-  "last_updated": "2026-11-24T03:15:41+03:00"
+  "last_updated": "2026-11-26T11:41:43+03:00"
 }
